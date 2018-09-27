@@ -6,17 +6,26 @@
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/tp.py" timestamp="1538042153169">
         <mark key="[" line="2" column="1" />
       </file>
+      <file name="/Dummy.txt" timestamp="1537951055123">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1538041886654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1524196569592">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/672064082/builtins.py" timestamp="1537515881223">
+        <mark key="'" line="2569" column="11" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/em.py" timestamp="1524151279538">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/test.py" timestamp="1537418461198">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/1/calculating_with_dictionaries/example.py" timestamp="1524214989627">
         <mark key="[" line="8" column="0" />
@@ -32,8 +41,23 @@
       <file name="/anaconda3/envs/crawler/lib/python3.6/site-packages/scrapy/mail.py" timestamp="1537945945436">
         <mark key="'" line="126" column="61" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/builtin_func.py" timestamp="1538041879501">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/tmpTest.py" timestamp="1526634601802">
+        <mark key="'" line="13" column="27" />
+      </file>
+      <file name="/anaconda3/envs/crawler/lib/python3.6/site-packages/scrapy/spiders/__init__.py" timestamp="1537515370088">
+        <mark key="'" line="64" column="23" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/builtin_func.py" timestamp="1538053882463">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/.gitignore" timestamp="1537425219969">
         <mark key="'" line="0" column="10" />
@@ -80,27 +104,6 @@
       <file name="/dummy.sql" timestamp="1524157841674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537951055123">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/672064082/builtins.py" timestamp="1537515881223">
-        <mark key="'" line="2569" column="11" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/test.py" timestamp="1537418461198">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/tmpTest.py" timestamp="1526634601802">
-        <mark key="'" line="13" column="27" />
-      </file>
-      <file name="/anaconda3/envs/crawler/lib/python3.6/site-packages/scrapy/spiders/__init__.py" timestamp="1537515370088">
-        <mark key="'" line="64" column="23" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/tmppp.py" timestamp="1538041820230">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="8" />
@@ -134,7 +137,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -146,31 +149,31 @@
         <text encoding="base64">ICAgICAgICAgICBzZWxmLmNhci5icmFrZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JhcHkubWFpbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci5naXRpZ25vcmUKLmlkZWEvCl9fcHljYWNoZV9fLwplbnZpcm9ubWVudC55bWwKbXlzcGlkZXIucHkK</text>
+        <text encoding="base64">ICAgICAgICBzY3JhcHkubWFpbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGluZSA9ICdhc2RmIGZqZGs7IGFmZWQsICBmamVrLGFzZGYsIGZvbycKaW1wb3J0IHJlCnMgPSByZS5zcGxpdChyJ1s7LFxzXVxzKicsbGluZSkKcHJpbnQocykK</text>
+        <text encoding="base64">Ci5naXRpZ25vcmUKLmlkZWEvCl9fcHljYWNoZV9fLwplbnZpcm9ubWVudC55bWwKbXlzcGlkZXIucHkK</text>
       </register>
       <register name="6" type="2">
-        <text />
+        <text encoding="base64">bGluZSA9ICdhc2RmIGZqZGs7IGFmZWQsICBmamVrLGFzZGYsIGZvbycKaW1wb3J0IHJlCnMgPSByZS5zcGxpdChyJ1s7LFxzXVxzKicsbGluZSkKcHJpbnQocykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVxdWUKCgpkZWYgc2VhcmNoKGxpbmVzLCBwYXR0ZXJuLCBoaXN0b3J5PTUpOgogICAgcHJldmlvdXNfbGluZXMgPSBkZXF1ZShtYXhsZW49aGlzdG9yeSkKICAgIGZvciBsaSBpbiBsaW5lczoKICAgICAgICBpZiBwYXR0ZXJuIGluIGxpOgogICAgICAgICAgICB5aWVsZCBsaSwgcHJldmlvdXNfbGluZXMKICAgICAgICBwcmV2aW91c19saW5lcy5hcHBlbmQobGkpCgojIEV4YW1wbGUgdXNlIG9uIGEgZmlsZQppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgd2l0aCBvcGVuKHInLi9zb21lZmlsZS50eHQnKSBhcyBmOgogICAgICAgIGZvciBsaW5lLCBwcmV2bGluZXMgaW4gc2VhcmNoKGYsICdweXRob24nLCA1KToKICAgICAgICAgICAgZm9yIHBsaW5lIGluIHByZXZsaW5lczoKICAgICAgICAgICAgICAgIHByaW50KHBsaW5lLCBlbmQ9JycpCiAgICAgICAgICAgIHByaW50KGxpbmUsIGVuZD0nJykK</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0nICogMjApCg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVxdWUKCgpkZWYgc2VhcmNoKGxpbmVzLCBwYXR0ZXJuLCBoaXN0b3J5PTUpOgogICAgcHJldmlvdXNfbGluZXMgPSBkZXF1ZShtYXhsZW49aGlzdG9yeSkKICAgIGZvciBsaSBpbiBsaW5lczoKICAgICAgICBpZiBwYXR0ZXJuIGluIGxpOgogICAgICAgICAgICB5aWVsZCBsaSwgcHJldmlvdXNfbGluZXMKICAgICAgICBwcmV2aW91c19saW5lcy5hcHBlbmQobGkpCgojIEV4YW1wbGUgdXNlIG9uIGEgZmlsZQppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgd2l0aCBvcGVuKHInLi9zb21lZmlsZS50eHQnKSBhcyBmOgogICAgICAgIGZvciBsaW5lLCBwcmV2bGluZXMgaW4gc2VhcmNoKGYsICdweXRob24nLCA1KToKICAgICAgICAgICAgZm9yIHBsaW5lIGluIHByZXZsaW5lczoKICAgICAgICAgICAgICAgIHByaW50KHBsaW5lLCBlbmQ9JycpCiAgICAgICAgICAgIHByaW50KGxpbmUsIGVuZD0nJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgVHJ1ZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy0nICogMjApCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
