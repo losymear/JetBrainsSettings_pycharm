@@ -1,0 +1,46 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/n/bin/node" />
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="$USER_HOME$/n/n/versions/node/9.8.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/n/n/versions/node/9.5.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/n/n/versions/node/9.2.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/n/n/versions/node/8.11.1/bin/node" />
+    <local-interpreter path="$USER_HOME$/n/n/versions/node/8.10.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/n/n/versions/node/8.9.4/bin/node" />
+    <local-interpreter path="$USER_HOME$/n/n/versions/node/8.9.2/bin/node" />
+    <local-interpreter path="$USER_HOME$/n/n/versions/node/6.9.1/bin/node" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/etc/losFiles/projects/py/cookbook/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/venv/bin/python" value="false" />
+        <entry key="/anaconda3/envs/crawler/bin/python" value="true" />
+        <entry key="/anaconda3/envs/learnpy/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/etc/losFiles/projects/py/cookbook/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/venv/bin/python" value="false" />
+        <entry key="/anaconda3/envs/crawler/bin/python" value="false" />
+        <entry key="/anaconda3/envs/learnpy/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/etc/losFiles/projects/py/cookbook/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/venv/bin/python" value="false" />
+        <entry key="/anaconda3/envs/crawler/bin/python" value="false" />
+        <entry key="/anaconda3/envs/learnpy/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-04-19T13:25:31</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.1.1.0.0</property>
+    <property name="modified">2018-09-27T17:40:36</property>
+    <property name="originalScheme">Default</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_RENAMED" value="4242" />
+  </colors>
+</scheme>
