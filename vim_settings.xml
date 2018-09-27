@@ -53,11 +53,11 @@
       <file name="/anaconda3/envs/crawler/lib/python3.6/site-packages/scrapy/spiders/__init__.py" timestamp="1537515370088">
         <mark key="'" line="64" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/builtin_func.py" timestamp="1538053882463">
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/builtin_func.py" timestamp="1538054792083">
         <mark key="[" line="7" column="26" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="9" column="0" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/.gitignore" timestamp="1537425219969">
         <mark key="'" line="0" column="10" />
