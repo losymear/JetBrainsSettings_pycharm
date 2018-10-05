@@ -35,11 +35,11 @@
       <file name="/anaconda3/envs/crawler/lib/python3.6/site-packages/scrapy/mail.py" timestamp="1537945945436">
         <mark key="'" line="126" column="61" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/builtin_func.py" timestamp="1538118838228">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="9" />
-        <mark key="^" line="7" column="9" />
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/builtin_func.py" timestamp="1538765006866">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/.gitignore" timestamp="1537425219969">
         <mark key="'" line="0" column="10" />
@@ -151,7 +151,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG51bWJlcnMuUmVhbAo=</text>
+        <text encoding="base64">aW1wb3J0IG51bWJlcnMK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -163,31 +163,31 @@
         <text encoding="base64">ICAgICAgICAgICBzZWxmLmNhci5icmFrZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG51bWJlcnMuUmVhbAo=</text>
+        <text encoding="base64">aW1wb3J0IG51bWJlcnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG51bWJlcnMuUmVhbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3QodmFsdWUpOgogICAgcHJpbnQodmFsdWUpCgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3QoYWxsKFszLDQsNV0pKQo=</text>
+        <text encoding="base64">ZGVmIHRlc3QodmFsdWUpOgogICAgcHJpbnQodmFsdWUpCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHRlc3QoYWxsKFszLDQsNV0pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JhcHkubWFpbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci5naXRpZ25vcmUKLmlkZWEvCl9fcHljYWNoZV9fLwplbnZpcm9ubWVudC55bWwKbXlzcGlkZXIucHkK</text>
+        <text encoding="base64">ICAgICAgICBzY3JhcHkubWFpbAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
