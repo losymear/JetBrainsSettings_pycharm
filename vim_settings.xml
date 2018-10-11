@@ -41,11 +41,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539171562763">
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/.gitignore" timestamp="1537425219969">
         <mark key="'" line="0" column="10" />
@@ -175,7 +176,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">b3MuUGF0aExpa2UK</text>
+        <text encoding="base64">cCA9IFBhdGgoIi4iKQpxID0gcCAvICdweXRob25fbm92aWNlJyAvICdfX2luaXRfXy5weScKd2l0aCBxLm9wZW4oKSBhcyBmOgogICAgcz1mLnJlYWRsaW5lKCkKICAgIHByaW50KHMpCgphPSBQdXJlUGF0aCgiZmQiKQoKJ2ZhcycgLyBwCg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -187,32 +188,32 @@
         <text encoding="base64">ICAgICAgICAgICBzZWxmLmNhci5icmFrZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3MuUGF0aExpa2UK</text>
+        <text encoding="base64">cCA9IFBhdGgoIi4iKQpxID0gcCAvICdweXRob25fbm92aWNlJyAvICdfX2luaXRfXy5weScKd2l0aCBxLm9wZW4oKSBhcyBmOgogICAgcz1mLnJlYWRsaW5lKCkKICAgIHByaW50KHMpCgphPSBQdXJlUGF0aCgiZmQiKQoKJ2ZhcycgLyBwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">b3MuUGF0aExpa2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQocS5yZXNvbHZlKCkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">cHJpbnQocS5yZXNvbHZlKCkpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">cSA9IHAgLyAiaW5pdC5kIiAvICJyZWJvdCIK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>p.resolve()
 )</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">UGF0aAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoX19uYW1lX18pCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">cHJpbnQoX19uYW1lX18pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
