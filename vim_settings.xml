@@ -114,6 +114,13 @@
         <mark key="]" line="64" column="5" />
         <mark key="." line="64" column="5" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" timestamp="1539328347657">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="31" column="49" />
+        <mark key="]" line="31" column="72" />
+        <mark key="." line="31" column="72" />
+        <mark key="^" line="31" column="72" />
+      </file>
       <file name="/Dummy.txt" timestamp="1539320913538">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,10 +197,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" />
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" />
       <jump line="7" column="32" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/test_threading.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" />
+      <jump line="17" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" />
+      <jump line="26" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>args</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBhdGhuYW1lKQo=</text>
       </register>
       <register name="-" type="4">
         <text>args</text>
@@ -202,34 +212,37 @@
         <text>hash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUodGhyZWFkaW5nLmdldDEoKT09MSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBTX0lTRElSKG1vZGUpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rlc3Qoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHRocmVhZGluZy5nZXQxKCk9PTEpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBhdGhuYW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
+        <text encoding="base64">IiIiIFRPRE86ICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldDEoKmFyZ3MpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInt9IOaYr+aWh+S7tuWkuSIuZm9ybWF0KHBhdGhuYW1lKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgb3MucGF0aC5leGlzdHModGFyZ2V0Zm9sZGVyKSBpcyBGYWxzZToKICAgICAgICAgICAgICAgIHRhcmdldGZvbGRlci5ta2RpcigpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc3VjCg==</text>
+      <register name="5" type="4">
+        <text>Path(target, Path(pathname).relative_to(srcPath))):
+                Path
+            copyfiles(pathname, target)
+        elif S_ISREG(mode):</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoIm1lIikKCgpjbGFzcyBtZToKICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYXRobmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cCA9IFBhdGgoIi4iKQpxID0gcCAvICdweXRob25fbm92aWNlJyAvICdfX2luaXRfXy5weScKd2l0aCBxLm9wZW4oKSBhcyBmOgogICAgcz1mLnJlYWRsaW5lKCkKICAgIHByaW50KHMpCgphPSBQdXJlUGF0aCgiZmQiKQoKJ2ZhcycgLyBwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3MuUGF0aExpa2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
