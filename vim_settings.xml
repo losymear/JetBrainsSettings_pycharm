@@ -54,12 +54,6 @@
         <mark key="^" line="8" column="93" />
         <mark key="." line="8" column="93" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/.gitignore" timestamp="1537425219969">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/_collections_abc.py" timestamp="1538770509373">
         <mark key="'" line="766" column="6" />
       </file>
@@ -107,11 +101,11 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539319084237">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="13" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539320394287">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1524157841674">
         <mark key="[" line="0" column="0" />
@@ -123,6 +117,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1539161112304">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/test_threading.py" timestamp="1539320361436">
+        <mark key="'" line="7" column="32" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/672064082/builtins.py" timestamp="1537515881223">
         <mark key="'" line="2569" column="11" />
@@ -190,47 +190,47 @@
       <jump line="766" column="6" filename="/anaconda3/envs/learnpy/lib/python3.6/_collections_abc.py" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" />
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" />
+      <jump line="7" column="32" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/test_threading.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoIm1lIikKCgpjbGFzcyBtZToKICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rlc3Qoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHRocmVhZGluZy5nZXQxKCk9PTEpCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>hash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzZWxmLmNhci5icmFrZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUodGhyZWFkaW5nLmdldDEoKT09MSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoIm1lIikKCgpjbGFzcyBtZToKICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Rlc3Qoc2VsZik6CiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHRocmVhZGluZy5nZXQxKCk9PTEpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cCA9IFBhdGgoIi4iKQpxID0gcCAvICdweXRob25fbm92aWNlJyAvICdfX2luaXRfXy5weScKd2l0aCBxLm9wZW4oKSBhcyBmOgogICAgcz1mLnJlYWRsaW5lKCkKICAgIHByaW50KHMpCgphPSBQdXJlUGF0aCgiZmQiKQoKJ2ZhcycgLyBwCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3MuUGF0aExpa2UK</text>
+        <text encoding="base64">ZGVmIGdldDEoKmFyZ3MpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQocS5yZXNvbHZlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc3VjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cSA9IHAgLyAiaW5pdC5kIiAvICJyZWJvdCIK</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>p.resolve()
-)</text>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnQoIm1lIikKCgpjbGFzcyBtZToKICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">cCA9IFBhdGgoIi4iKQpxID0gcCAvICdweXRob25fbm92aWNlJyAvICdfX2luaXRfXy5weScKd2l0aCBxLm9wZW4oKSBhcyBmOgogICAgcz1mLnJlYWRsaW5lKCkKICAgIHByaW50KHMpCgphPSBQdXJlUGF0aCgiZmQiKQoKJ2ZhcycgLyBwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UGF0aAo=</text>
+        <text encoding="base64">b3MuUGF0aExpa2UK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
