@@ -107,6 +107,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539319084237">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+      </file>
       <file name="/dummy.sql" timestamp="1524157841674">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,8 +192,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoIm1lIikKCgpjbGFzcyBtZToKICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -199,32 +205,32 @@
         <text encoding="base64">ICAgICAgICAgICBzZWxmLmNhci5icmFrZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cCA9IFBhdGgoIi4iKQpxID0gcCAvICdweXRob25fbm92aWNlJyAvICdfX2luaXRfXy5weScKd2l0aCBxLm9wZW4oKSBhcyBmOgogICAgcz1mLnJlYWRsaW5lKCkKICAgIHByaW50KHMpCgphPSBQdXJlUGF0aCgiZmQiKQoKJ2ZhcycgLyBwCg==</text>
+        <text encoding="base64">cHJpbnQoIm1lIikKCgpjbGFzcyBtZToKICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3MuUGF0aExpa2UK</text>
+        <text encoding="base64">cCA9IFBhdGgoIi4iKQpxID0gcCAvICdweXRob25fbm92aWNlJyAvICdfX2luaXRfXy5weScKd2l0aCBxLm9wZW4oKSBhcyBmOgogICAgcz1mLnJlYWRsaW5lKCkKICAgIHByaW50KHMpCgphPSBQdXJlUGF0aCgiZmQiKQoKJ2ZhcycgLyBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">b3MuUGF0aExpa2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQocS5yZXNvbHZlKCkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">cHJpbnQocS5yZXNvbHZlKCkpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">cSA9IHAgLyAiaW5pdC5kIiAvICJyZWJvdCIK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>p.resolve()
 )</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">UGF0aAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoX19uYW1lX18pCg==</text>
+        <text encoding="base64">UGF0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
