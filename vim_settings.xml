@@ -32,6 +32,12 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/threading_test.py" timestamp="1539417427273">
+        <mark key="'" line="8" column="40" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/anaconda3/envs/crawler/lib/python3.6/site-packages/scrapy/mail.py" timestamp="1537945945436">
         <mark key="'" line="126" column="61" />
       </file>
@@ -100,10 +106,9 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539321825710">
-        <mark key="[" line="8" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539417346221">
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1524157841674">
@@ -141,6 +146,9 @@
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/test_skeleton.py" timestamp="1539417820995">
+        <mark key="[" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/tmpTest.py" timestamp="1526634601802">
         <mark key="'" line="13" column="27" />
@@ -200,10 +208,12 @@
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" />
       <jump line="17" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" />
       <jump line="26" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/threading_test.py" />
+      <jump line="8" column="40" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/threading_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBhdGhuYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>args</text>
@@ -215,34 +225,34 @@
         <text encoding="base64">ICAgICAgICBpZiBTX0lTRElSKG1vZGUpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBhdGhuYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiIFRPRE86ICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInt9IOaYr+aWh+S7tuWkuSIuZm9ybWF0KHBhdGhuYW1lKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBhdGhuYW1lKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">IiIiIFRPRE86ICIiIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInt9IOaYr+aWh+S7tuWkuSIuZm9ybWF0KHBhdGhuYW1lKSkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgb3MucGF0aC5leGlzdHModGFyZ2V0Zm9sZGVyKSBpcyBGYWxzZToKICAgICAgICAgICAgICAgIHRhcmdldGZvbGRlci5ta2RpcigpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>Path(target, Path(pathname).relative_to(srcPath))):
                 Path
             copyfiles(pathname, target)
         elif S_ISREG(mode):</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYXRobmFtZSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYXRobmFtZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
