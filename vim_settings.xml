@@ -64,12 +64,11 @@
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio.py" timestamp="1539610837932">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" timestamp="1539618586403">
-        <mark key="'" line="16" column="14" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="30" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" timestamp="1539622995821">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
         <mark key="[" line="0" column="7" />
@@ -184,6 +183,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.6/queue.py" timestamp="1539521499588" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1506119715/_asyncio.py" timestamp="1539621664445" />
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/test_skeleton.py" timestamp="1539417828586">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="18" />
@@ -272,10 +272,11 @@
       <jump line="1" column="4" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tmp.py" />
       <jump line="25" column="16" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
       <jump line="17" column="14" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
+      <jump line="24" column="3" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jaW8KaW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgIGFzeW5jaW8ucnVuKG1haW4oKSkK</text>
       </register>
       <register name="-" type="4">
         <text>asyncio</text>
@@ -284,34 +285,34 @@
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJfZGVsZXRlID0gcmVxdWVzdHMuZGVsZXRlKCJodHRwczovL2h0dHBiaW4ub3JnL2RlbGV0ZSIpCg==</text>
+        <text encoding="base64">ICAgIGFzeW5jaW8ucnVuKG1haW4oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jaW8KaW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgIGFzeW5jaW8ucnVuKG1haW4oKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXN5bmNpby5ydW4obWFpbigpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXN5bmNpby5ydW4obWFpbigpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXN5bmMgZGVmIG1haW4oKToKICAgIHByaW50KCdIZWxsbyAuLi4nKQogICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQogICAgcHJpbnQoJy4uLiBXb3JsZCEnKQoKCiMgUHl0aG9uIDMuNysKYXN5bmNpby5ydW4obWFpbigpKQo=</text>
+        <text encoding="base64">YXN5bmNpby5UYXNrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJfZ2V0LmNvbnRlbnRkZCkK</text>
+        <text encoding="base64">aW1wb3J0IGFzeW5jaW8KaW1wb3J0IHRpbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJfZ2V0LnRleHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJfZ2V0LnRleHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHIpCg==</text>
+        <text encoding="base64">YXN5bmMgZGVmIG1haW4oKToKICAgIHByaW50KCdIZWxsbyAuLi4nKQogICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQogICAgcHJpbnQoJy4uLiBXb3JsZCEnKQoKCiMgUHl0aG9uIDMuNysKYXN5bmNpby5ydW4obWFpbigpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJfaGVhZCA9IHJlcXVlc3RzLmhlYWQoImh0dHBzOi8vaHR0cGJpbi5vcmcvaGVhZCIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJfZ2V0LmNvbnRlbnRkZCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
