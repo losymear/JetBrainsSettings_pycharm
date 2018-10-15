@@ -172,12 +172,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539576221145">
+      <file name="/anaconda3/envs/pydemos/lib/python3.6/site-packages/requests/api.py" timestamp="1539579309264" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539579334049">
         <mark key="'" line="9" column="14" />
-        <mark key="[" line="19" column="75" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/future_demo.py" timestamp="1539442670150">
         <mark key="[" line="7" column="0" />
@@ -252,8 +252,8 @@
       <jump line="9" column="14" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r_head</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJfZ2V0LnRleHQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>r_head</text>
@@ -265,31 +265,31 @@
         <text encoding="base64">ICAgIHJfZGVsZXRlID0gcmVxdWVzdHMuZGVsZXRlKCJodHRwczovL2h0dHBiaW4ub3JnL2RlbGV0ZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJfaGVhZCA9IHJlcXVlc3RzLmhlYWQoImh0dHBzOi8vaHR0cGJpbi5vcmcvaGVhZCIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJfZ2V0LnRleHQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJfb3B0aW9uCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyDmtYvor5Vwb3N06K+35rGCCg==</text>
+        <text encoding="base64">ICAgIHJfaGVhZCA9IHJlcXVlc3RzLmhlYWQoImh0dHBzOi8vaHR0cGJpbi5vcmcvaGVhZCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyDmtYvor5VnZXTor7fmsYIK</text>
+        <text encoding="base64">ICAgIHJfb3B0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWVzdF9wb3N0KCkK</text>
+        <text encoding="base64">IyDmtYvor5Vwb3N06K+35rGCCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoMikK</text>
+        <text encoding="base64">IyDmtYvor5VnZXTor7fmsYIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoMSkK</text>
+        <text encoding="base64">cmVxdWVzdF9wb3N0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmUK</text>
+        <text encoding="base64">cHJpbnQoMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiIiIOa1i+ivlSAiIiIK</text>
+        <text encoding="base64">cHJpbnQoMSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
