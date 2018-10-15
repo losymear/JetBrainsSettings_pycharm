@@ -3,22 +3,94 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1539441832885">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/1/calculating_with_dictionaries/example.py" timestamp="1524214989627">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/README.md" timestamp="1539317363616">
+        <mark key="[" line="8" column="68" />
+        <mark key="]" line="8" column="93" />
+        <mark key="^" line="8" column="93" />
+        <mark key="." line="8" column="93" />
+      </file>
+      <file name="/anaconda3/envs/learnpy/lib/python3.6/pathlib.py" timestamp="1539169824286">
+        <mark key="[" line="895" column="5" />
+        <mark key="]" line="895" column="5" />
+        <mark key="." line="895" column="5" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" timestamp="1524152004944">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="20" column="9" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a827d6a9-72ab-450a-80f0-3311df78bd01/console.sql" timestamp="1524157792313">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/myspider.py" timestamp="1537951168753">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539441713407">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/queue_demo.py" timestamp="1539521679059">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/test_threading.py" timestamp="1539320361436">
+        <mark key="'" line="7" column="32" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/test.py" timestamp="1537418461198">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/__init__.py" timestamp="1539537493783">
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+      </file>
+      <file name="/anaconda3/envs/pydemos/lib/python3.6/urllib/response.py" timestamp="1539574021642" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/__init__.py" timestamp="1539574332302">
+        <mark key="'" line="10" column="2" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading_demo.py" timestamp="1539441893308">
+        <mark key="^" line="12" column="58" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/tp.py" timestamp="1538042153169">
         <mark key="[" line="2" column="1" />
-      </file>
-      <file name="/Python Console" timestamp="1538041886654">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1524196569592">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1539441832885">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests.py" timestamp="1539537857416">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests.py" timestamp="1539574024888">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="18" />
+        <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/em.py" timestamp="1524151279538">
@@ -26,11 +98,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/1/calculating_with_dictionaries/example.py" timestamp="1524214989627">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/tmp.py" timestamp="1539533980964">
         <mark key="'" line="40" column="28" />
@@ -55,19 +122,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/README.md" timestamp="1539317363616">
-        <mark key="[" line="8" column="68" />
-        <mark key="]" line="8" column="93" />
-        <mark key="^" line="8" column="93" />
-        <mark key="." line="8" column="93" />
-      </file>
       <file name="/JavaScript Console" timestamp="1524152019441">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,40 +134,11 @@
         <mark key="^" line="46" column="26" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/anaconda3/envs/learnpy/lib/python3.6/pathlib.py" timestamp="1539169824286">
-        <mark key="[" line="895" column="5" />
-        <mark key="]" line="895" column="5" />
-        <mark key="." line="895" column="5" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" timestamp="1524152004944">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="20" column="9" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a827d6a9-72ab-450a-80f0-3311df78bd01/console.sql" timestamp="1524157792313">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bd11c8fe-e58a-4ce3-a5d0-a7b39cdf1893/console.sql" timestamp="1524157668004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/myspider.py" timestamp="1537951168753">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539441713407">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="15" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1524157841674">
         <mark key="[" line="0" column="0" />
@@ -130,11 +155,6 @@
         <mark key="]" line="64" column="5" />
         <mark key="." line="64" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/queue_demo.py" timestamp="1539521679059">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" timestamp="1539328347657">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="31" column="49" />
@@ -146,47 +166,24 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.6/queue.py" timestamp="1539521499588" />
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/test_threading.py" timestamp="1539320361436">
-        <mark key="'" line="7" column="32" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/test.py" timestamp="1537418461198">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/test_skeleton.py" timestamp="1539417828586">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/__init__.py" timestamp="1539537493783">
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="46" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" timestamp="1539161054462">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539576221145">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="19" column="75" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/future_demo.py" timestamp="1539442670150">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="97" />
         <mark key="." line="7" column="97" />
         <mark key="^" line="7" column="97" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading_demo.py" timestamp="1539441893308">
-        <mark key="^" line="12" column="58" />
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.6/sched.py" timestamp="1539456321563" />
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/tmppp.py" timestamp="1538041820230">
@@ -250,46 +247,49 @@
       <jump line="33" column="28" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/tmp.py" />
       <jump line="34" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/queue_demo.py" />
       <jump line="32" column="24" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/queue_demo.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" />
+      <jump line="10" column="2" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/__init__.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHVybGxpYi5yZXNwb25zZQo=</text>
+      <register name="&quot;" type="4">
+        <text>r_head</text>
       </register>
       <register name="-" type="4">
-        <text>acquire</text>
+        <text>r_head</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuYWxsX3Rhc2tzX2RvbmU6Cg==</text>
+        <text encoding="base64">ICAgIHJfZGVsZXRlID0gcmVxdWVzdHMuZGVsZXRlKCJodHRwczovL2h0dHBiaW4ub3JnL2RlbGV0ZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHVybGxpYi5yZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgIHJfaGVhZCA9IHJlcXVlc3RzLmhlYWQoImh0dHBzOi8vaHR0cGJpbi5vcmcvaGVhZCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmQgPSBvcy5vcGVuKCcvZGV2L3R0eXAwJywgb3MuT19SRFdSKQo=</text>
+        <text encoding="base64">ICAgIHJfb3B0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cSA9IFF1ZXVlKDEpCnEucHV0KDApCnByaW50KDEpCgoKZGVmIGpvaW5RdWV1ZSgpOgogICAgcHJpbnQoInN0YXJ0IGpvaW4iKQogICAgcS5qb2luKCkKICAgIHByaW50KCJlbmQgam9pbiIpCgoKVGhyZWFkKHRhcmdldD1qb2luUXVldWUpLnN0YXJ0KCkKCgpkZWYgdGVzdExvY2soKToKICAgIHByaW50KCJzdGFydCBnZXR2YWx1ZSIpCiAgICBxLmdldCgpCiAgICBxLnRhc2tfZG9uZSgpCiAgICBwcmludCgiZW5kIGdldHZhbHVlIikKCgpUaHJlYWQodGFyZ2V0PXRlc3RMb2NrKCkpLnN0YXJ0KCkKCgpkZWYgam9pbihzZWxmKToKICAgICcnJ0Jsb2NrcyB1bnRpbCBhbGwgaXRlbXMgaW4gdGhlIFF1ZXVlIGhhdmUgYmVlbiBnb3R0ZW4gYW5kIHByb2Nlc3NlZC4KCiAgICBUaGUgY291bnQgb2YgdW5maW5pc2hlZCB0YXNrcyBnb2VzIHVwIHdoZW5ldmVyIGFuIGl0ZW0gaXMgYWRkZWQgdG8gdGhlCiAgICBxdWV1ZS4gVGhlIGNvdW50IGdvZXMgZG93biB3aGVuZXZlciBhIGNvbnN1bWVyIHRocmVhZCBjYWxscyB0YXNrX2RvbmUoKQogICAgdG8gaW5kaWNhdGUgdGhlIGl0ZW0gd2FzIHJldHJpZXZlZCBhbmQgYWxsIHdvcmsgb24gaXQgaXMgY29tcGxldGUuCgogICAgV2hlbiB0aGUgY291bnQgb2YgdW5maW5pc2hlZCB0YXNrcyBkcm9wcyB0byB6ZXJvLCBqb2luKCkgdW5ibG9ja3MuCiAgICAnJycKICAgIHdpdGggc2VsZi5hbGxfdGFza3NfZG9uZToKICAgICAgICB3aGlsZSBzZWxmLnVuZmluaXNoZWRfdGFza3M6CiAgICAgICAgICAgIHNlbGYuYWxsX3Rhc2tzX2RvbmUud2FpdCgpCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">IyDmtYvor5Vwb3N06K+35rGCCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YzEuCg==</text>
+        <text encoding="base64">IyDmtYvor5VnZXTor7fmsYIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoOCkK</text>
+        <text encoding="base64">cmVxdWVzdF9wb3N0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHEudGFza19kb25lKCkK</text>
+        <text encoding="base64">cHJpbnQoMikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJzdGFydCBqb2luIikK</text>
+        <text encoding="base64">cHJpbnQoMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhyZWFkKHRhcmdldD0pCg==</text>
+        <text encoding="base64">cmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cS4K</text>
+        <text encoding="base64">IiIiIOa1i+ivlSAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
