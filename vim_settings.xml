@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1539596240596">
+      <file name="/a.dummy" timestamp="1539610850082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/1/calculating_with_dictionaries/example.py" timestamp="1524214989627">
@@ -57,11 +57,18 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/anaconda3/envs/pydemos/lib/python3.6/asyncio/__init__.py" timestamp="1539610863338" />
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/test.py" timestamp="1537418461198">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio.py" timestamp="1539610837932">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" timestamp="1539611884390">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
         <mark key="[" line="0" column="7" />
@@ -264,11 +271,11 @@
       <jump line="1" column="4" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tmp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJfZ2V0LmNvbnRlbnRkZCkK</text>
+      <register name="&quot;" type="4">
+        <text>asyncio</text>
       </register>
       <register name="-" type="4">
-        <text>r_head</text>
+        <text>asyncio</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
