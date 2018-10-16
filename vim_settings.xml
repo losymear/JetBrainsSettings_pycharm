@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" timestamp="1539685809412">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" timestamp="1539689548536">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="22" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1539675372532">
         <mark key="[" line="0" column="0" />
@@ -342,44 +342,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZXZlbnQgPSBOb25lCg==</text>
+      <register name="&quot;" type="4">
+        <text>lock</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>lock</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGxvY2s=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqLCBsb29wPU5vbmUpOgo=</text>
+        <text encoding="base64">cHJpbnQoIlxuXG5cbnN0YXJ0IHRlc3RpbmcgbG9jayIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZXZlbnQgPSBOb25lCg==</text>
+        <text encoding="base64">cHJpbnQoIlxuXG5cbnN0YXJ0IHRlc3RpbmcgbG9jayIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">cHJpbnQoInN0YXJ0IHRlc3RpbmcgbG9ja1xuXG5cbiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudCA9IGFzeW5jaW8uRXZlbnQoKQogICAgICAgIHNlbGYuZXZlbnQgPSBldmVudAo=</text>
+        <text encoding="base64">cHJpbnQoInN0YXJ0IHRlc3RpbmcgbG9ja1xuXG5cbiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudCA9IGFzeW5jaW8uRXZlbnQoKQogICAgICAgIHNlbGYuZXZlbnQgPSBldmVudAo=</text>
+        <text encoding="base64">YXN5bmNpby5ydW4oTG9ja1Rlc3QoKS5tYWluKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudCA9IGFzeW5jaW8uRXZlbnQoKQogICAgICAgIHNlbGYuZXZlbnQgPSBldmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy4uLiBnb3QgbG9jayBhZnRlciAycyEuLi4nLCB0aW1lLnN0cmZ0aW1lKCIlWCIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXZlbnRUZXN0Lm1haW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnJywgdGltZS5zdHJmdGltZSgiJVgiKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXN5bmNpby5ydW4oZXZlbnRUZXN0Lm1haW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgne21lc3NhZ2U6MzB9IHt0aW1lOnN9Jy5mb3JtYXQobWVzc2FnZT0id2FpdGluZyBmb3IgbG9jayAuLi4iLCB0aW1lPXRpbWUuc3RyZnRpbWUoIiVYIikpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBhbiBFdmVudCBvYmplY3QuCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnJywgdGltZS5zdHJmdGltZSgiJVgiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudCA9IGFzeW5jaW8uRXZlbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwZm8K</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
