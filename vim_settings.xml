@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1539610850082">
+      <file name="/a.dummy" timestamp="1539670385642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/1/calculating_with_dictionaries/example.py" timestamp="1524214989627">
@@ -83,6 +83,11 @@
         <mark key="." line="10" column="46" />
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.6/urllib/response.py" timestamp="1539574021642" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/requests_demo.py" timestamp="1539670420870">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/__init__.py" timestamp="1539574332302">
         <mark key="'" line="10" column="2" />
         <mark key="[" line="12" column="0" />
@@ -284,7 +289,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGFzeW5jaW8uY29yb3V0aW5lCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RzLlJlc3BvbnNlZGQK</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -296,31 +301,31 @@
         <text encoding="base64">ICAgIGFzeW5jaW8ucnVuKG1haW4oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGFzeW5jaW8uY29yb3V0aW5lCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RzLlJlc3BvbnNlZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhc2sucmUK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RzLlJlc3BvbnNlZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRhc2suCg==</text>
+        <text encoding="base64">QGFzeW5jaW8uY29yb3V0aW5lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YT1hc3luY2lvLlRhc2soY2FuY2VsX21lKCkpCg==</text>
+        <text encoding="base64">ICAgIHRhc2sucmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YS5jYW4K</text>
+        <text encoding="base64">ICAgIHRhc2suCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YSA9IGFzeW5jaW8uY3JlYXRlX3Rhc2soY2FuY2VsX21lKCkpCg==</text>
+        <text encoding="base64">YT1hc3luY2lvLlRhc2soY2FuY2VsX21lKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YS5kbwo=</text>
+        <text encoding="base64">YS5jYW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnZlcnNpb24pCg==</text>
+        <text encoding="base64">YSA9IGFzeW5jaW8uY3JlYXRlX3Rhc2soY2FuY2VsX21lKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">YS5kbwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
