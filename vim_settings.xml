@@ -11,6 +11,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/anaconda3/envs/pydemos/lib/python3.7/asyncio/base_events.py" timestamp="1539666672065" />
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/README.md" timestamp="1539317363616">
         <mark key="[" line="8" column="68" />
         <mark key="]" line="8" column="93" />
@@ -64,10 +65,11 @@
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio.py" timestamp="1539610837932">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" timestamp="1539666652835">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" timestamp="1539668642126">
+        <mark key="'" line="15" column="41" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
         <mark key="[" line="0" column="7" />
@@ -276,10 +278,13 @@
       <jump line="4" column="9" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tmp.py" />
       <jump line="2" column="21" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
       <jump line="8" column="12" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
+      <jump line="26" column="25" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
+      <jump line="15" column="41" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRhc2sucmUK</text>
+        <text encoding="base64">QGFzeW5jaW8uY29yb3V0aW5lCg==</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -291,31 +296,31 @@
         <text encoding="base64">ICAgIGFzeW5jaW8ucnVuKG1haW4oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhc2sucmUK</text>
+        <text encoding="base64">QGFzeW5jaW8uY29yb3V0aW5lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhc2suCg==</text>
+        <text encoding="base64">ICAgIHRhc2sucmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YT1hc3luY2lvLlRhc2soY2FuY2VsX21lKCkpCg==</text>
+        <text encoding="base64">ICAgIHRhc2suCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YS5jYW4K</text>
+        <text encoding="base64">YT1hc3luY2lvLlRhc2soY2FuY2VsX21lKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YSA9IGFzeW5jaW8uY3JlYXRlX3Rhc2soY2FuY2VsX21lKCkpCg==</text>
+        <text encoding="base64">YS5jYW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YS5kbwo=</text>
+        <text encoding="base64">YSA9IGFzeW5jaW8uY3JlYXRlX3Rhc2soY2FuY2VsX21lKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnZlcnNpb24pCg==</text>
+        <text encoding="base64">YS5kbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">cHJpbnQoc3lzLnZlcnNpb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzeW5jaW8uVGFzay5jdXJyZW50X3Rhc2soKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
