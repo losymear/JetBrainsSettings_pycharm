@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" timestamp="1539689548536">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" timestamp="1539689554738">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="48" column="29" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="0" />
+        <mark key="]" line="41" column="74" />
+        <mark key="." line="41" column="74" />
+        <mark key="^" line="41" column="74" />
       </file>
       <file name="/a.dummy" timestamp="1539675372532">
         <mark key="[" line="0" column="0" />
@@ -209,11 +209,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.6/queue.py" timestamp="1539521499588" />
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_server_demo.py" timestamp="1539677234643">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="75" />
-        <mark key="^" line="7" column="71" />
-        <mark key="." line="7" column="71" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_server_demo.py" timestamp="1539692307937">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1506119715/_asyncio.py" timestamp="1539621664445" />
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/test_skeleton.py" timestamp="1539417828586">
