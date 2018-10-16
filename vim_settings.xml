@@ -64,12 +64,11 @@
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio.py" timestamp="1539610837932">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" timestamp="1539659572158">
-        <mark key="'" line="2" column="21" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" timestamp="1539664917971">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="35" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
         <mark key="[" line="0" column="7" />
@@ -141,13 +140,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-      </file>
       <file name="/JavaScript Console" timestamp="1524152019441">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,13 +192,6 @@
         <mark key="." line="4" column="18" />
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.6/site-packages/requests/api.py" timestamp="1539579309264" />
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" timestamp="1539161054462">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="8" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="22" column="20" />
@@ -291,10 +276,11 @@
       <jump line="24" column="3" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
       <jump line="4" column="9" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tmp.py" />
       <jump line="2" column="21" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
+      <jump line="8" column="12" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXN5bmMgZGVmIHRlc3RfY3JfdGhyZWFkKCk6CiAgICBmID0gYXN5bmNpby5ydW5fY29yb3V0aW5lX3RocmVhZHNhZmUoY3IoMyksIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKSkKICAgIGMgPSBmLnJlc3VsdCg0KQogICAgcHJpbnQoYykKCgphc3luY2lvLnJ1bih0ZXN0X2NyX3RocmVhZCgpKQo=</text>
+        <text encoding="base64">YXN5bmMgZGVmIGNyKHRpbWU6IGludCkgLT4gaW50OgogICAgYXdhaXQgYXN5bmNpby5zbGVlcCh0aW1lKQogICAgcmV0dXJuIHRpbWUKCgphc3luYyBkZWYgbWFpbigpOgogICAgZm9yIGYgaW4gYXN5bmNpby5hc19jb21wbGV0ZWQoW2NyKDMpLCBjcigxKV0pOgogICAgICAgIHI6IGludCA9IGF3YWl0IGYKICAgICAgICBwcmludChyKQoKCg==</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -306,31 +292,31 @@
         <text encoding="base64">ICAgIGFzeW5jaW8ucnVuKG1haW4oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXN5bmMgZGVmIHRlc3RfY3JfdGhyZWFkKCk6CiAgICBmID0gYXN5bmNpby5ydW5fY29yb3V0aW5lX3RocmVhZHNhZmUoY3IoMyksIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKSkKICAgIGMgPSBmLnJlc3VsdCg0KQogICAgcHJpbnQoYykKCgphc3luY2lvLnJ1bih0ZXN0X2NyX3RocmVhZCgpKQo=</text>
+        <text encoding="base64">YXN5bmMgZGVmIGNyKHRpbWU6IGludCkgLT4gaW50OgogICAgYXdhaXQgYXN5bmNpby5zbGVlcCh0aW1lKQogICAgcmV0dXJuIHRpbWUKCgphc3luYyBkZWYgbWFpbigpOgogICAgZm9yIGYgaW4gYXN5bmNpby5hc19jb21wbGV0ZWQoW2NyKDMpLCBjcigxKV0pOgogICAgICAgIHI6IGludCA9IGF3YWl0IGYKICAgICAgICBwcmludChyKQoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgQ29yb3V0aW5lCg==</text>
+        <text encoding="base64">YXN5bmMgZGVmIHRlc3RfY3JfdGhyZWFkKCk6CiAgICBmID0gYXN5bmNpby5ydW5fY29yb3V0aW5lX3RocmVhZHNhZmUoY3IoMyksIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKSkKICAgIGMgPSBmLnJlc3VsdCg0KQogICAgcHJpbnQoYykKCgphc3luY2lvLnJ1bih0ZXN0X2NyX3RocmVhZCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGY6IENvcm91dGluZVtBbnksIEFueSwgQW55XQo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgQ29yb3V0aW5lCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGY6IENvcm91dGluZVtBbnksIEFueSwgQW55XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgOnR5cGUgdGltZTogb2JqZWN0CiAgICA6cnR5cGUgaW50CiAgICAiIiIK</text>
+        <text encoding="base64">ICAgIGY6IENvcm91dGluZVtBbnksIEFueSwgQW55XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICIiIgogICAgOnR5cGUgdGltZTogb2JqZWN0CiAgICA6cnR5cGUgaW50CiAgICAiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgOnBhcmFtIGE6IHN0cgogICAgICAgIDpwYXJhbSBiOgogICAgICAgIDpwYXJhbSBjOgo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgOnBhcmFtIGE6IHN0cgogICAgICAgIDpwYXJhbSBiOgogICAgICAgIDpwYXJhbSBjOgogICAgICAgICIiIgogICAgICAgIGQgPSBtYXRoLnNxcnQoYiAqKiAyIC0gNCAqIGEgKiBjKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgOnBhcmFtIGE6IHN0cgogICAgICAgIDpwYXJhbSBiOgogICAgICAgIDpwYXJhbSBjOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6dHlwZSBhOiBpbnQK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgOnBhcmFtIGE6IHN0cgogICAgICAgIDpwYXJhbSBiOgogICAgICAgIDpwYXJhbSBjOgogICAgICAgICIiIgogICAgICAgIGQgPSBtYXRoLnNxcnQoYiAqKiAyIC0gNCAqIGEgKiBjKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
