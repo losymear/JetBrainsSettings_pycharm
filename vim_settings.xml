@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" timestamp="1539685809412">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1539675372532">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,7 +20,7 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_socket_wait_for_data.py" timestamp="1539680693932">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_socket_wait_for_data.py" timestamp="1539681056422">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -66,12 +73,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/test_threading.py" timestamp="1539320361436">
-        <mark key="'" line="7" column="32" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.6/asyncio/__init__.py" timestamp="1539610863338" />
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/test.py" timestamp="1537418461198">
         <mark key="[" line="0" column="0" />
@@ -97,12 +98,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/__init__.py" timestamp="1539574332302">
-        <mark key="'" line="10" column="2" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tmp.py" timestamp="1539658377931">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="22" />
@@ -127,6 +122,9 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" timestamp="1539684747848">
+        <mark key="'" line="635" column="17" />
+      </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.7/asyncio/events.py" timestamp="1539659566561">
         <mark key="[" line="738" column="4" />
         <mark key="]" line="738" column="4" />
@@ -144,12 +142,6 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/threading_test.py" timestamp="1539417427273">
-        <mark key="'" line="8" column="40" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_get_http_header_demo.py" timestamp="1539680682464">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="8" column="0" />
@@ -161,6 +153,10 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/anaconda3/envs/pydemos/lib/python3.7/asyncio/locks.py" timestamp="1539685308495">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="37" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
         <mark key="'" line="0" column="0" />
@@ -337,55 +333,62 @@
       <jump line="9" column="2" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_get_http_header_demo.py" />
       <jump line="47" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_get_http_header_demo.py" />
       <jump line="25" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_socket_wait_for_data.py" />
+      <jump line="464" column="58" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
+      <jump line="628" column="18" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
+      <jump line="630" column="13" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
+      <jump line="632" column="17" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
+      <jump line="633" column="24" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
+      <jump line="635" column="17" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZXZlbnQgPSBOb25lCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text encoding="base64">IGxvY2s=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IiIi5a6Y5pa5ZGVtbyBodHRwczovL2RvY3MucHl0aG9uLm9yZy8zL2xpYnJhcnkvYXN5bmNpby1zdHJlYW0uaHRtbCNleGFtcGxlcwo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqLCBsb29wPU5vbmUpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZXZlbnQgPSBOb25lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBldmVudCA9IGFzeW5jaW8uRXZlbnQoKQogICAgICAgIHNlbGYuZXZlbnQgPSBldmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBldmVudCA9IGFzeW5jaW8uRXZlbnQoKQogICAgICAgIHNlbGYuZXZlbnQgPSBldmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jaW8KaW1wb3J0IHVybGxpYi5wYXJzZQppbXBvcnQgc3lzCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudCA9IGFzeW5jaW8uRXZlbnQoKQogICAgICAgIHNlbGYuZXZlbnQgPSBldmVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXN5bmMgZGVmIHByaW50X2h0dHBfaGVhZGVycyh1cmwpOgogICAgdXJsID0gdXJsbGliLnBhcnNlLnVybHNwbGl0KHVybCkKICAgIGlmIHVybC5zY2hlbWUgPT0gJ2h0dHBzJzoKICAgICAgICByZWFkZXIsIHdyaXRlciA9IGF3YWl0IGFzeW5jaW8ub3Blbl9jb25uZWN0aW9uKAogICAgICAgICAgICB1cmwuaG9zdG5hbWUsIDQ0Mywgc3NsPVRydWUpCiAgICBlbHNlOgogICAgICAgIHJlYWRlciwgd3JpdGVyID0gYXdhaXQgYXN5bmNpby5vcGVuX2Nvbm5lY3Rpb24oCiAgICAgICAgICAgIHVybC5ob3N0bmFtZSwgODApCgogICAgcXVlcnkgPSAoCiAgICAgICAgZiJIRUFEIHt1cmwucGF0aCBvciAnLyd9IEhUVFAvMS4xXHJcbiIKICAgICAgICBmIkhvc3Q6IHt1cmwuaG9zdG5hbWV9XHJcbiIKICAgICAgICBmIlxyXG4iCiAgICApCgogICAgd3JpdGVyLndyaXRlKHF1ZXJ5LmVuY29kZSgndXRmOCcpKQogICAgbGluZSA9IGF3YWl0IHJlYWRlci5yZWFkKCkKICAgIHByaW50KGxpbmUpCiAgICAjIHdoaWxlIFRydWU6CiAgICAjICAgICBsaW5lID0gYXdhaXQgcmVhZGVyLnJlYWRsaW5lKCkKICAgICMgICAgIGlmIG5vdCBsaW5lOgogICAgIyAgICAgICAgIGJyZWFrCiAgICAjICAgICBsaW5lID0gbGluZS5kZWNvZGUoJ2xhdGluMScpLnJzdHJpcCgpCiAgICAjICAgICBpZiBsaW5lOgogICAgIyAgICAgICAgIHByaW50KGYnSFRUUCBoZWFkZXI+IHtsaW5lfScpCgogICAgIyBJZ25vcmUgdGhlIGJvZHksIGNsb3NlIHRoZSBzb2NrZXQKICAgIHdyaXRlci5jbG9zZSgpCgoKdXJsID0gc3lzLmFyZ3ZbMV0KYXN5bmNpby5ydW4ocHJpbnRfaHR0cF9oZWFkZXJzKHVybCkpCg==</text>
+        <text encoding="base64">ZXZlbnRUZXN0Lm1haW4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaW4pCg==</text>
+        <text encoding="base64">YXN5bmNpby5ydW4oZXZlbnRUZXN0Lm1haW4oKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiIi5a6Y5pa5IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBhbiBFdmVudCBvYmplY3QuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBldmVudCA9IGFzeW5jaW8uRXZlbnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search encoding="base64">IGxvY2s=</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern encoding="base64">IGxvY2s=</last-pattern>
       <last-replace>prices</last-replace>
       <last-substitute>prices2</last-substitute>
       <last-dir>1</last-dir>
@@ -402,6 +405,8 @@
         <entry>pass</entry>
         <entry>hash</entry>
         <entry>get</entry>
+        <entry>lock</entry>
+        <entry encoding="base64">IGxvY2s=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prices2/prices</entry>
