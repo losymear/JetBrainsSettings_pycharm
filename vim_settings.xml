@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" timestamp="1539689554738">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="29" />
-        <mark key="]" line="41" column="74" />
-        <mark key="." line="41" column="74" />
-        <mark key="^" line="41" column="74" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" timestamp="1539698629577">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="7" />
       </file>
       <file name="/a.dummy" timestamp="1539675372532">
         <mark key="[" line="0" column="0" />
@@ -340,10 +340,11 @@
       <jump line="633" column="24" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
       <jump line="635" column="17" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lock</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmRpdGlvbi53YWl0KCkK</text>
       </register>
       <register name="-" type="4">
         <text>lock</text>
@@ -352,34 +353,34 @@
         <text encoding="base64">IGxvY2s=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoIlxuXG5cbnN0YXJ0IHRlc3RpbmcgbG9jayIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmRpdGlvbiA9IGFzeW5jaW8uQ29uZGl0aW9uKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoIlxuXG5cbnN0YXJ0IHRlc3RpbmcgbG9jayIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmRpdGlvbi53YWl0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoInN0YXJ0IHRlc3RpbmcgbG9ja1xuXG5cbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmRpdGlvbiA9IGFzeW5jaW8uQ29uZGl0aW9uKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoInN0YXJ0IHRlc3RpbmcgbG9ja1xuXG5cbiIpCg==</text>
+        <text encoding="base64">cHJpbnQoIlxuXG5cbnN0YXJ0IHRlc3RpbmcgbG9jayIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXN5bmNpby5ydW4oTG9ja1Rlc3QoKS5tYWluKCkpCg==</text>
+        <text encoding="base64">cHJpbnQoInN0YXJ0IHRlc3RpbmcgbG9ja1xuXG5cbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy4uLiBnb3QgbG9jayBhZnRlciAycyEuLi4nLCB0aW1lLnN0cmZ0aW1lKCIlWCIpKQo=</text>
+        <text encoding="base64">cHJpbnQoInN0YXJ0IHRlc3RpbmcgbG9ja1xuXG5cbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnJywgdGltZS5zdHJmdGltZSgiJVgiKSkK</text>
+        <text encoding="base64">YXN5bmNpby5ydW4oTG9ja1Rlc3QoKS5tYWluKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgne21lc3NhZ2U6MzB9IHt0aW1lOnN9Jy5mb3JtYXQobWVzc2FnZT0id2FpdGluZyBmb3IgbG9jayAuLi4iLCB0aW1lPXRpbWUuc3RyZnRpbWUoIiVYIikpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJy4uLiBnb3QgbG9jayBhZnRlciAycyEuLi4nLCB0aW1lLnN0cmZ0aW1lKCIlWCIpKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnJywgdGltZS5zdHJmdGltZSgiJVgiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZm8K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgne21lc3NhZ2U6MzB9IHt0aW1lOnN9Jy5mb3JtYXQobWVzc2FnZT0id2FpdGluZyBmb3IgbG9jayAuLi4iLCB0aW1lPXRpbWUuc3RyZnRpbWUoIiVYIikpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
