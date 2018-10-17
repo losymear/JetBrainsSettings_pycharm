@@ -10,8 +10,9 @@
         <mark key="." line="133" column="24" />
         <mark key="^" line="133" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1539675372532">
+      <file name="/a.dummy" timestamp="1539742415292">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_client_demo.py" timestamp="1539715329782">
         <mark key="'" line="0" column="20" />
@@ -89,6 +90,12 @@
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_queue_demo.py" timestamp="1539743806852">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="38" />
+        <mark key="." line="39" column="38" />
+        <mark key="^" line="39" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/requests_demo.py" timestamp="1539670420870">
         <mark key="[" line="23" column="0" />
@@ -342,8 +349,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>demo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
         <text>demo</text>
@@ -355,31 +362,31 @@
         <text encoding="base64">IyBwcmludCgiXG5cblVzZSBDb25kaXRpb24gdG8gbWFrZSBhIGRpYWxvZywgaW4gdHVybiB0byBub3RpZnkoKSBhbmQgd2FpdCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrZXIzID0gYXN5bmNpby5jcmVhdGVfdGFzayhzZWxmLndvcmtlcigzLCAzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBhc3luY2lvLmNyZWF0ZV90YXNrKHNlbGYud29ya2VyKDQsIDQpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JrZXIzID0gYXN5bmNpby5jcmVhdGVfdGFzayhzZWxmLndvcmtlcigzLCAzKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luYyB3aXRoIHNlbGYuYm91bmRlZF9zZW1hcGhvcmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBhc3luY2lvLmNyZWF0ZV90YXNrKHNlbGYud29ya2VyKDQsIDQpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvdW5kZWRfc2VtYXBob3JlOiBhc3luY2lvLkxvY2sK</text>
+        <text encoding="base64">ICAgICAgICBhc3luYyB3aXRoIHNlbGYuYm91bmRlZF9zZW1hcGhvcmU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgic2VtYXBob3JlIGlzIHJlc2xvdmVkIikK</text>
+        <text encoding="base64">ICAgIGJvdW5kZWRfc2VtYXBob3JlOiBhc3luY2lvLkxvY2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgic2VtYXBob3JlIGlzIHJlc2xvdmVkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
