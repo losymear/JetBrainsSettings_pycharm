@@ -85,6 +85,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_streams_tcp_server_demo.py" timestamp="1539758881570">
+        <mark key="'" line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="2" />
@@ -211,6 +214,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1539320913538">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/tmp.py" timestamp="1539791065167">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_server_demo.py" timestamp="1539715339722">
         <mark key="[" line="7" column="11" />
@@ -347,6 +356,8 @@
       <jump line="93" column="14" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
       <jump line="113" column="35" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
+      <jump line="12" column="19" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_streams_tcp_server_demo.py" />
+      <jump line="27" column="19" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_streams_tcp_server_demo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -356,7 +367,7 @@
         <text>demo</text>
       </register>
       <register name="/" type="4">
-        <text>不能</text>
+        <text>asyncio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBwcmludCgiXG5cblVzZSBDb25kaXRpb24gdG8gbWFrZSBhIGRpYWxvZywgaW4gdHVybiB0byBub3RpZnkoKSBhbmQgd2FpdCIpCg==</text>
@@ -393,9 +404,9 @@
       </register>
     </registers>
     <search>
-      <last-search>不能</last-search>
+      <last-search>asyncio</last-search>
       <last-offset />
-      <last-pattern>不能</last-pattern>
+      <last-pattern>asyncio</last-pattern>
       <last-replace>prices</last-replace>
       <last-substitute>prices2</last-substitute>
       <last-dir>1</last-dir>
@@ -417,6 +428,7 @@
         <entry>pig</entry>
         <entry>with</entry>
         <entry>不能</entry>
+        <entry>asyncio</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prices2/prices</entry>
