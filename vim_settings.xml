@@ -3,36 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" timestamp="1539700957439">
-        <mark key="'" line="66" column="47" />
-        <mark key="[" line="66" column="42" />
-        <mark key="]" line="66" column="47" />
-        <mark key="." line="66" column="47" />
-        <mark key="^" line="66" column="47" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" timestamp="1539714846831">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="128" column="35" />
+        <mark key="]" line="133" column="24" />
+        <mark key="." line="133" column="24" />
+        <mark key="^" line="133" column="24" />
       </file>
       <file name="/a.dummy" timestamp="1539675372532">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_client_demo.py" timestamp="1539680342415">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_client_demo.py" timestamp="1539715329782">
         <mark key="'" line="0" column="20" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="75" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="25" />
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_socket_wait_for_data.py" timestamp="1539681056422">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_socket_wait_for_data.py" timestamp="1539715326581">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/1/calculating_with_dictionaries/example.py" timestamp="1524214989627">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/anaconda3/envs/pydemos/lib/python3.7/asyncio/base_events.py" timestamp="1539666672065" />
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/README.md" timestamp="1539317363616">
         <mark key="[" line="8" column="68" />
         <mark key="]" line="8" column="93" />
@@ -73,7 +72,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/anaconda3/envs/pydemos/lib/python3.6/asyncio/__init__.py" timestamp="1539610863338" />
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/test.py" timestamp="1537418461198">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,7 +90,6 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="/anaconda3/envs/pydemos/lib/python3.6/urllib/response.py" timestamp="1539574021642" />
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/requests_demo.py" timestamp="1539670420870">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -142,12 +139,12 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_get_http_header_demo.py" timestamp="1539680682464">
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_get_http_header_demo.py" timestamp="1539715319609">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="72" />
-        <mark key="." line="9" column="2" />
-        <mark key="^" line="9" column="2" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/builtin_func.py" timestamp="1538770735423">
         <mark key="[" line="3" column="0" />
@@ -208,21 +205,18 @@
       <file name="/Dummy.txt" timestamp="1539320913538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/anaconda3/envs/pydemos/lib/python3.6/queue.py" timestamp="1539521499588" />
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_server_demo.py" timestamp="1539692307937">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_server_demo.py" timestamp="1539715339722">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1506119715/_asyncio.py" timestamp="1539621664445" />
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/test_skeleton.py" timestamp="1539417828586">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="/anaconda3/envs/pydemos/lib/python3.6/site-packages/requests/api.py" timestamp="1539579309264" />
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" timestamp="1539161054462">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="7" column="0" />
@@ -248,7 +242,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/anaconda3/envs/pydemos/lib/python3.6/sched.py" timestamp="1539456321563" />
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/tmppp.py" timestamp="1538041820230">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="8" />
@@ -339,59 +332,63 @@
       <jump line="632" column="17" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
       <jump line="633" column="24" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
       <jump line="635" column="17" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
       <jump line="71" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
       <jump line="89" column="27" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
       <jump line="66" column="47" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
+      <jump line="17" column="14" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
+      <jump line="93" column="14" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
+      <jump line="113" column="35" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lock</text>
+        <text>demo</text>
       </register>
       <register name="-" type="4">
-        <text>lock</text>
+        <text>demo</text>
       </register>
       <register name="/" type="4">
-        <text>pig</text>
+        <text>不能</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBwcmludCgic3RhcnQgdGVzdGluZyBsb2NrIikK</text>
+        <text encoding="base64">IyBwcmludCgiXG5cblVzZSBDb25kaXRpb24gdG8gbWFrZSBhIGRpYWxvZywgaW4gdHVybiB0byBub3RpZnkoKSBhbmQgd2FpdCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmRpdGlvbi5ub3RpZnkoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmRpdGlvbi5ub3RpZnkoKQogICAgICAgIGF3YWl0IHNlbGYuY29uZGl0aW9uLndhaXQoKQogICAgICAgIHByaW50KCJZb3UncmUgc28gZmF0ISIpCiAgICAgICAgc2VsZi5jb25kaXRpb24ubm90aWZ5KCkKICAgICAgICBzZWxmLmNvbmRpdGlvbi5yZWxlYXNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnaXJsX3Rhc2sgPSBhc3luY2lvLmNyZWF0ZV90YXNrKHNlbGYuZ2lybCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JrZXIzID0gYXN5bmNpby5jcmVhdGVfdGFzayhzZWxmLndvcmtlcigzLCAzKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmRpdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBhc3luY2lvLmNyZWF0ZV90YXNrKHNlbGYud29ya2VyKDQsIDQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmRpdGlvbi5ub3RpZnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3luYyB3aXRoIHNlbGYuYm91bmRlZF9zZW1hcGhvcmU6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnaXJsX3Rhc2sgPSBhc3luY2lvLmNyZWF0ZV90YXNrKHNlbGYuZ2lybCgpKQogICAgICAgIGF3YWl0IGdpcmxfdGFzawo=</text>
+        <text encoding="base64">ICAgIGJvdW5kZWRfc2VtYXBob3JlOiBhc3luY2lvLkxvY2sK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnaXJsX3Rhc2sgPSBhc3luY2lvLmNyZWF0ZV90YXNrKHNlbGYuZ2lybCgpKQogICAgICAgIGF3YWl0IGdpcmxfdGFzawogICAgICAgIGF3YWl0IHNlbGYuY29uZGl0aW9uLmFjcXVpcmUoKQogICAgICAgIHByaW50KCJIYXkgZ3JpbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgic2VtYXBob3JlIGlzIHJlc2xvdmVkIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiSGF5IGdyaWwwIikK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmRpdGlvbi53YWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
       </register>
     </registers>
     <search>
-      <last-search>pig</last-search>
+      <last-search>不能</last-search>
       <last-offset />
-      <last-pattern>pig</last-pattern>
+      <last-pattern>不能</last-pattern>
       <last-replace>prices</last-replace>
       <last-substitute>prices2</last-substitute>
       <last-dir>1</last-dir>
@@ -411,6 +408,8 @@
         <entry>lock</entry>
         <entry encoding="base64">IGxvY2s=</entry>
         <entry>pig</entry>
+        <entry>with</entry>
+        <entry>不能</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prices2/prices</entry>
