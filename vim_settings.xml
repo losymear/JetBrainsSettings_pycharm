@@ -39,12 +39,12 @@
         <mark key="^" line="8" column="93" />
         <mark key="." line="8" column="93" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" timestamp="1558943293341">
-        <mark key="'" line="27" column="22" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" timestamp="1558947930751">
+        <mark key="'" line="38" column="40" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/pathlib.py" timestamp="1539169824286">
         <mark key="[" line="895" column="5" />
@@ -85,12 +85,6 @@
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio.py" timestamp="1539610837932">
         <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" timestamp="1539668642126">
-        <mark key="'" line="15" column="41" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_streams_tcp_server_demo.py" timestamp="1539758881570">
         <mark key="'" line="27" column="19" />
@@ -156,12 +150,6 @@
         <mark key="]" line="738" column="4" />
         <mark key="." line="738" column="4" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/tmp.py" timestamp="1539533980964">
-        <mark key="'" line="40" column="28" />
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" timestamp="1524213921235">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="26" />
@@ -209,6 +197,13 @@
         <mark key="]" line="48" column="27" />
         <mark key="^" line="46" column="26" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/.gitignore" timestamp="1558948338295">
+        <mark key="'" line="7" column="5" />
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="50" column="8" />
+        <mark key="^" line="50" column="8" />
+        <mark key="." line="50" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bd11c8fe-e58a-4ce3-a5d0-a7b39cdf1893/console.sql" timestamp="1524157668004">
         <mark key="[" line="0" column="0" />
@@ -393,58 +388,62 @@
       <jump line="16" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/requirements.txt" />
       <jump line="9" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" />
       <jump line="27" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" />
+      <jump line="52" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" />
+      <jump line="7" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/.gitignore" />
+      <jump line="38" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VuZF9kaW5nX21zZygiaGVsbG8gd29ybGQgcHl0aG9uIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sendDingMsg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>asyncio</text>
+        <text encoding="base64">XDxtaW51dGVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZW50ID0gIuaXtumXtOaIs+mUmeivr++8jOi2hei/hzXliIbpkp8iICsgIuW9k+WJjeaXtumXtOaIsyIgKyBzdHIodGltZXN0YW1wKSArICLov5Tlm57lgLwiICsgc3RyKHJlc0RhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VuZF9kaW5nX21zZygiaGVsbG8gd29ybGQgcHl0aG9uIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlcy5qc29uKCkpCg==</text>
+        <text encoding="base64">c2NoZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgi5pe26Ze05q2j56GuIikK</text>
+        <text encoding="base64">aW1wb3J0IHNjaGVkdWxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ciA9IHJlcXVlc3RzLmdldCgiaHR0cHM6Ly9wcm9kLjE3cW1zLmNvbS9xdS9jb21tb24vdGltZXN0YW1wIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgK</text>
+        <text encoding="base64">ZGVmIGNyb25fam9iOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RzLnBvc3QoRElOR19UT0tFTiwgcGFyYW1zPXsnYXdjZXNzX3Rva2VuJzogZGluZ1Rva2VufSwKICAgICAgICAgICAgICAgICAgZGF0YT17J21zZ3R5cGUnOiAndGV4dCcsICd0ZXh0Jzogeydjb250ZW50JzogJ2NvbnRlbnQnfX0pCg==</text>
+        <text encoding="base64">c2VuZF9kaW5nX21zZygiaGVsbG8gd29ybGQgcHl0aG9uIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJtYWluIikK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcy5qc29uKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgi5pe26Ze05q2j56GuIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbHRhCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
       </register>
     </registers>
     <search>
-      <last-search>asyncio</last-search>
+      <last-search encoding="base64">XDxtaW51dGVzXD4=</last-search>
       <last-offset />
-      <last-pattern>asyncio</last-pattern>
+      <last-pattern encoding="base64">XDxtaW51dGVzXD4=</last-pattern>
       <last-replace>prices</last-replace>
       <last-substitute>prices2</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -464,6 +463,7 @@
         <entry>with</entry>
         <entry>不能</entry>
         <entry>asyncio</entry>
+        <entry encoding="base64">XDxtaW51dGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prices2/prices</entry>
