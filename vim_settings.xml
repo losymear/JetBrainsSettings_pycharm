@@ -39,6 +39,12 @@
         <mark key="^" line="8" column="93" />
         <mark key="." line="8" column="93" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" timestamp="1558938543399">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/pathlib.py" timestamp="1539169824286">
         <mark key="[" line="895" column="5" />
         <mark key="]" line="895" column="5" />
@@ -73,12 +79,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/test.py" timestamp="1537418461198">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio.py" timestamp="1539610837932">
-        <mark key="[" line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo.py" timestamp="1539668642126">
         <mark key="'" line="15" column="41" />
         <mark key="[" line="35" column="0" />
@@ -111,17 +111,17 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/tp.py" timestamp="1538042153169">
-        <mark key="[" line="2" column="1" />
-      </file>
-      <file name="/fragment.py" timestamp="1524196569592">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests.py" timestamp="1539574024888">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/setup.py" timestamp="1558938300811">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="29" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/em.py" timestamp="1524151279538">
         <mark key="[" line="0" column="3" />
@@ -172,11 +172,12 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="/JavaScript Console" timestamp="1524152019441">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/test [python@localhost]" timestamp="1524157841371">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/requirements.txt" timestamp="1558938951500">
+        <mark key="'" line="16" column="14" />
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/test_car.py" timestamp="1524212643989">
         <mark key="[" line="48" column="0" />
@@ -190,9 +191,6 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1524157841674">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/sched_demo.py" timestamp="1539517235493">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="8" column="0" />
@@ -205,15 +203,18 @@
         <mark key="]" line="64" column="5" />
         <mark key="." line="64" column="5" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/skeleton.py" timestamp="1558938393632">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" timestamp="1539328347657">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="31" column="49" />
         <mark key="]" line="31" column="72" />
         <mark key="." line="31" column="72" />
         <mark key="^" line="31" column="72" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1539320913538">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/tmp.py" timestamp="1539791065167">
         <mark key="[" line="9" column="8" />
@@ -358,13 +359,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" />
       <jump line="12" column="19" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_streams_tcp_server_demo.py" />
       <jump line="27" column="19" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_streams_tcp_server_demo.py" />
+      <jump line="16" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>requirests</text>
       </register>
       <register name="-" type="4">
-        <text>demo</text>
+        <text>requirests</text>
       </register>
       <register name="/" type="4">
         <text>asyncio</text>
