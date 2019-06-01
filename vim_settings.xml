@@ -10,7 +10,7 @@
         <mark key="." line="133" column="24" />
         <mark key="^" line="133" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1539742415292">
+      <file name="/a.dummy" timestamp="1559413109540">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="33" />
       </file>
@@ -28,11 +28,6 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/1/calculating_with_dictionaries/example.py" timestamp="1524214989627">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/README.md" timestamp="1539317363616">
         <mark key="[" line="8" column="68" />
         <mark key="]" line="8" column="93" />
@@ -45,11 +40,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
-      </file>
-      <file name="/anaconda3/envs/learnpy/lib/python3.6/pathlib.py" timestamp="1539169824286">
-        <mark key="[" line="895" column="5" />
-        <mark key="]" line="895" column="5" />
-        <mark key="." line="895" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" timestamp="1524152004944">
         <mark key="[" line="2" column="0" />
@@ -75,10 +65,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/queue_demo.py" timestamp="1539521679059">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/usr/local/bin/ltc.py" timestamp="1559413497170">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/test.py" timestamp="1537418461198">
         <mark key="[" line="0" column="0" />
@@ -100,11 +91,6 @@
         <mark key="]" line="39" column="38" />
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="38" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/requests_demo.py" timestamp="1539670420870">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.7/site-packages/requests/api.py" timestamp="1558943056015">
         <mark key="[" line="115" column="34" />
@@ -145,11 +131,6 @@
       <file name="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" timestamp="1539684747848">
         <mark key="'" line="635" column="17" />
       </file>
-      <file name="/anaconda3/envs/pydemos/lib/python3.7/asyncio/events.py" timestamp="1539659566561">
-        <mark key="[" line="738" column="4" />
-        <mark key="]" line="738" column="4" />
-        <mark key="." line="738" column="4" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" timestamp="1524213921235">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="26" />
@@ -163,10 +144,12 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/builtin_func.py" timestamp="1538770735423">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/usr/local/bin/a.py" timestamp="1559413088595">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.7/asyncio/locks.py" timestamp="1539685308495">
         <mark key="[" line="242" column="0" />
@@ -220,11 +203,6 @@
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/setup.cfg" timestamp="1539316511225">
-        <mark key="[" line="64" column="5" />
-        <mark key="]" line="64" column="5" />
-        <mark key="." line="64" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/skeleton.py" timestamp="1558938393632">
         <mark key="[" line="22" column="29" />
@@ -280,16 +258,6 @@
         <mark key="." line="7" column="97" />
         <mark key="^" line="7" column="97" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/async_streams_demo.py" timestamp="1539673429921">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/tmppp.py" timestamp="1538041820230">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/future.py" timestamp="1539440111808">
         <mark key="[" line="38" column="59" />
         <mark key="]" line="38" column="57" />
@@ -298,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="26" filename="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" />
       <jump line="1" column="6" filename="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" />
       <jump line="6" column="3" filename="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" />
       <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" />
@@ -392,46 +359,53 @@
       <jump line="52" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" />
       <jump line="7" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/.gitignore" />
       <jump line="38" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" />
+      <jump line="10" column="0" filename="/usr/local/bin/a.py" />
+      <jump line="9" column="39" filename="/usr/local/bin/a.py" />
+      <jump line="8" column="12" filename="/usr/local/bin/a.py" />
+      <jump line="25" column="13" filename="/usr/local/bin/ltc.py" />
+      <jump line="8" column="12" filename="/usr/local/bin/ltc.py" />
+      <jump line="26" column="10" filename="/usr/local/bin/ltc.py" />
+      <jump line="18" column="8" filename="/usr/local/bin/ltc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>成功</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>成功</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaW51dGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gIuaXtumXtOaIs+mUmeivr++8jOi2hei/hzXliIbpkp8iICsgIuW9k+WJjeaXtumXtOaIsyIgKyBzdHIodGltZXN0YW1wKSArICLov5Tlm57lgLwiICsgc3RyKHJlc0RhdGEpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCLlj4LmlbDkuI3lhagg8J+YgiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjbGFzc19uYW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2NoZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaGVkdWxlCg==</text>
+        <text encoding="base64">cmVzID0gJyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ciA9IHJlcXVlc3RzLmdldCgiaHR0cHM6Ly9wcm9kLjE3cW1zLmNvbS9xdS9jb21tb24vdGltZXN0YW1wIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGNyb25fam9iOgo=</text>
+        <text encoding="base64">cHJpbnQocXVlc3Rpb25faWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VuZF9kaW5nX21zZygiaGVsbG8gd29ybGQgcHl0aG9uIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlcy5qc29uKCkpCg==</text>
+        <text encoding="base64">ICAgIGlmIChpZCA9PSAxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgi5pe26Ze05q2j56GuIikK</text>
+        <text encoding="base64">ICAgIGlmIHByb2JsZW1bJ3N0YXQnXVsncXVlc3Rpb25faWQnXSA9PSAnMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIHByb1AK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
