@@ -220,12 +220,13 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/heapq.py" timestamp="1560493787275">
-        <mark key="'" line="331" column="9" />
-        <mark key="[" line="142" column="18" />
-        <mark key="]" line="142" column="17" />
-        <mark key="^" line="142" column="17" />
-        <mark key="." line="142" column="17" />
+      <file name="/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/heapq.py" timestamp="1560588902728">
+        <mark key="t" line="176" column="11" />
+        <mark key="'" line="201" column="24" />
+        <mark key="[" line="534" column="34" />
+        <mark key="]" line="534" column="33" />
+        <mark key="^" line="534" column="33" />
+        <mark key="." line="534" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" timestamp="1539161054462">
         <mark key="'" line="2" column="0" />
@@ -273,8 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="3" filename="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" />
       <jump line="5" column="15" filename="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" />
       <jump line="41" column="22" filename="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" />
       <jump line="39" column="69" filename="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" />
@@ -373,6 +372,8 @@
       <jump line="26" column="10" filename="/usr/local/bin/ltc.py" />
       <jump line="18" column="8" filename="/usr/local/bin/ltc.py" />
       <jump line="331" column="9" filename="/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/heapq.py" />
+      <jump line="257" column="4" filename="/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/heapq.py" />
+      <jump line="201" column="24" filename="/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/heapq.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
