@@ -104,6 +104,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/resumeProxy/saveResponseAddOn.py" timestamp="1561722986591">
+        <mark key="[" line="45" column="55" />
+        <mark key="]" line="45" column="54" />
+        <mark key="." line="45" column="54" />
+        <mark key="^" line="45" column="54" />
+      </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pip/vcs/__init__.py" timestamp="1561703605590">
         <mark key="'" line="296" column="8" />
       </file>
@@ -436,11 +442,11 @@
       <jump line="9" column="6" filename="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>将Url编码成base64文件名</text>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>将Url编码成base64文件名</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaW51dGVzXD4=</text>
@@ -449,31 +455,31 @@
         <text encoding="base64">ICAgICIiIiDlsIZVcmznvJbnoIHmiJBiYXNlNjTmlofku7blkI0gIiIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBiYXNlNjQuYjY0ZW5jb2RlKHVybC5lbmNvZGUoJ3V0Zi04JykpLmRlY29kZSgpICsgIi50eHQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIiDkv53lrZjmlofku7YgIiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxvdy5yZXNwb25zZS5oZWFkZXJzKQo=</text>
+        <text encoding="base64">ICAgICIiIiDkv53lrZjmlofku7YgIiIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxvdy5yZXNwb25zZS5jb250ZW50LmRlY29kZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxvdy5yZXNwb25zZS5oZWFkZXJzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxvdy5yZXNwb25zZS5jb250ZW50LmRlY29kZSgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1wb3J0Cg==</text>
+        <text encoding="base64">ICAgIG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IiIiIOWwhlVybOe8lueggeaIkGJhc2U2NOaWh+S7tuWQjSAiIiIK</text>
+        <text encoding="base64">ICAgIG1wb3J0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KioqIOWwhlVybOe8lueggeaIkGJhc2U2NOaWh+S7tuWQjSAK</text>
+        <text encoding="base64">IiIiIOWwhlVybOe8lueggeaIkGJhc2U2NOaWh+S7tuWQjSAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiYXNlNjQuYjY0ZW5jb2RlKHVybC5lbmNvZGUoJ3V0Zi04JykpLmRlY29kZSgpCg==</text>
+        <text encoding="base64">KioqIOWwhlVybOe8lueggeaIkGJhc2U2NOaWh+S7tuWQjSAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
