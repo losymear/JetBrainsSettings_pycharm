@@ -180,12 +180,12 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" timestamp="1561704982517">
-        <mark key="'" line="5" column="9" />
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="29" />
-        <mark key="^" line="17" column="29" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" timestamp="1561708933300">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="64" column="1" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="0" />
       </file>
       <file name="/usr/local/bin/a.py" timestamp="1559413088595">
         <mark key="'" line="7" column="12" />
@@ -298,11 +298,11 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
-      <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/mitmproxy/http.py" timestamp="1561703743250">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="16" />
-        <mark key="^" line="39" column="16" />
-        <mark key="." line="39" column="16" />
+      <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/mitmproxy/http.py" timestamp="1561706925543">
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="76" column="19" />
+        <mark key="^" line="76" column="19" />
+        <mark key="." line="76" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
@@ -331,11 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" />
-      <jump line="28" column="38" filename="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" />
-      <jump line="3" column="7" filename="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/tmpTest.py" />
-      <jump line="13" column="27" filename="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/tmpTest.py" />
-      <jump line="18" column="56" filename="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/myspider.py" />
       <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/myspider.py" />
       <jump line="5" column="10" filename="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/.gitignore" />
       <jump line="16" column="31" filename="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/myspider.py" />
@@ -431,46 +426,51 @@
       <jump line="144" column="4" filename="/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/heapq.py" />
       <jump line="296" column="8" filename="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pip/vcs/__init__.py" />
       <jump line="5" column="9" filename="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" />
+      <jump line="20" column="39" filename="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" />
+      <jump line="16" column="48" filename="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" />
+      <jump line="7" column="10" filename="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" />
+      <jump line="8" column="31" filename="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" />
+      <jump line="9" column="6" filename="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>指定</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>指定</text>
+        <text>foo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaW51dGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNwb25zZShzZWxmLCBmbG93KToK</text>
+        <text encoding="base64">ICAgICIiIiDlsIZVcmznvJbnoIHmiJBiYXNlNjTmlofku7blkI0gIiIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmbG93LnJlcXVlc3QuaG9zdCkK</text>
+        <text encoding="base64">ICAgICIiIiDkv53lrZjmlofku7YgIiIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXF1ZXN0KHNlbGYsIGZsb3cpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxvdy5yZXNwb25zZS5oZWFkZXJzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbG93LnJlcQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxvdy5yZXNwb25zZS5jb250ZW50LmRlY29kZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3QK</text>
+        <text encoding="base64">ICAgIG9zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmbG93LnJlc3BvbnNlLgo=</text>
+        <text encoding="base64">ICAgIG1wb3J0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlZGQK</text>
+        <text encoding="base64">IiIiIOWwhlVybOe8lueggeaIkGJhc2U2NOaWh+S7tuWQjSAiIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmbG93LnJlc3BvbnNlLgo=</text>
+        <text encoding="base64">KioqIOWwhlVybOe8lueggeaIkGJhc2U2NOaWh+S7tuWQjSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBiYXNlNjQuYjY0ZW5jb2RlKHVybC5lbmNvZGUoJ3V0Zi04JykpLmRlY29kZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
