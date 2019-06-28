@@ -104,6 +104,9 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pip/vcs/__init__.py" timestamp="1561703605590">
+        <mark key="'" line="296" column="8" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_queue_demo.py" timestamp="1539743806852">
         <mark key="[" line="39" column="39" />
         <mark key="]" line="39" column="38" />
@@ -136,6 +139,12 @@
       </file>
       <file name="/fragment.py" timestamp="1524196569592">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/__init__.py" timestamp="1561701959049">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="45" />
+        <mark key="^" line="10" column="45" />
+        <mark key="." line="10" column="45" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests.py" timestamp="1539574024888">
         <mark key="[" line="12" column="0" />
@@ -170,6 +179,12 @@
         <mark key="]" line="8" column="18" />
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" timestamp="1561703849126">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
       </file>
       <file name="/usr/local/bin/a.py" timestamp="1559413088595">
         <mark key="'" line="7" column="12" />
@@ -282,6 +297,12 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
+      <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/mitmproxy/http.py" timestamp="1561703743250">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="16" />
+        <mark key="^" line="39" column="16" />
+        <mark key="." line="39" column="16" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="22" column="20" />
@@ -309,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="22" filename="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" />
       <jump line="39" column="69" filename="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" />
       <jump line="19" column="8" filename="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" />
       <jump line="28" column="38" filename="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" />
@@ -409,46 +429,47 @@
       <jump line="257" column="4" filename="/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/heapq.py" />
       <jump line="201" column="24" filename="/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/heapq.py" />
       <jump line="144" column="4" filename="/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/heapq.py" />
+      <jump line="296" column="8" filename="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pip/vcs/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>N/A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmbG93LnJlcQo=</text>
       </register>
       <register name="-" type="4">
-        <text>N/A</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaW51dGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCLlj4LmlbDkuI3lhagg8J+YgiIpCg==</text>
+        <text encoding="base64">ICAgIGRlZiByZXNwb25zZShzZWxmLCBmbG93KToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjbGFzc19uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBmbG93LnJlcQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbG93LnJlc3BvbnNlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQocXVlc3Rpb25faWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbG93LnJlc3BvbnNlLgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChpZCA9PSAxKQo=</text>
+        <text encoding="base64">ICAgIGRlZiByZXF1ZXN0KHNlbGYsIGZsb3cpOgogICAgICAgIHNlbGYubnVtID0gc2VsZi5udW0gKyAxCiAgICAgICAgY3R4LmxvZy5pbmZvKCJXZSd2ZSBzZWVuICVkIGZsb3dzIiAlIHNlbGYubnVtKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHByb2JsZW1bJ3N0YXQnXVsncXVlc3Rpb25faWQnXSA9PSAnMQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjbGFzc19uYW1lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb1AK</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
