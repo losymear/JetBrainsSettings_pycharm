@@ -33,6 +33,12 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="12" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/learning/puppeteer/requirements.txt" timestamp="1561784257256">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_socket_wait_for_data.py" timestamp="1539715326581">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="8" column="9" />
@@ -443,8 +449,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/resumeProxy/saveResponseAddOn.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mitmdump -s ${thisFilePath}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>mitmdump -s ${thisFilePath}</text>
@@ -456,31 +462,31 @@
         <text encoding="base64">ICAgICIiIiDlsIZVcmznvJbnoIHmiJBiYXNlNjTmlofku7blkI0gIiIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ld191cmwgPSByZS5zdWIocnN0ciwgIl8iLCB1cmwpICAjIOabv+aNouS4uuS4i+WIkue6vwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiYXNlNjQuYjY0ZW5jb2RlKHVybC5lbmNvZGUoJ3V0Zi04JykpLmRlY29kZSgpICsgIi50eHQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIiDkv53lrZjmlofku7YgIiIiCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxvdy5yZXNwb25zZS5oZWFkZXJzKQo=</text>
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxvdy5yZXNwb25zZS5jb250ZW50LmRlY29kZSgpKQo=</text>
+        <text encoding="base64">ICAgIG5ld191cmwgPSByZS5zdWIocnN0ciwgIl8iLCB1cmwpICAjIOabv+aNouS4uuS4i+WIkue6vwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9zCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBiYXNlNjQuYjY0ZW5jb2RlKHVybC5lbmNvZGUoJ3V0Zi04JykpLmRlY29kZSgpICsgIi50eHQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1wb3J0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
