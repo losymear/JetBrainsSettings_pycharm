@@ -59,6 +59,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/learning/puppeteer/README.md" timestamp="1561788870474">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" timestamp="1524152004944">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="20" column="9" />
@@ -131,6 +137,11 @@
         <mark key="]" line="115" column="33" />
         <mark key="^" line="115" column="33" />
         <mark key="." line="115" column="33" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/10/loading_modules_from_a_remote_machine_using_import_hooks/testcode/fib.py" timestamp="1561793014820">
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tmp.py" timestamp="1539658377931">
         <mark key="[" line="11" column="23" />
