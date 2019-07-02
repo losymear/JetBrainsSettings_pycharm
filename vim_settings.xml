@@ -124,6 +124,18 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/Dockerfile" timestamp="1562054547957">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/requirements.txt" timestamp="1562054240701">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pip/vcs/__init__.py" timestamp="1561703605590">
         <mark key="'" line="296" column="8" />
       </file>
@@ -172,12 +184,8 @@
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/tp.py" timestamp="1538042153169">
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_decorators_as_classes/example1.py" timestamp="1561974931608">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="11" />
-        <mark key="^" line="39" column="11" />
-        <mark key="." line="39" column="11" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_decorators_as_classes/example1.py" timestamp="1561974942760">
+        <mark key="'" line="39" column="4" />
       </file>
       <file name="/Python Console" timestamp="1561961196424">
         <mark key="[" line="0" column="0" />
@@ -358,6 +366,13 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" timestamp="1562054511790">
+        <mark key="'" line="17" column="35" />
+        <mark key="[" line="13" column="100" />
+        <mark key="]" line="13" column="84" />
+        <mark key="^" line="13" column="84" />
+        <mark key="." line="13" column="84" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/future_demo.py" timestamp="1539442670150">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="97" />
@@ -378,7 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="4" filename="/anaconda3/envs/crawler/lib/python3.6/site-packages/scrapy/spiders/__init__.py" />
       <jump line="93" column="29" filename="/anaconda3/envs/crawler/lib/python3.6/site-packages/scrapy/spiders/__init__.py" />
       <jump line="64" column="23" filename="/anaconda3/envs/crawler/lib/python3.6/site-packages/scrapy/spiders/__init__.py" />
       <jump line="2569" column="11" filename="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/672064082/builtins.py" />
@@ -478,10 +492,11 @@
       <jump line="10" column="15" filename="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_a_decorator_that_takes_arguments/example.py" />
       <jump line="24" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_decorators_as_classes/example1.py" />
       <jump line="43" column="4" filename="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_decorators_as_classes/example1.py" />
+      <jump line="23" column="35" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCduY2FsbHM6JywgYWRkLm5jYWxscykK</text>
+        <text encoding="base64">ICAgICAgICAgICAiPGI+VmlzaXRzOjwvYj4ge3Zpc2l0c30iCg==</text>
       </register>
       <register name="-" type="4">
         <text>DEBUG</text>
@@ -493,31 +508,31 @@
         <text encoding="base64">ICAgIHByaW50KCduY2FsbHM6JywgYWRkLm5jYWxscykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNlbGYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAiPGI+VmlzaXRzOjwvYj4ge3Zpc2l0c30iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNlbGYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAiPGI+VmlzaXRzOjwvYj4ge3Zpc2l0c30iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEB3cmFwcyhmdW5jKQo=</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICB2aXNpdHMgPSByZWRpcy5pbmNyKCJjb3VudGVyIikKICAgIGV4Y2VwdCBSZWRpc0Vycm9yOgogICAgICAgIHZpc2l0cyA9ICI8aT5jYW5ub3QgY29ubmVjdCB0byBSZWRpcywgY291bnRlciBkaXNhYmxlZDwvaT4iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVkaXMgPSBSZWRpcyhob3N0PSJyZWRpcyIsIGRiPTAsIHNvY2tldF9jb25uZWN0X3RpbWVvdXQ9Miwgc29ja2V0X3RpbWVvdXQ9MikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByZWRpcyBpbXBvcnQgUmVkaXMsIFJlZGlzRXJyb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNlbGYpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNlbGYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIEB3cmFwcyhmdW5jKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
