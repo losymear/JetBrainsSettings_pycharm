@@ -95,6 +95,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/multiple_dispatch_with_function_annotations/example1.py" timestamp="1562161572811">
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="60" column="13" />
+        <mark key="^" line="60" column="13" />
+        <mark key="." line="60" column="13" />
+      </file>
       <file name="/usr/local/bin/ltc.py" timestamp="1559413497170">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="6" />
@@ -141,6 +147,12 @@
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/types.pyi" timestamp="1562294716408">
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="40" column="32" />
+        <mark key="^" line="40" column="32" />
+        <mark key="." line="40" column="32" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pip/vcs/__init__.py" timestamp="1561703605590">
         <mark key="'" line="296" column="8" />
@@ -197,6 +209,9 @@
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/tp.py" timestamp="1538042153169">
         <mark key="[" line="2" column="1" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/creating_a_new_kind_of_class_or_instance_attribute/example1.py" timestamp="1562294733595">
+        <mark key="[" line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_decorators_as_classes/example1.py" timestamp="1561974942760">
         <mark key="'" line="39" column="4" />
       </file>
@@ -232,6 +247,12 @@
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" timestamp="1539684747848">
         <mark key="'" line="635" column="17" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/capturing_class_attribute_definition_order/example2.py" timestamp="1562158716627">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/Car.py" timestamp="1524213921235">
         <mark key="[" line="16" column="27" />
@@ -346,6 +367,12 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/capturing_class_attribute_definition_order/example1.py" timestamp="1562124152651">
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_a_decorator_that_takes_arguments/example.py" timestamp="1561961787807">
         <mark key="'" line="10" column="15" />
         <mark key="[" line="28" column="11" />
@@ -372,6 +399,12 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/lazily_computed_attributes/example1.py" timestamp="1562297077821">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="19" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="22" column="20" />
@@ -379,12 +412,12 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" timestamp="1562058232708">
-        <mark key="'" line="19" column="35" />
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="34" />
-        <mark key="^" line="19" column="34" />
-        <mark key="." line="19" column="34" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" timestamp="1562322312261">
+        <mark key="'" line="21" column="35" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+        <mark key="." line="21" column="36" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/future_demo.py" timestamp="1539442670150">
         <mark key="[" line="7" column="0" />
@@ -508,8 +541,8 @@
       <jump line="4" column="72" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/buildImage.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>9876</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnZCcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>9876</text>
@@ -518,31 +551,31 @@
         <text encoding="base64">XDxsYXRlc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICI8Yj5Ib3N0bmFtZTo8L2I+IHtob3N0bmFtZX08YnIvPiIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09QWSBzcmMgLi8K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V09SS0RJUiAvaG9tZQo=</text>
+        <text encoding="base64">Q09QWSBzcmMgLi8K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">V09SS0RJUiAvaG9tZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDTUQgWyJqYXZhIiAsIi1YbXgzMDAwbSIsIi1zZXJ2ZXIiLCAiLURsb2c0ai5jb25maWd1cmF0aW9uRmlsZT1jbGFzc3BhdGg6bG9nNGoyLnlhbWwiLCAgIi1qYXIiLCAicXVtaWFuc2hpLTAuMC4xLVNOQVBTSE9ULmphciJdCg==</text>
+        <text encoding="base64">V09SS0RJUiAvaG9tZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RiwsUk9NIG1pdG1wcm94eS9taXRtcHJveHk6bGF0ZXN0Cg==</text>
+        <text encoding="base64">IyBDTUQgWyJqYXZhIiAsIi1YbXgzMDAwbSIsIi1zZXJ2ZXIiLCAiLURsb2c0ai5jb25maWd1cmF0aW9uRmlsZT1jbGFzc3BhdGg6bG9nNGoyLnlhbWwiLCAgIi1qYXIiLCAicXVtaWFuc2hpLTAuMC4xLVNOQVBTSE9ULmphciJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q09QWSBtaXRtcHJveHlDZXJ0LyogL2hvbWUvbWl0bXByb3h5Ly5taXRtcHJveHkvCg==</text>
+        <text encoding="base64">RiwsUk9NIG1pdG1wcm94eS9taXRtcHJveHk6bGF0ZXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICI8Yj5Ib3N0bmFtZTo8L2I+IHtob3N0bmFtZX08YnIvPiJcCg==</text>
+        <text encoding="base64">Q09QWSBtaXRtcHJveHlDZXJ0LyogL2hvbWUvbWl0bXByb3h5Ly5taXRtcHJveHkvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAiPGI+VmlzaXRzOjwvYj4ge3Zpc2l0c30iCg==</text>
+        <text encoding="base64">ICAgICI8Yj5Ib3N0bmFtZTo8L2I+IHtob3N0bmFtZX08YnIvPiJcCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAiPGI+VmlzaXRzOjwvYj4ge3Zpc2l0c30iCg==</text>
