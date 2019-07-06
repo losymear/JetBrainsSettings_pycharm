@@ -9,11 +9,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/xzb-config-map.yaml" timestamp="1562384323326">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/xzb-config-map.yaml" timestamp="1562387340670">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/2/writing_a_simple_recursive_descent_parser/plyexample.py" timestamp="1560935449892">
         <mark key="[" line="75" column="22" />
@@ -48,11 +48,11 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" timestamp="1562383483378">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="8" column="4" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" timestamp="1562387357193">
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="30" column="41" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="30" column="41" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/README.md" timestamp="1539317363616">
         <mark key="[" line="8" column="68" />
@@ -441,12 +441,12 @@
         <mark key="^" line="23" column="19" />
         <mark key="." line="23" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1562384080731">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1562386909236">
         <mark key="'" line="20" column="15" />
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
@@ -585,16 +585,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgLSBzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD1nb2FpbWlhbnNoaTIwMTghCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBrZXk6IFNQUklOR19QUk9GSUxFU19BQ1RJVkUK</text>
       </register>
       <register name="-" type="4">
-        <text>special</text>
+        <text>##引用的配置文件名称</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYXRlc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gU1BSSU5HX1BST0ZJTEVTX0FDVElWRT1wcm9kCiAgICAtIHNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPWdvYWltaWFuc2hpMjAxOCEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBrZXk6IFNQUklOR19QUk9GSUxFU19BQ1RJVkUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgLSBzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD1nb2FpbWlhbnNoaTIwMTghCg==</text>
