@@ -66,11 +66,11 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/dataimporter-deployment.yaml" timestamp="1562394635795">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="12" />
-        <mark key="^" line="16" column="12" />
-        <mark key="." line="16" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/dataimporter-deployment.yaml" timestamp="1562401551122">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="25" column="15" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1506119715/_collections.py" timestamp="1560617241299">
         <mark key="[" line="140" column="12" />
@@ -117,12 +117,12 @@
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch-deployment.yaml" timestamp="1562399565689">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch-deployment.yaml" timestamp="1562401903212">
         <mark key="'" line="6" column="33" />
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="42" column="34" />
-        <mark key="." line="42" column="34" />
-        <mark key="^" line="42" column="34" />
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.7/site-packages/requests/api.py" timestamp="1558943056015">
         <mark key="[" line="115" column="34" />
@@ -290,12 +290,12 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/searchengine-persistentvolumeclaim.yaml" timestamp="1562399522307">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/searchengine-persistentvolumeclaim.yaml" timestamp="1562401481313">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="0" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
+        <mark key="^" line="34" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_client_demo.py" timestamp="1539715329782">
         <mark key="'" line="0" column="20" />
@@ -651,10 +651,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>elasticengine</text>
+        <text>ls</text>
       </register>
       <register name="-" type="4">
-        <text>elasticengine</text>
+        <text>ls</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
