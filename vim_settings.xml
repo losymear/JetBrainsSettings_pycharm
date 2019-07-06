@@ -41,6 +41,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/prod/k8s.yaml" timestamp="1562391762813">
+        <mark key="[" line="67" column="10" />
+        <mark key="]" line="67" column="17" />
+        <mark key="^" line="67" column="17" />
+        <mark key="." line="67" column="17" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_socket_wait_for_data.py" timestamp="1539715326581">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="8" column="9" />
@@ -73,11 +79,11 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/README.md" timestamp="1562390008218">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="5" column="30" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/README.md" timestamp="1562391319586">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" timestamp="1524152004944">
         <mark key="[" line="2" column="0" />
@@ -194,8 +200,8 @@
         <mark key="^" line="115" column="33" />
         <mark key="." line="115" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/admin/k8s.yaml" timestamp="1562389620151">
-        <mark key="[" line="59" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/admin/k8s.yaml" timestamp="1562393204596">
+        <mark key="[" line="5" column="14" />
         <mark key="]" line="59" column="11" />
         <mark key="^" line="59" column="11" />
         <mark key="." line="59" column="11" />
@@ -223,6 +229,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/prod/swarm.yaml" timestamp="1562391499121">
+        <mark key="[" line="1" column="65" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/learn/tp.py" timestamp="1538042153169">
         <mark key="[" line="2" column="1" />
@@ -285,6 +297,13 @@
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/swarm.yaml" timestamp="1562393458465">
+        <mark key="'" line="36" column="20" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/usr/local/bin/a.py" timestamp="1559413088595">
         <mark key="'" line="7" column="12" />
@@ -355,8 +374,8 @@
         <mark key="^" line="90" column="17" />
         <mark key="." line="90" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/admin/swarm.yaml" timestamp="1562389609888">
-        <mark key="[" line="0" column="5" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/admin/swarm.yaml" timestamp="1562391432631">
+        <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -392,6 +411,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/k8s.yaml" timestamp="1562393438410">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="33" column="19" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_server_demo.py" timestamp="1539715339722">
         <mark key="[" line="7" column="11" />
@@ -490,13 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" />
-      <jump line="26" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/threading_test.py" />
-      <jump line="8" column="40" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/demos/concurrent/threading_test.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/sched_demo.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/queue_demo.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/queue_demo.py" />
       <jump line="13" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/sched_demo.py" />
       <jump line="9" column="36" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/queue_demo.py" />
       <jump line="33" column="28" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/tmp.py" />
@@ -590,58 +609,65 @@
       <jump line="22" column="26" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
       <jump line="40" column="8" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
+      <jump line="41" column="38" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/k8s.yaml" />
+      <jump line="11" column="17" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/k8s.yaml" />
+      <jump line="15" column="19" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/k8s.yaml" />
+      <jump line="16" column="19" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/k8s.yaml" />
+      <jump line="19" column="63" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/k8s.yaml" />
+      <jump line="21" column="20" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/k8s.yaml" />
+      <jump line="47" column="20" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/swarm.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">bWlyYWdlOgogICAgaW1hZ2U6IGFwcGJhc2Vpby9taXJhZ2UKICAgIHBvcnRzOgogICAgICAtIDMwMzA6MzAzMAoKZGVqYXZ1OgogIGltYWdlOiBhcHBiYXNlaW8vZGVqYXZ1CiAgcG9ydHM6CiAgICAtIDEzNTg6MTM1OAo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>registry.cn-hangzhou.aliyuncs.com/qumianshi/qms_admin:release</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXRlc3RcPg==</text>
+        <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBrZXk6IFNQUklOR19QUk9GSUxFU19BQ1RJVkUK</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6IGNsdXN0ZXIubmFtZQogICAgICAgICAgdmFsdWU6IGRvY2tlci1jbHVzdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">bWlyYWdlOgogICAgaW1hZ2U6IGFwcGJhc2Vpby9taXJhZ2UKICAgIHBvcnRzOgogICAgICAtIDMwMzA6MzAzMAoKZGVqYXZ1OgogIGltYWdlOiBhcHBiYXNlaW8vZGVqYXZ1CiAgcG9ydHM6CiAgICAtIDEzNTg6MTM1OAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBwYXRoOiAvYmFyCiAgICAgICAgYmFja2VuZDoKICAgICAgICAgIHNlcnZpY2VOYW1lOiBodHRwLXN2YzIKICAgICAgICAgIHNlcnZpY2VQb3J0OiA4MAogIC0gaG9zdDogazhzZGVtby4xN3Ftcy5jb20KICAgIGh0dHA6CiAgICAgIHBhdGhzOgogICAgICAtIHBhdGg6IC9mb28vKC4qKQogICAgICAgIGJhY2tlbmQ6CiAgICAgICAgICBzZXJ2aWNlTmFtZTogaHR0cC1zdmMxCiAgICAgICAgICBzZXJ2aWNlUG9ydDogODAKCg==</text>
+        <text encoding="base64">ICAgICMgLSBib290c3RyYXAubWVtb3J5X2xvY2s9dHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIGhvc3RzOgogICAgLSBrOHNkZW1vMi4xN3Ftcy5jb20KICAgIHNlY3JldE5hbWU6IGh0dHBzLWs4c2RlbW8yCg==</text>
+        <text encoding="base64">ICAgICMgLSBib290c3RyYXAubWVtb3J5X2xvY2s9dHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIyMjIyMjIyMg6YWN572udnVsdW1lIG1vdW50ICMjIyMjIyMjIyMjCg==</text>
+        <text encoding="base64">IyAgICAgICAgICAnYXZhaWxhYmlsaXR5OmF6PT1+MicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiB2b2x1bW4tc2xzLW15ZGVtbwogICAgICAgICAgbW91bnRQYXRoOiAvdmFyL2xvZwogICAgICB2b2x1bWVzOgogICAgICAtIG5hbWU6IHZvbHVtbi1zbHMtbXlkZW1vCiAgICAgICAgZW1wdHlEaXI6IHt9CiAgICAgIHJlc3RhcnRQb2xpY3k6IEFsd2F5cwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gY2x1c3Rlci5uYW1lPWRvY2tlci1jbHVzdGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgLSBzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD1nb2FpbWlhbnNoaTIwMTghCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gRVNfSkFWQV9PUFRTPS1YbXM1MTJtIC1YbXg1MTJtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgLSBTUFJJTkdfUFJPRklMRVNfQUNUSVZFPXByb2QK</text>
+        <text encoding="base64">ICAgICAgICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgU1BFQ0lBTF9UWVBFOiBjaGFybQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiBhcHA9ZXMtdGVzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgU1BFQ0lBTF9MRVZFTDogdmVyeQo=</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6IGFsaXl1bl9sb2dzX215dGFnMV90YWdzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXRlc3RcPg==</last-search>
+      <last-search>admin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXRlc3RcPg==</last-pattern>
+      <last-pattern>admin</last-pattern>
       <last-replace>prices</last-replace>
       <last-substitute>prices2</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -663,6 +689,7 @@
         <entry>asyncio</entry>
         <entry encoding="base64">XDxtaW51dGVzXD4=</entry>
         <entry encoding="base64">XDxsYXRlc3RcPg==</entry>
+        <entry>admin</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prices2/prices</entry>
