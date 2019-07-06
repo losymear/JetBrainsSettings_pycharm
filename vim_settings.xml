@@ -73,10 +73,11 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/README.md" timestamp="1562054652422">
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/README.md" timestamp="1562390008218">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" timestamp="1524152004944">
         <mark key="[" line="2" column="0" />
@@ -193,6 +194,12 @@
         <mark key="^" line="115" column="33" />
         <mark key="." line="115" column="33" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/admin/k8s.yaml" timestamp="1562389620151">
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="59" column="11" />
+        <mark key="^" line="59" column="11" />
+        <mark key="." line="59" column="11" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/10/loading_modules_from_a_remote_machine_using_import_hooks/testcode/fib.py" timestamp="1561810288043">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="33" />
@@ -303,12 +310,12 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" timestamp="1562388357036">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" timestamp="1562389351321">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="79" column="14" />
-        <mark key="]" line="79" column="13" />
-        <mark key="^" line="79" column="13" />
-        <mark key="." line="79" column="13" />
+        <mark key="[" line="76" column="18" />
+        <mark key="]" line="80" column="17" />
+        <mark key="^" line="80" column="17" />
+        <mark key="." line="80" column="17" />
       </file>
       <file name="/JavaScript Console" timestamp="1524152019441">
         <mark key="[" line="0" column="0" />
@@ -347,6 +354,12 @@
         <mark key="]" line="90" column="17" />
         <mark key="^" line="90" column="17" />
         <mark key="." line="90" column="17" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/admin/swarm.yaml" timestamp="1562389609888">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="/dummy.sql" timestamp="1524157841674">
         <mark key="[" line="0" column="0" />
@@ -411,7 +424,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/swarm.yaml" timestamp="1562388129677">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/swarm.yaml" timestamp="1562389503318">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="12" />
         <mark key="^" line="14" column="12" />
@@ -580,7 +593,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBwYXRoOiAvYmFyCiAgICAgICAgYmFja2VuZDoKICAgICAgICAgIHNlcnZpY2VOYW1lOiBodHRwLXN2YzIKICAgICAgICAgIHNlcnZpY2VQb3J0OiA4MAogIC0gaG9zdDogazhzZGVtby4xN3Ftcy5jb20KICAgIGh0dHA6CiAgICAgIHBhdGhzOgogICAgICAtIHBhdGg6IC9mb28vKC4qKQogICAgICAgIGJhY2tlbmQ6CiAgICAgICAgICBzZXJ2aWNlTmFtZTogaHR0cC1zdmMxCiAgICAgICAgICBzZXJ2aWNlUG9ydDogODAKCg==</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -592,31 +605,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBrZXk6IFNQUklOR19QUk9GSUxFU19BQ1RJVkUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBwYXRoOiAvYmFyCiAgICAgICAgYmFja2VuZDoKICAgICAgICAgIHNlcnZpY2VOYW1lOiBodHRwLXN2YzIKICAgICAgICAgIHNlcnZpY2VQb3J0OiA4MAogIC0gaG9zdDogazhzZGVtby4xN3Ftcy5jb20KICAgIGh0dHA6CiAgICAgIHBhdGhzOgogICAgICAtIHBhdGg6IC9mb28vKC4qKQogICAgICAgIGJhY2tlbmQ6CiAgICAgICAgICBzZXJ2aWNlTmFtZTogaHR0cC1zdmMxCiAgICAgICAgICBzZXJ2aWNlUG9ydDogODAKCg==</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIGhvc3RzOgogICAgLSBrOHNkZW1vMi4xN3Ftcy5jb20KICAgIHNlY3JldE5hbWU6IGh0dHBzLWs4c2RlbW8yCg==</text>
+        <text encoding="base64">ICAgICAgLSBwYXRoOiAvYmFyCiAgICAgICAgYmFja2VuZDoKICAgICAgICAgIHNlcnZpY2VOYW1lOiBodHRwLXN2YzIKICAgICAgICAgIHNlcnZpY2VQb3J0OiA4MAogIC0gaG9zdDogazhzZGVtby4xN3Ftcy5jb20KICAgIGh0dHA6CiAgICAgIHBhdGhzOgogICAgICAtIHBhdGg6IC9mb28vKC4qKQogICAgICAgIGJhY2tlbmQ6CiAgICAgICAgICBzZXJ2aWNlTmFtZTogaHR0cC1zdmMxCiAgICAgICAgICBzZXJ2aWNlUG9ydDogODAKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIyMjIyMjIyMg6YWN572udnVsdW1lIG1vdW50ICMjIyMjIyMjIyMjCg==</text>
+        <text encoding="base64">ICAtIGhvc3RzOgogICAgLSBrOHNkZW1vMi4xN3Ftcy5jb20KICAgIHNlY3JldE5hbWU6IGh0dHBzLWs4c2RlbW8yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiB2b2x1bW4tc2xzLW15ZGVtbwogICAgICAgICAgbW91bnRQYXRoOiAvdmFyL2xvZwogICAgICB2b2x1bWVzOgogICAgICAtIG5hbWU6IHZvbHVtbi1zbHMtbXlkZW1vCiAgICAgICAgZW1wdHlEaXI6IHt9CiAgICAgIHJlc3RhcnRQb2xpY3k6IEFsd2F5cwo=</text>
+        <text encoding="base64">ICAgICAgICAjIyMjIyMjIyMg6YWN572udnVsdW1lIG1vdW50ICMjIyMjIyMjIyMjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgLSBzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD1nb2FpbWlhbnNoaTIwMTghCg==</text>
+        <text encoding="base64">ICAgICAgICB2b2x1bWVNb3VudHM6CiAgICAgICAgLSBuYW1lOiB2b2x1bW4tc2xzLW15ZGVtbwogICAgICAgICAgbW91bnRQYXRoOiAvdmFyL2xvZwogICAgICB2b2x1bWVzOgogICAgICAtIG5hbWU6IHZvbHVtbi1zbHMtbXlkZW1vCiAgICAgICAgZW1wdHlEaXI6IHt9CiAgICAgIHJlc3RhcnRQb2xpY3k6IEFsd2F5cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgLSBTUFJJTkdfUFJPRklMRVNfQUNUSVZFPXByb2QK</text>
+        <text encoding="base64">ICAgLSBzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD1nb2FpbWlhbnNoaTIwMTghCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgU1BFQ0lBTF9UWVBFOiBjaGFybQo=</text>
+        <text encoding="base64">ICAgLSBTUFJJTkdfUFJPRklMRVNfQUNUSVZFPXByb2QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgU1BFQ0lBTF9MRVZFTDogdmVyeQo=</text>
+        <text encoding="base64">ICAgU1BFQ0lBTF9UWVBFOiBjaGFybQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbHVzdGVySVA6IDE3Mi4yMS43LjE1OQo=</text>
+        <text encoding="base64">ICAgU1BFQ0lBTF9MRVZFTDogdmVyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
