@@ -85,11 +85,11 @@
         <mark key="^" line="81" column="6" />
         <mark key="." line="81" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" timestamp="1562899580134">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" timestamp="1562902566568">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/resumeProxy/saveResponseAddOn.py" timestamp="1561724675966">
         <mark key="'" line="8" column="0" />
@@ -238,13 +238,14 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" timestamp="1562901071447">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" timestamp="1562902727127">
+        <mark key="'" line="115" column="5" />
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/requirements.txt" timestamp="1562900602084">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/requirements.txt" timestamp="1562901947222">
         <mark key="[" line="18" column="16" />
         <mark key="]" line="18" column="16" />
         <mark key="^" line="18" column="16" />
@@ -297,6 +298,9 @@
         <mark key="]" line="47" column="18" />
         <mark key="^" line="47" column="18" />
         <mark key="." line="47" column="18" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/tmp/Upload-Demo/index.html" timestamp="1562902505713">
+        <mark key="[" line="111" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" timestamp="1539161054462">
         <mark key="'" line="2" column="0" />
@@ -626,10 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_get_http_header_demo.py" />
-      <jump line="50" column="35" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_get_http_header_demo.py" />
-      <jump line="9" column="2" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_get_http_header_demo.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_get_http_header_demo.py" />
       <jump line="25" column="0" filename="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_socket_wait_for_data.py" />
       <jump line="464" column="58" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
       <jump line="628" column="18" filename="/anaconda3/envs/pydemos/lib/python3.7/asyncio/streams.py" />
@@ -726,10 +726,14 @@
       <jump line="1" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
       <jump line="5" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
       <jump line="5" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/README.md" />
+      <jump line="5" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" />
+      <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" />
+      <jump line="45" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" />
+      <jump line="126" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Document</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9EcmF3UGx1Z2luLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
         <text>Document</text>
@@ -738,34 +742,34 @@
         <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBbcHlwcGV0ZWVyXShodHRwczovL2dpdGh1Yi5jb20vbWl5YWtvZ2kvcHlwcGV0ZWVyKSAgSGVhZGxlc3MgY2hyb21lL2Nocm9taXVtIGF1dG9tYXRpb24gbGlicmFyeSAodW5vZmZpY2lhbCBwb3J0IG9mIHB1cHBldGVlcikK</text>
+        <text encoding="base64">PGh0bWwgbGFuZz0iZW4iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9EcmF3UGx1Z2luLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QSBsb25nZXIgZGVzY3JpcHRpb24gb2YgeW91ciBwcm9qZWN0IGdvZXMgaGVyZS4uLgo=</text>
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgo8L2hlYWQ+Cjxib2R5PgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5Eb2N1bWVudDwvdGl0bGU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QWRkIGEgc2hvcnQgZGVzY3JpcHRpb24gaGVyZSEK</text>
+        <text encoding="base64">ICAgIDxodG1sIGxhbmc9ImVuIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHQyID0gTXVsKE51bWJlcigyKSwgdDEpCg==</text>
+        <text encoding="base64">PGh0bWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHQzID0gRGl2KHQyLCBOdW1iZXIoNSkpCg==</text>
+        <text encoding="base64">ICAgICAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChsYXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChsYXN0KQo=</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
