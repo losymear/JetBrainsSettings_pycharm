@@ -85,12 +85,12 @@
         <mark key="^" line="81" column="6" />
         <mark key="." line="81" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" timestamp="1562926184656">
-        <mark key="'" line="33" column="4" />
-        <mark key="[" line="33" column="93" />
-        <mark key="]" line="33" column="99" />
-        <mark key="." line="33" column="99" />
-        <mark key="^" line="33" column="99" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" timestamp="1562928368835">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="52" column="29" />
+        <mark key="]" line="52" column="27" />
+        <mark key="." line="52" column="27" />
+        <mark key="^" line="52" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/resumeProxy/saveResponseAddOn.py" timestamp="1561724675966">
         <mark key="'" line="8" column="0" />
@@ -450,11 +450,22 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/buildImage.sh" timestamp="1562929941564">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="67" />
+        <mark key="^" line="4" column="67" />
+        <mark key="." line="4" column="67" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/enforcing_type_checking_on_a_function_using_a_decorator/example.py" timestamp="1561971592146">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/Dockerfile" timestamp="1562930442422">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/10/loading_modules_from_a_remote_machine_using_import_hooks/testcode/fib.py" timestamp="1561810288043">
         <mark key="[" line="6" column="34" />
@@ -744,44 +755,44 @@
       <jump line="33" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>token</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UlVOIHB5cHBldGVlci1pbnN0YWxsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdG9rZW4gPSB1cmwuc2VhcmNoUGFyYW1zLmdldCgidG9rZW4iKTsK</text>
+        <text encoding="base64">Q09QWSBzcmMgL2hvbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3JlbGF0aXZlX3BhdGggPSAiLi90ZW1wbGF0ZS95dW54aW4uaHRtbD9hY2NpZD0iICsgYWNjaWQgKyAiJnRva2VuPSIgKyB0b2tlbgogICAgICAgIGZpbGVfYWJzb2x1dGVfcGF0aCA9IG9zLnBhdGguYWJzcGF0aChmaWxlX3JlbGF0aXZlX3BhdGgpCg==</text>
+        <text encoding="base64">UlVOIHB5cHBldGVlci1pbnN0YWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmlsZV9wYXRoCg==</text>
+        <text encoding="base64">RlJPTSBtaXRtcHJveHkvbWl0bXByb3h5OmxhdGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGggPSAnLi9maWxlRG93bmxvYWQnICsgcmVzcG9uc2UuY29udGVudAo=</text>
+        <text encoding="base64">Q09QWSBtaXRtcHJveHlDZXJ0LyogL2hvbWUvbWl0bXByb3h5Ly5taXRtcHJveHkvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZQo=</text>
+        <text encoding="base64">V09SS0RJUiAvaG9tZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGRvd25sb2FkX2ZpbGUoKToKICAgICIiIgogICAg5LiL6L296K++5Lu2CiAgICAiIiIKICAgIHBhc3MK</text>
+        <text encoding="base64">V09SS0RJUiAvaG9tZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjKTsK</text>
+        <text encoding="base64">V09SS0RJUiAvaG9tZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFjY2lkLCB0b2tlbiwgdXJsKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3JlbGF0aXZlX3BhdGggPSAiLi90ZW1wbGF0ZS95dW54aW4uaHRtbD9hY2NpZD0iICsgYWNjaWQgKyAiJnRva2VuPSIgKyB0b2tlbgogICAgICAgIGZpbGVfYWJzb2x1dGVfcGF0aCA9IG9zLnBhdGguYWJzcGF0aChmaWxlX3JlbGF0aXZlX3BhdGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmlsZV9wYXRoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHJlcXVlc3QuYXJncy5nZXQoJ3VybCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGggPSAnLi9maWxlRG93bmxvYWQnICsgcmVzcG9uc2UuY29udGVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
