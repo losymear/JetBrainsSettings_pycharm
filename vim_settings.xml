@@ -238,12 +238,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" timestamp="1562902727127">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" timestamp="1562904630948">
         <mark key="'" line="115" column="5" />
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="106" column="18" />
+        <mark key="]" line="106" column="17" />
+        <mark key="^" line="106" column="17" />
+        <mark key="." line="106" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/requirements.txt" timestamp="1562901947222">
         <mark key="[" line="18" column="16" />
@@ -418,12 +418,12 @@
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio.py" timestamp="1539610837932">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/README.md" timestamp="1562900711762">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/README.md" timestamp="1562904628473">
         <mark key="'" line="5" column="45" />
-        <mark key="[" line="13" column="100" />
-        <mark key="]" line="13" column="100" />
-        <mark key="^" line="13" column="100" />
-        <mark key="." line="13" column="100" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
         <mark key="[" line="0" column="7" />
@@ -732,11 +732,11 @@
       <jump line="126" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9EcmF3UGx1Z2luLmpzIj48L3NjcmlwdD4K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Document</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
@@ -745,31 +745,31 @@
         <text encoding="base64">PGh0bWwgbGFuZz0iZW4iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9EcmF3UGx1Z2luLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">LSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9EcmF3UGx1Z2luLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgo8L2hlYWQ+Cjxib2R5PgoK</text>
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT5Eb2N1bWVudDwvdGl0bGU+Cg==</text>
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgo8L2hlYWQ+Cjxib2R5PgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxodG1sIGxhbmc9ImVuIj4K</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5Eb2N1bWVudDwvdGl0bGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGh0bWw+Cg==</text>
+        <text encoding="base64">ICAgIDxodG1sIGxhbmc9ImVuIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cg==</text>
+        <text encoding="base64">PGh0bWw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
