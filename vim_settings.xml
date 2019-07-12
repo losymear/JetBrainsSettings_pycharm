@@ -239,11 +239,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" timestamp="1562906103856">
-        <mark key="'" line="114" column="5" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" timestamp="1562913442977">
+        <mark key="'" line="115" column="5" />
+        <mark key="[" line="118" column="46" />
+        <mark key="]" line="118" column="54" />
+        <mark key="^" line="118" column="54" />
+        <mark key="." line="118" column="54" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/requirements.txt" timestamp="1562901947222">
         <mark key="[" line="18" column="16" />
