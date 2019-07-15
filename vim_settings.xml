@@ -54,12 +54,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" timestamp="1562933829997">
-        <mark key="'" line="46" column="86" />
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="50" column="37" />
-        <mark key="." line="50" column="37" />
-        <mark key="^" line="50" column="37" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" timestamp="1563192499098">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="37" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/multiple_dispatch_with_function_annotations/example1.py" timestamp="1562161572811">
         <mark key="[" line="60" column="14" />
@@ -85,12 +85,12 @@
         <mark key="^" line="81" column="6" />
         <mark key="." line="81" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" timestamp="1562931051175">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" timestamp="1563191870667">
         <mark key="'" line="36" column="4" />
-        <mark key="[" line="31" column="47" />
-        <mark key="]" line="31" column="74" />
-        <mark key="." line="31" column="74" />
-        <mark key="^" line="31" column="74" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/resumeProxy/saveResponseAddOn.py" timestamp="1561724675966">
         <mark key="'" line="8" column="0" />
@@ -111,12 +111,6 @@
         <mark key="]" line="136" column="7" />
         <mark key="^" line="136" column="7" />
         <mark key="." line="136" column="7" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/types.pyi" timestamp="1562294716408">
-        <mark key="[" line="40" column="33" />
-        <mark key="]" line="40" column="32" />
-        <mark key="^" line="40" column="32" />
-        <mark key="." line="40" column="32" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/buildImage.sh" timestamp="1562057735422">
         <mark key="'" line="4" column="72" />
@@ -164,6 +158,18 @@
         <mark key="]" line="59" column="11" />
         <mark key="^" line="59" column="11" />
         <mark key="." line="59" column="11" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bd11c8fe-e58a-4ce3-a5d0-a7b39cdf1893/console.sql" timestamp="1524157668004">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/types.pyi" timestamp="1562294716408">
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="40" column="32" />
+        <mark key="^" line="40" column="32" />
+        <mark key="." line="40" column="32" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_a_decorator_with_user_adjustable_attributes/example1.py" timestamp="1561968770309">
         <mark key="[" line="25" column="0" />
@@ -246,14 +252,22 @@
         <mark key="^" line="23" column="106" />
         <mark key="." line="23" column="106" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/requirements.txt" timestamp="1562932494938">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/requirements.txt" timestamp="1563190828292">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="/test [python@localhost]" timestamp="1524157841371">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
+        <mark key="'" line="206" column="53" />
+        <mark key="[" line="330" column="55" />
+        <mark key="]" line="330" column="54" />
+        <mark key="^" line="330" column="54" />
+        <mark key="." line="330" column="54" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/.gitignore" timestamp="1558948338295">
         <mark key="'" line="7" column="5" />
@@ -261,12 +275,6 @@
         <mark key="]" line="50" column="8" />
         <mark key="^" line="50" column="8" />
         <mark key="." line="50" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bd11c8fe-e58a-4ce3-a5d0-a7b39cdf1893/console.sql" timestamp="1524157668004">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/service.yaml" timestamp="1562388337974">
         <mark key="'" line="18" column="0" />
@@ -378,6 +386,12 @@
         <mark key="^" line="75" column="2" />
         <mark key="." line="75" column="2" />
       </file>
+      <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/browser.py" timestamp="1563191214918">
+        <mark key="[" line="191" column="33" />
+        <mark key="]" line="191" column="32" />
+        <mark key="^" line="191" column="32" />
+        <mark key="." line="191" column="32" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" timestamp="1562393567128">
         <mark key="[" line="42" column="9" />
         <mark key="]" line="30" column="41" />
@@ -395,12 +409,6 @@
         <mark key="]" line="43" column="15" />
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a827d6a9-72ab-450a-80f0-3311df78bd01/console.sql" timestamp="1524157792313">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/myspider.py" timestamp="1537951168753">
         <mark key="[" line="16" column="0" />
@@ -486,6 +494,12 @@
         <mark key="]" line="6" column="33" />
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a827d6a9-72ab-450a-80f0-3311df78bd01/console.sql" timestamp="1524157792313">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/.gitignore" timestamp="1561691645515">
         <mark key="[" line="22" column="0" />
@@ -667,11 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" />
-      <jump line="10" column="0" filename="/usr/local/bin/a.py" />
-      <jump line="9" column="39" filename="/usr/local/bin/a.py" />
-      <jump line="8" column="12" filename="/usr/local/bin/a.py" />
-      <jump line="25" column="13" filename="/usr/local/bin/ltc.py" />
       <jump line="8" column="12" filename="/usr/local/bin/ltc.py" />
       <jump line="26" column="10" filename="/usr/local/bin/ltc.py" />
       <jump line="18" column="8" filename="/usr/local/bin/ltc.py" />
@@ -756,7 +765,6 @@
       <jump line="35" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
       <jump line="9" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
       <jump line="36" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
-      <jump line="18" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
       <jump line="27" column="1" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" />
       <jump line="25" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" />
       <jump line="58" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" />
@@ -767,46 +775,52 @@
       <jump line="19" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/Dockerfile" />
       <jump line="46" column="86" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
       <jump line="1" column="59" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/Dockerfile" />
+      <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/requirements.txt" />
+      <jump line="20" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
+      <jump line="206" column="53" filename="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" />
+      <jump line="18" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
+      <jump line="52" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIHB5cHBldGVlci1pbnN0YWxsCg==</text>
+        <text encoding="base64">ICAgICMgbG9vcCA9IGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>8657</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09QWSBzcmMgL2hvbWUK</text>
+        <text encoding="base64">ICAgICMgbG9vcCA9IGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHB5cHBldGVlci1pbnN0YWxsCg==</text>
+        <text encoding="base64">ICAgICMgbG9vcCA9IGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSBwaXAuY29uZiAvZXRjL3BpcC5jb25mCiMg5re75Yqg5Zu95YaF5rqQClJVTiBtdiAvZXRjL2FwdC9zb3VyY2VzLmxpc3QgL2V0Yy9hcHQvc291cmNlcy5saXN0LmJhawoKRU5WIFRaPUFzaWEvU2hhbmdoYWkKUlVOIGVjaG8gImRlYiBodHRwOi8vbWlycm9ycy4xNjMuY29tL2RlYmlhbi8gc3RyZXRjaCBtYWluIGNvbnRyaWIgbm9uLWZyZWVcblwKZGViIGh0dHA6Ly9taXJyb3JzLjE2My5jb20vZGViaWFuLyBzdHJldGNoLXVwZGF0ZXMgbWFpbiBjb250cmliIG5vbi1mcmVlXG5cCmRlYiBodHRwOi8vbWlycm9ycy4xNjMuY29tL2RlYmlhbi8gc3RyZXRjaC1iYWNrcG9ydHMgbWFpbiBjb250cmliIG5vbi1mcmVlXG5cCmRlYiBodHRwOi8vbWlycm9ycy4xNjMuY29tL2RlYmlhbi1zZWN1cml0eSBzdHJldGNoL3VwZGF0ZXMgbWFpbiBjb250cmliIG5vbi1mcmVlXG5cCiIgPiAvZXRjL2FwdC9zb3VyY2VzLmxpc3QKUlVOIGFwdC1nZXQgdXBkYXRlCiMgQ2hyb21l6ZyA6KaB55So5YiwbGlieDExLXhjYjEKUlVOIGFwdCBpbnN0YWxsIC15IGdjb25mLXNlcnZpY2UgbGliYXNvdW5kMiBsaWJhdGsxLjAtMCBsaWJjNiBsaWJjYWlybzIgbGliY3VwczIgbGliZGJ1cy0xLTMgbGliZXhwYXQxIGxpYmZvbnRjb25maWcxIGxpYmdjYzEgbGliZ2NvbmYtMi00IGxpYmdkay1waXhidWYyLjAtMCBsaWJnbGliMi4wLTAgbGliZ3RrLTMtMCBsaWJuc3ByNCBsaWJwYW5nby0xLjAtMCBsaWJwYW5nb2NhaXJvLTEuMC0wIGxpYnN0ZGMrKzYgbGlieDExLTYgbGlieDExLXhjYjEgbGlieGNiMSBsaWJ4Y29tcG9zaXRlMSBsaWJ4Y3Vyc29yMSBsaWJ4ZGFtYWdlMSBsaWJ4ZXh0NiBsaWJ4Zml4ZXMzIGxpYnhpNiBsaWJ4cmFuZHIyIGxpYnhyZW5kZXIxIGxpYnhzczEgbGlieHRzdDYgY2EtY2VydGlmaWNhdGVzIGZvbnRzLWxpYmVyYXRpb24gbGliYXBwaW5kaWNhdG9yMSBsaWJuc3MzIGxzYi1yZWxlYXNlIHhkZy11dGlscyB3Z2V0Cg==</text>
+        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJPTSBweXRob246Mwo=</text>
+        <text encoding="base64">ICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AobG9vcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsICAtciAvaG9tZS9yZXF1aXJlbWVudHMudHh0ClJVTiBweXBwZXRlZXItaW5zdGFsbAo=</text>
+        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkKICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AobG9vcCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsICAtciAvaG9tZS9yZXF1aXJlbWVudHMudHh0Cg==</text>
+        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDaHJvbWXpnIDopoHnlKjliLBsaWJ4MTEteGNiMQo=</text>
+        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5WIFRaPUFzaWEvU2hhbmdoYWkK</text>
+        <text encoding="base64">bG9vcCA9IGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIHB5cHBldGVlci1pbnN0YWxsCg==</text>
+        <text encoding="base64">ICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AobG9vcCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
