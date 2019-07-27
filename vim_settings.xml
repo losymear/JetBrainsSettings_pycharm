@@ -184,6 +184,13 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" timestamp="1564217829646">
+        <mark key="'" line="8" column="20" />
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch-service.yaml" timestamp="1562405309612">
         <mark key="[" line="10" column="7" />
       </file>
@@ -266,8 +273,8 @@
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/creating_a_new_kind_of_class_or_instance_attribute/example1.py" timestamp="1562294733595">
         <mark key="[" line="27" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1562675687372">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1564215226040">
+        <mark key="." line="0" column="25" />
       </file>
       <file name="/fragment.py" timestamp="1524196569592">
         <mark key="[" line="0" column="0" />
@@ -336,11 +343,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/config.py" timestamp="1564211190367">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="6" column="57" />
-        <mark key="." line="6" column="57" />
-        <mark key="^" line="6" column="57" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/config.py" timestamp="1564217204693">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="/test [python@localhost]" timestamp="1524157841371">
         <mark key="[" line="0" column="0" />
@@ -384,6 +391,9 @@
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
+      </file>
+      <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/flask/json/__init__.py" timestamp="1564215287519">
+        <mark key="[" line="52" column="39" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/pyqq/server.py" timestamp="1564198694091">
         <mark key="'" line="35" column="7" />
@@ -497,12 +507,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/run.sh" timestamp="1564211435842">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/run.sh" timestamp="1564217497889">
         <mark key="'" line="9" column="26" />
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="9" column="22" />
-        <mark key="." line="9" column="23" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" timestamp="1562393567128">
         <mark key="[" line="42" column="9" />
@@ -594,12 +604,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" timestamp="1564208738935">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="40" column="12" />
-        <mark key="^" line="40" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" timestamp="1564216547304">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/Dockerfile" timestamp="1562058195658">
         <mark key="'" line="0" column="12" />
@@ -608,14 +618,27 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" timestamp="1564209308339">
-        <mark key="'" line="156" column="52" />
-        <mark key="[" line="335" column="12" />
-        <mark key="]" line="335" column="11" />
-        <mark key="^" line="335" column="11" />
-        <mark key="." line="335" column="11" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/cv_service/retry.py" timestamp="1564213718115">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" timestamp="1564217825886">
+        <mark key="'" line="60" column="12" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="35" />
+        <mark key="^" line="287" column="15" />
+        <mark key="." line="299" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/buildImage.sh" timestamp="1564211323697" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/ding_msg.py" timestamp="1564216567164">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/enforcing_type_checking_on_a_function_using_a_decorator/example.py" timestamp="1561971592146">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -801,12 +824,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" timestamp="1564211439509">
-        <mark key="'" line="5" column="28" />
-        <mark key="[" line="63" column="33" />
-        <mark key="]" line="63" column="33" />
-        <mark key="." line="63" column="33" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" timestamp="1564216782066">
+        <mark key="'" line="0" column="57" />
+        <mark key="[" line="68" column="26" />
+        <mark key="]" line="68" column="25" />
+        <mark key="." line="68" column="25" />
+        <mark key="^" line="68" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/.gitignore" timestamp="1562327896703">
         <mark key="[" line="0" column="5" />
@@ -833,12 +856,12 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/getcb.py" timestamp="1564209499246">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="29" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/getcb.py" timestamp="1564215374819">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/cv_service/scripts/run.sh" timestamp="1564197184506">
         <mark key="[" line="0" column="48" />
@@ -878,21 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/buildImage.sh" />
-      <jump line="4" column="72" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/buildImage.sh" />
-      <jump line="17" column="14" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" />
-      <jump line="33" column="34" filename="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/implementing_a_data_model_or_type_system/example.py" />
-      <jump line="24" column="15" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" />
-      <jump line="1" column="39" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" />
-      <jump line="15" column="31" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/service.yaml" />
-      <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/service.yaml" />
-      <jump line="18" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/service.yaml" />
-      <jump line="20" column="15" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" />
-      <jump line="48" column="27" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
-      <jump line="22" column="26" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
       <jump line="40" column="8" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
       <jump line="41" column="38" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/k8s.yaml" />
@@ -978,46 +986,61 @@
       <jump line="55" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
       <jump line="5" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
       <jump line="3" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Dockerfile" />
+      <jump line="59" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
+      <jump line="266" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" />
+      <jump line="19" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/getcb.py" />
+      <jump line="57" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
+      <jump line="0" column="57" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
+      <jump line="12" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
+      <jump line="37" column="39" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
+      <jump line="4" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/ding_msg.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/ding_msg.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/ding_msg.py" />
+      <jump line="58" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
+      <jump line="76" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
+      <jump line="7" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8086</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5jRWxlbWVudFRyZWUgYXMgRVQK</text>
       </register>
       <register name="-" type="4">
-        <text>8086</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9hcHAK</text>
+        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5jRWxlbWVudFRyZWUgYXMgRVQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnNzYWQK</text>
+        <text encoding="base64">ICAgICAgICAtLWVycm9yLWxvZ2ZpbGU9L2FwcC9sb2cvZXJyb3JfcHJpbnQubG9nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RlJPTSByZWdpc3RyeS5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20vcXVtaWFuc2hpL3B5cHBldGVlci1iYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAtLWFjY2Vzcy1sb2dmaWxlPS9hcHAvbG9nL2FjY2Vzc19wcmludC5sb2cgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgQGFwcC5yb3V0ZSgnL3VwbG9hZCcsIG1ldGhvZHM9WydQT1NUJ10pCiAgICAjIGRlZiB1cGxvYWQoKToKICAgICMgICAgIGRhdGEgPSByZXF1ZXN0LmRhdGEKICAgICMgICAgIGRhdGFfZGljdCA9IGpzb24ubG9hZHMoZGF0YSkKICAgICMgICAgIGFjY2lkID0gZGF0YV9kaWN0WyJhY2NpZCJdCiAgICAjICAgICBlbnYgPSBkYXRhX2RpY3RbImVudiJdCiAgICAjICAgICB0b2tlbiA9IGRhdGFfZGljdFsidG9rZW4iXQogICAgIyAgICAgZmlsZV91cmwgPSBkYXRhX2RpY3RbImZpbGVVcmwiXQogICAgIyAgICAgZmlsZV9uYW1lID0gZGF0YV9kaWN0WyJmaWxlTmFtZSJdCiAgICAjICAgICBwcmludCgiZmlsZV91cmzvvJoiLCBmaWxlX3VybCkKICAgICMgICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkKICAgICMgICAgIHJldHVybiBsb29wLnJ1bl91bnRpbF9jb21wbGV0ZSh5dW54aW5fdXBsb2FkKGFjY2lkLCB0b2tlbiwgZmlsZV91cmwsIGZpbGVfbmFtZSwgZW52KSkK</text>
+        <text encoding="base64">IyBodHRwczovL29hcGkuZGluZ3RhbGsuY29tL3JvYm90L3NlbmQ/YWNjZXNzX3Rva2VuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRVJSOiBWZXJpZnlVUkwgcmV0OiAiICsgc3RyKHJldCkpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKCJFUlI6IFZlcmlmeVVSTCByZXQ6ICIgKyBzdHIocmV0KSkK</text>
+        <text encoding="base64">ZGVmIHNlbmRfZGluZ19tc2cobWVzc2FnZSk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBIdHRwUmVzcG9uc2UocmV0dXJuTXNnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBIdHRwUmVzcG9uc2Uoc0VjaG9TdHIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKCJFUlI6IFZlcmlmeVVSTCByZXQ6ICIgKyBzdHIocmV0KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBoYXJkIGNvZGUgY29uZmlndXJhdGlvbgogICAgc1Rva2VuID0gImVkaXRfdGhpcyIKICAgIHNFbmNvZGluZ0FFU0tleSA9ICJlZGl0X3RoaXMiCiAgICBzQ29ycElEID0gImVkaXRfdGhpcyIKCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgImV4cGlyZV90aW1lIjogMTU2NDIwNzUxMTg3OCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
