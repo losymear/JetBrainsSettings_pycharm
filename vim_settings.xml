@@ -513,6 +513,12 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/requirements.txt" timestamp="1564147627480">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/__init__.py" timestamp="1561701959049">
         <mark key="[" line="10" column="46" />
         <mark key="]" line="10" column="45" />
@@ -783,8 +789,8 @@
       <jump line="61" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>timeout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2Vic29ja2V0cz09Ni4wCg==</text>
       </register>
       <register name="-" type="4">
         <text>timeout</text>
@@ -796,28 +802,28 @@
         <text encoding="base64">ICAgIGtleSA9IHJlcXVlc3QuYXJncy5nZXQoJ2tleScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbG9vcCA9IGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKQo=</text>
+        <text encoding="base64">d2Vic29ja2V0cz09Ni4wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2FpdHJlc3M9PXYxLjMuMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkK</text>
+        <text encoding="base64">cHlwcGV0ZWVyPT0wLjAuMjUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AobG9vcCkK</text>
+        <text encoding="base64">cHlwcGV0ZWVyPT0wLjAuMjUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkKICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AobG9vcCkK</text>
+        <text encoding="base64">Zmxhc2s9PTEuMS4wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkK</text>
+        <text encoding="base64">ICAgICMgbG9vcCA9IGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9vcCA9IGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKQo=</text>
+        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLm5ld19ldmVudF9sb29wKCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AobG9vcCkK</text>
