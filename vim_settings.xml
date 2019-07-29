@@ -142,6 +142,12 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/deploy.sh" timestamp="1564385101557">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/pyqq/util/qyqqapp.py" timestamp="1564199606514">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="0" column="0" />
@@ -971,7 +977,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGFjY2Vzc190b2tlbl9vYmopCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>onlinetest</text>
@@ -983,31 +989,31 @@
         <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOWIoOmZpOiBlOezu+S6ulxu5pe26Ze0IDp7fVxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGRhdGV0aW1lLmZyb210aW1lc3RhbXAoaW50KGJvZHlbJ0NyZWF0ZVRpbWUnXSkpLCBib2R5WydVc2VySUQnXSwgZXh0ZXJuYWxfdXNlclsnbmFtZSddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGFjY2Vzc190b2tlbl9vYmopCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGFjY2Vzc190b2tlbl9vYmopCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YWdlKCdidWlsZCcpIHsKICAgICAgICBzaCAnLi9pbnN0YWxsLWxpYi5zaCcKICAgICAgICBzaCAnLi9tdm53IGNsZWFuIHBhY2thZ2UgLURza2lwVGVzdHM9dHJ1ZScKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUT0RPOgo=</text>
+        <text encoding="base64">ICAgIHN0YWdlKCdidWlsZCcpIHsKICAgICAgICBzaCAnLi9pbnN0YWxsLWxpYi5zaCcKICAgICAgICBzaCAnLi9tdm53IGNsZWFuIHBhY2thZ2UgLURza2lwVGVzdHM9dHJ1ZScKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29ubiA9IHNxbGl0ZTMuY29ubmVjdCgnL2FwcC9leGFtcGxlLmRiJykK</text>
+        <text encoding="base64">IyBUT0RPOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5pe26Ze0IDp7fVxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBkYXRldGltZS5mcm9tdGltZXN0YW1wKGludChib2R5WydDcmVhdGVUaW1lJ10pKSwgZXh0ZXJuYWxfdXNlclsnbmFtZSddKQo=</text>
+        <text encoding="base64">Y29ubiA9IHNxbGl0ZTMuY29ubmVjdCgnL2FwcC9leGFtcGxlLmRiJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5pe26Ze0IDp7fVxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBkYXRldGltZS5mcm9tdGltZXN0YW1wKGJvZHlbJ0NyZWF0ZVRpbWUnXSksIGV4dGVybmFsX3VzZXJbJ25hbWUnXSkK</text>
+        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5pe26Ze0IDp7fVxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBkYXRldGltZS5mcm9tdGltZXN0YW1wKGludChib2R5WydDcmVhdGVUaW1lJ10pKSwgZXh0ZXJuYWxfdXNlclsnbmFtZSddKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBleHRlcm5hbF91c2VyWyduYW1lJ10pCg==</text>
+        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5pe26Ze0IDp7fVxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBkYXRldGltZS5mcm9tdGltZXN0YW1wKGJvZHlbJ0NyZWF0ZVRpbWUnXSksIGV4dGVybmFsX3VzZXJbJ25hbWUnXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBleHRlcm5hbF91c2VyWyduYW1lJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
