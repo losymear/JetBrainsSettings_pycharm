@@ -66,12 +66,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" timestamp="1564209553605">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" timestamp="1564371643848">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="54" column="30" />
+        <mark key="]" line="54" column="29" />
+        <mark key="^" line="54" column="29" />
+        <mark key="." line="54" column="29" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/multiple_dispatch_with_function_annotations/example1.py" timestamp="1562161572811">
         <mark key="[" line="60" column="14" />
@@ -128,12 +128,12 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapi.py" timestamp="1564371400005">
-        <mark key="'" line="73" column="4" />
-        <mark key="[" line="59" column="98" />
-        <mark key="]" line="69" column="43" />
-        <mark key="." line="69" column="43" />
-        <mark key="^" line="69" column="43" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapi.py" timestamp="1564371858812">
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="68" column="1" />
+        <mark key="]" line="67" column="66" />
+        <mark key="^" line="67" column="66" />
+        <mark key="." line="67" column="66" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/resumeProxy/saveResponseAddOn.py" timestamp="1561724675966">
         <mark key="'" line="8" column="0" />
@@ -574,12 +574,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" timestamp="1564371347661">
-        <mark key="'" line="3" column="53" />
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" timestamp="1564373540012">
+        <mark key="'" line="71" column="26" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/Dockerfile" timestamp="1562058195658">
         <mark key="'" line="0" column="12" />
@@ -601,7 +601,6 @@
         <mark key="." line="208" column="34" />
         <mark key="^" line="208" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/buildImage.sh" timestamp="1564211323697" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/ding_msg.py" timestamp="1564221027747">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="14" column="27" />
@@ -788,12 +787,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" timestamp="1564223410939">
-        <mark key="'" line="63" column="6" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" timestamp="1564373533633">
+        <mark key="'" line="81" column="21" />
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="81" column="21" />
+        <mark key="." line="81" column="21" />
+        <mark key="^" line="81" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/.gitignore" timestamp="1562327896703">
         <mark key="[" line="0" column="5" />
@@ -862,8 +861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="12" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch-deployment.yaml" />
-      <jump line="6" column="33" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch-deployment.yaml" />
       <jump line="32" column="18" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/searchengine-persistentvolumeclaim.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/searchengine-persistentvolumeclaim.yaml" />
       <jump line="34" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/searchengine-persistentvolumeclaim.yaml" />
@@ -962,46 +959,48 @@
       <jump line="3" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" />
       <jump line="13" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapi.py" />
       <jump line="73" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapi.py" />
+      <jump line="81" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
+      <jump line="70" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4GUbpBslYLlOgsIoE7jZul9416l8mjiHocNDPzs4Q_J7piR6zuw9cZYHsx9fA-xpiE2juTWrkeLm5tQGLmzItkbpUl3A4BPakJo1OvNhstBszMzWrz2O6EZvLNTpkNPooyhWvxHd0CnOQpYb8IwQXBdgOQmzy4ITZ9z4aNT849sSMyu2G3RHECbKL5XqcuA2r7hk3USvYtY5rHdeSpgmIw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCmFwcC5jb25maWdbJ0pTT05fQVNfQVNDSUknXSA9IEZhbHNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>4GUbpBslYLlOgsIoE7jZul9416l8mjiHocNDPzs4Q_J7piR6zuw9cZYHsx9fA-xpiE2juTWrkeLm5tQGLmzItkbpUl3A4BPakJo1OvNhstBszMzWrz2O6EZvLNTpkNPooyhWvxHd0CnOQpYb8IwQXBdgOQmzy4ITZ9z4aNT849sSMyu2G3RHECbKL5XqcuA2r7hk3USvYtY5rHdeSpgmIw</text>
+        <text>40096</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJleHBpcmVfdGltZSI6IDE1NjY3OTg5OTE0MTgsCg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgiL2RlcGFydG1lbnQvbGlzdCIpCmRlZiBnZXRfZGVwYXJ0bWVudF9saXN0KCk6CiAgICByZXR1cm4ganNvbmlmeShxeXFxaGVscGVyLmdldF9kZXBhcnRtZW50X2xpc3QoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCmFwcC5jb25maWdbJ0pTT05fQVNfQVNDSUknXSA9IEZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJkaWN0ICVzIiwgcmVzcF9kaWN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCIiKQo=</text>
+        <text encoding="base64">aW1wb3J0IHNxbGl0ZTMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiZXZlbnQiOiBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAiVXNlcklEIiwgIkV4dGVybmFsVXNlcklEIl0sCg==</text>
+        <text encoding="base64">Y28K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAidGV4dCI6IFsiVG9Vc2VyTmFtZSIsICJGcm9tVXNlck5hbWUiLCAiQ3JlYXRlVGltZSIsICJNc2dUeXBlIiwgIkNvbnRlbnQiLCAiTXNnSWQiLCAiQWdlbnRJRCIsICJDaGFuZ2VUeXBlIiwK</text>
+        <text encoding="base64">IyBhc3luY2lvLmdldF9ldmVudF9sb29wKCkucnVuX3VudGlsX2NvbXBsZXRlKHl1bnhpbl91cGxvYWQoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtLWVycm9yLWxvZ2ZpbGU9L2FwcC9sb2cvZXJyb3JfcHJpbnQubG9nCg==</text>
+        <text encoding="base64">ICAgICAgICAjIOW3sue7j+WIoOmZpO+8jOivpeaOpeWPo+S8muaKpemUmSJub3QgZXh0ZXJuYWwgY29udGFjdCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtLWFjY2Vzcy1sb2dmaWxlPS9hcHAvbG9nL2FjY2Vzc19wcmludC5sb2cgXAo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBodHRwczovL29hcGkuZGluZ3RhbGsuY29tL3JvYm90L3NlbmQ/YWNjZXNzX3Rva2VuCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
