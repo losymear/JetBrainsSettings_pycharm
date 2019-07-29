@@ -184,12 +184,12 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" timestamp="1564225597093">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" timestamp="1564365217031">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="88" column="5" />
-        <mark key="]" line="88" column="4" />
-        <mark key="." line="88" column="4" />
-        <mark key="^" line="88" column="4" />
+        <mark key="[" line="92" column="8" />
+        <mark key="]" line="92" column="7" />
+        <mark key="." line="92" column="7" />
+        <mark key="^" line="92" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch-service.yaml" timestamp="1562405309612">
         <mark key="[" line="10" column="7" />
@@ -604,8 +604,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" timestamp="1564225524900">
-        <mark key="'" line="50" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" timestamp="1564365254319">
+        <mark key="'" line="3" column="53" />
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="51" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/Dockerfile" timestamp="1562058195658">
         <mark key="'" line="0" column="12" />
@@ -900,7 +904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="17" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch2-deployment.yaml" />
       <jump line="68" column="19" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/k8s.yaml" />
       <jump line="11" column="16" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/swarm.yaml" />
       <jump line="18" column="12" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch-deployment.yaml" />
@@ -1000,10 +1003,11 @@
       <jump line="84" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
       <jump line="77" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
       <jump line="47" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
+      <jump line="3" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1566798991418</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>1566798991418</text>
@@ -1015,31 +1019,31 @@
         <text encoding="base64">ICAgICJleHBpcmVfdGltZSI6IDE1NjY3OTg5OTE0MTgsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJkaWN0ICVzIiwgcmVzcF9kaWN0KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCIiKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJkaWN0ICVzIiwgcmVzcF9kaWN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiZXZlbnQiOiBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAiVXNlcklEIiwgIkV4dGVybmFsVXNlcklEIl0sCg==</text>
+        <text encoding="base64">ICAgICAgICAiZXZlbnQiOiBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidGV4dCI6IFsiVG9Vc2VyTmFtZSIsICJGcm9tVXNlck5hbWUiLCAiQ3JlYXRlVGltZSIsICJNc2dUeXBlIiwgIkNvbnRlbnQiLCAiTXNnSWQiLCAiQWdlbnRJRCIsICJDaGFuZ2VUeXBlIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAiVXNlcklEIiwgIkV4dGVybmFsVXNlcklEIl0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtLWVycm9yLWxvZ2ZpbGU9L2FwcC9sb2cvZXJyb3JfcHJpbnQubG9nCg==</text>
+        <text encoding="base64">ICAgICAgICAidGV4dCI6IFsiVG9Vc2VyTmFtZSIsICJGcm9tVXNlck5hbWUiLCAiQ3JlYXRlVGltZSIsICJNc2dUeXBlIiwgIkNvbnRlbnQiLCAiTXNnSWQiLCAiQWdlbnRJRCIsICJDaGFuZ2VUeXBlIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtLWFjY2Vzcy1sb2dmaWxlPS9hcHAvbG9nL2FjY2Vzc19wcmludC5sb2cgXAo=</text>
+        <text encoding="base64">ICAgICAgICAtLWVycm9yLWxvZ2ZpbGU9L2FwcC9sb2cvZXJyb3JfcHJpbnQubG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBodHRwczovL29hcGkuZGluZ3RhbGsuY29tL3JvYm90L3NlbmQ/YWNjZXNzX3Rva2VuCg==</text>
+        <text encoding="base64">ICAgICAgICAtLWFjY2Vzcy1sb2dmaWxlPS9hcHAvbG9nL2FjY2Vzc19wcmludC5sb2cgXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">IyBodHRwczovL29hcGkuZGluZ3RhbGsuY29tL3JvYm90L3NlbmQ/YWNjZXNzX3Rva2VuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
