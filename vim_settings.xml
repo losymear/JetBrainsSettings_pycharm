@@ -267,8 +267,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1564215226040">
-        <mark key="." line="0" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.sql" timestamp="1564458761379">
+        <mark key="'" line="3" column="3" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests.py" timestamp="1539574024888">
         <mark key="[" line="12" column="0" />
@@ -380,9 +384,6 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/flask/json/__init__.py" timestamp="1564215287519">
-        <mark key="[" line="52" column="39" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/pyqq/server.py" timestamp="1564198694091">
         <mark key="'" line="35" column="7" />
         <mark key="[" line="3" column="11" />
@@ -467,12 +468,12 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" timestamp="1564457241584">
-        <mark key="'" line="12" column="58" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" timestamp="1564458583952">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+        <mark key="." line="17" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_client_demo.py" timestamp="1539715329782">
         <mark key="'" line="0" column="20" />
@@ -594,6 +595,12 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="40" column="14" />
       </file>
+      <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/mysql/connector/__init__.py" timestamp="1564459589552">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/Dockerfile" timestamp="1562058195658">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="10" column="0" />
@@ -671,12 +678,12 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/requirements.txt" timestamp="1564209972537">
-        <mark key="'" line="12" column="48" />
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="19" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/requirements.txt" timestamp="1564459781357">
+        <mark key="'" line="1" column="21" />
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+        <mark key="^" line="21" column="8" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/__init__.py" timestamp="1561701959049">
         <mark key="[" line="10" column="46" />
@@ -807,18 +814,24 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" timestamp="1564381187828">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" timestamp="1564458555963">
         <mark key="'" line="68" column="22" />
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="6" />
-        <mark key="." line="14" column="6" />
-        <mark key="^" line="14" column="6" />
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+        <mark key="^" line="6" column="37" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/.gitignore" timestamp="1562327896703">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" timestamp="1564460052798">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/swarm.yaml" timestamp="1562389503318">
         <mark key="[" line="14" column="13" />
@@ -881,9 +894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" />
-      <jump line="6" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" />
       <jump line="113" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" />
       <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/.gitignore" />
@@ -981,13 +991,16 @@
       <jump line="14" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" />
       <jump line="3" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" />
       <jump line="12" column="58" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" />
+      <jump line="9" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" />
+      <jump line="3" column="3" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.sql" />
+      <jump line="1" column="21" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>curconnsor</text>
       </register>
       <register name="-" type="4">
-        <text>onlinetest</text>
+        <text>curconnsor</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
@@ -996,31 +1009,31 @@
         <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOWIoOmZpOiBlOezu+S6ulxu5pe26Ze0IDp7fVxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGRhdGV0aW1lLmZyb210aW1lc3RhbXAoaW50KGJvZHlbJ0NyZWF0ZVRpbWUnXSkpLCBib2R5WydVc2VySUQnXSwgZXh0ZXJuYWxfdXNlclsnbmFtZSddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bXlzcWw9PSA1LjcuMjQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGFjY2Vzc190b2tlbl9vYmopCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGFjY2Vzc190b2tlbl9vYmopCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YWdlKCdidWlsZCcpIHsKICAgICAgICBzaCAnLi9pbnN0YWxsLWxpYi5zaCcKICAgICAgICBzaCAnLi9tdm53IGNsZWFuIHBhY2thZ2UgLURza2lwVGVzdHM9dHJ1ZScKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBUT0RPOgo=</text>
+        <text encoding="base64">ICAgIHN0YWdlKCdidWlsZCcpIHsKICAgICAgICBzaCAnLi9pbnN0YWxsLWxpYi5zaCcKICAgICAgICBzaCAnLi9tdm53IGNsZWFuIHBhY2thZ2UgLURza2lwVGVzdHM9dHJ1ZScKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29ubiA9IHNxbGl0ZTMuY29ubmVjdCgnL2FwcC9leGFtcGxlLmRiJykK</text>
+        <text encoding="base64">IyBUT0RPOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5pe26Ze0IDp7fVxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBkYXRldGltZS5mcm9tdGltZXN0YW1wKGludChib2R5WydDcmVhdGVUaW1lJ10pKSwgZXh0ZXJuYWxfdXNlclsnbmFtZSddKQo=</text>
+        <text encoding="base64">Y29ubiA9IHNxbGl0ZTMuY29ubmVjdCgnL2FwcC9leGFtcGxlLmRiJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5pe26Ze0IDp7fVxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBkYXRldGltZS5mcm9tdGltZXN0YW1wKGJvZHlbJ0NyZWF0ZVRpbWUnXSksIGV4dGVybmFsX3VzZXJbJ25hbWUnXSkK</text>
+        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5pe26Ze0IDp7fVxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBkYXRldGltZS5mcm9tdGltZXN0YW1wKGludChib2R5WydDcmVhdGVUaW1lJ10pKSwgZXh0ZXJuYWxfdXNlclsnbmFtZSddKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBleHRlcm5hbF91c2VyWyduYW1lJ10pCg==</text>
+        <text encoding="base64">ICAgIG1zZyA9ICLkuovku7Y6IOaWsOWinuiBlOezu+S6ulxu5pe26Ze0IDp7fVxu5LyB5Lia5oiQ5ZGYOiB7fVxu5aSW6YOo6IGU57O75Lq6e31cbiIuZm9ybWF0KGJvZHlbJ1VzZXJJRCddLCBkYXRldGltZS5mcm9tdGltZXN0YW1wKGJvZHlbJ0NyZWF0ZVRpbWUnXSksIGV4dGVybmFsX3VzZXJbJ25hbWUnXSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
