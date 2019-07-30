@@ -187,12 +187,12 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" timestamp="1564469422233">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" timestamp="1564471024851">
         <mark key="'" line="3" column="28" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="94" column="27" />
-        <mark key="." line="94" column="27" />
-        <mark key="^" line="94" column="27" />
+        <mark key="[" line="101" column="39" />
+        <mark key="]" line="101" column="38" />
+        <mark key="." line="101" column="38" />
+        <mark key="^" line="101" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_queue_demo.py" timestamp="1539743806852">
         <mark key="[" line="39" column="39" />
@@ -468,9 +468,9 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" timestamp="1564469251771">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" timestamp="1564470179924">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="14" column="0" />
+        <mark key="[" line="11" column="0" />
         <mark key="]" line="7" column="48" />
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
@@ -588,11 +588,11 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" timestamp="1564468430140">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="23" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" timestamp="1564471043563">
+        <mark key="[" line="83" column="48" />
+        <mark key="]" line="83" column="47" />
+        <mark key="^" line="83" column="47" />
+        <mark key="." line="83" column="47" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/mysql/connector/__init__.py" timestamp="1564459589552">
         <mark key="[" line="7" column="29" />
@@ -824,12 +824,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" timestamp="1564469814149">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" timestamp="1564470993612">
         <mark key="'" line="31" column="52" />
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/swarm.yaml" timestamp="1562389503318">
         <mark key="[" line="14" column="13" />
@@ -994,11 +994,11 @@
       <jump line="30" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>conn</text>
       </register>
       <register name="-" type="4">
-        <text>utf8mb4</text>
+        <text>conn</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
