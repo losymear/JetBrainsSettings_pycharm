@@ -187,12 +187,12 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" timestamp="1564468016881">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" timestamp="1564469422233">
         <mark key="'" line="3" column="28" />
-        <mark key="[" line="86" column="17" />
-        <mark key="]" line="86" column="16" />
-        <mark key="." line="86" column="16" />
-        <mark key="^" line="86" column="16" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="94" column="27" />
+        <mark key="." line="94" column="27" />
+        <mark key="^" line="94" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_queue_demo.py" timestamp="1539743806852">
         <mark key="[" line="39" column="39" />
@@ -468,9 +468,12 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" timestamp="1564467208707">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" timestamp="1564469251771">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="14" column="0" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_client_demo.py" timestamp="1539715329782">
         <mark key="'" line="0" column="20" />
@@ -674,9 +677,9 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/requirements.txt" timestamp="1564468717045">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/requirements.txt" timestamp="1564468822802">
         <mark key="'" line="1" column="21" />
-        <mark key="[" line="21" column="0" />
+        <mark key="[" line="20" column="30" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
@@ -821,12 +824,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" timestamp="1564468352646">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" timestamp="1564469814149">
         <mark key="'" line="31" column="52" />
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="55" />
-        <mark key="^" line="11" column="55" />
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/swarm.yaml" timestamp="1562389503318">
         <mark key="[" line="14" column="13" />
@@ -992,7 +995,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">b3BlbnNzbD09MS4wLjJyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>utf8mb4</text>
@@ -1004,31 +1007,31 @@
         <text encoding="base64">Y3Vyc29yLmV4ZWN1dGUoIlNFVCBhdXRvY29tbWl0ID0gMSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3BlbnNzbD09MS4wLjJyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29ubi5hdXRvY29tbWl0KDEpCg==</text>
+        <text encoding="base64">b3BlbnNzbD09MS4wLjJyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29ubi5jb21taXQoKQo=</text>
+        <text encoding="base64">Y29ubi5hdXRvY29tbWl0KDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBxeXFxX2V4dGVybmFsX3VzZXJgICgKICBgaWRgIGludCgxMSkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn6Ieq5aKeaWQnLAogIGBleHRlcm5hbF91c2VyaWRgIHZhcmNoYXIoMjU2KSBERUZBVUxUIE5VTEwsCiAgYGpzb25zdHJgIHRleHQsCiAgYGNyZWF0ZVRpbWVgIGRhdGV0aW1lIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAsCiAgYHVwZGF0ZVRpbWVgIGRhdGV0aW1lIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QLAogIFBSSU1BUlkgS0VZIChgaWRgKQopIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjhtYjQ7Cg==</text>
+        <text encoding="base64">Y29ubi5jb21taXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBgaWRgIGludCgxMSkgTk9UIE5VTEwsCg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBxeXFxX2V4dGVybmFsX3VzZXJgICgKICBgaWRgIGludCgxMSkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn6Ieq5aKeaWQnLAogIGBleHRlcm5hbF91c2VyaWRgIHZhcmNoYXIoMjU2KSBERUZBVUxUIE5VTEwsCiAgYGpzb25zdHJgIHRleHQsCiAgYGNyZWF0ZVRpbWVgIGRhdGV0aW1lIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAsCiAgYHVwZGF0ZVRpbWVgIGRhdGV0aW1lIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QLAogIFBSSU1BUlkgS0VZIChgaWRgKQopIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjhtYjQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IOivu+WPlnNxbGxpdGUK</text>
+        <text encoding="base64">ICBgaWRgIGludCgxMSkgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uLmV4ZWN1dGUoImRlbGV0ZSBmcm9tIGV4dGVybmFsY29udGFjdCB3aGVyZSBleHRlcm5hbF91c2VyaWQ9J3t9JyIuZm9ybWF0KGV4dGVybmFsX3VzZXJpZCkpCiAgICAgICAgY29ubi5leGVjdXRlbWFueSgiaW5zZXJ0IGludG8gZXh0ZXJuYWxjb250YWN0KGV4dGVybmFsX3VzZXJpZCwganNvbnN0cikgIHZhbHVlcyAoPywgPykiLAogICAgICAgICAgICAgICAgICAgICAgICAgWyhleHRlcm5hbF91c2VyaWQsIF0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgY29ubi5jb21taXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOivu+WPlnNxbGxpdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYi51cGRhdGVfZXh0Z2VybmFsX3VzZXIoZXh0ZXJuYWxfdXNlcmlkLCBqc29uLmR1bXBzKHJlc3VsdCkpCiAgICAgICAgY29ubi5leGVjdXRlKCJkZWxldGUgZnJvbSBleHRlcm5hbGNvbnRhY3Qgd2hlcmUgZXh0ZXJuYWxfdXNlcmlkPSd7fSciLmZvcm1hdChleHRlcm5hbF91c2VyaWQpKQogICAgICAgIGNvbm4uZXhlY3V0ZW1hbnkoImluc2VydCBpbnRvIGV4dGVybmFsY29udGFjdChleHRlcm5hbF91c2VyaWQsIGpzb25zdHIpICB2YWx1ZXMgKD8sID8pIiwKICAgICAgICAgICAgICAgICAgICAgICAgIFsoZXh0ZXJuYWxfdXNlcmlkLCBdKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25uLmV4ZWN1dGUoImRlbGV0ZSBmcm9tIGV4dGVybmFsY29udGFjdCB3aGVyZSBleHRlcm5hbF91c2VyaWQ9J3t9JyIuZm9ybWF0KGV4dGVybmFsX3VzZXJpZCkpCiAgICAgICAgY29ubi5leGVjdXRlbWFueSgiaW5zZXJ0IGludG8gZXh0ZXJuYWxjb250YWN0KGV4dGVybmFsX3VzZXJpZCwganNvbnN0cikgIHZhbHVlcyAoPywgPykiLAogICAgICAgICAgICAgICAgICAgICAgICAgWyhleHRlcm5hbF91c2VyaWQsIF0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgY29ubi5jb21taXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYi51cGRhdGVfZXh0Z2VybmFsX3VzZXIoZXh0ZXJuYWxfdXNlcmlkLCBqc29uLmR1bXBzKHJlc3VsdCkpCiAgICAgICAgY29ubi5leGVjdXRlKCJkZWxldGUgZnJvbSBleHRlcm5hbGNvbnRhY3Qgd2hlcmUgZXh0ZXJuYWxfdXNlcmlkPSd7fSciLmZvcm1hdChleHRlcm5hbF91c2VyaWQpKQogICAgICAgIGNvbm4uZXhlY3V0ZW1hbnkoImluc2VydCBpbnRvIGV4dGVybmFsY29udGFjdChleHRlcm5hbF91c2VyaWQsIGpzb25zdHIpICB2YWx1ZXMgKD8sID8pIiwKICAgICAgICAgICAgICAgICAgICAgICAgIFsoZXh0ZXJuYWxfdXNlcmlkLCBdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
