@@ -467,6 +467,13 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" timestamp="1564457241584">
+        <mark key="'" line="12" column="58" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_client_demo.py" timestamp="1539715329782">
         <mark key="'" line="0" column="20" />
         <mark key="[" line="8" column="12" />
@@ -874,7 +881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" />
       <jump line="126" column="5" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" />
       <jump line="6" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" />
       <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" />
@@ -974,6 +980,7 @@
       <jump line="52" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" />
       <jump line="14" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" />
       <jump line="3" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" />
+      <jump line="12" column="58" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
