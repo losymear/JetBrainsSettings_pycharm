@@ -588,8 +588,8 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" timestamp="1564471043563">
-        <mark key="[" line="83" column="48" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" timestamp="1564476413542">
+        <mark key="[" line="76" column="9" />
         <mark key="]" line="83" column="47" />
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="47" />
@@ -824,12 +824,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" timestamp="1564470993612">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" timestamp="1564476418812">
         <mark key="'" line="31" column="52" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/swarm.yaml" timestamp="1562389503318">
         <mark key="[" line="14" column="13" />
