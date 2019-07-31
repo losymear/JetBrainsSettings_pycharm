@@ -219,11 +219,11 @@
         <mark key="^" line="115" column="33" />
         <mark key="." line="115" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/admin/k8s.yaml" timestamp="1562393204596">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="59" column="11" />
-        <mark key="^" line="59" column="11" />
-        <mark key="." line="59" column="11" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/admin/k8s.yaml" timestamp="1564541020297">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bd11c8fe-e58a-4ce3-a5d0-a7b39cdf1893/console.sql" timestamp="1524157668004">
         <mark key="[" line="0" column="0" />
@@ -507,11 +507,12 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" timestamp="1562393567128">
-        <mark key="[" line="42" column="9" />
-        <mark key="]" line="30" column="41" />
-        <mark key="^" line="30" column="41" />
-        <mark key="." line="30" column="41" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" timestamp="1564541243277">
+        <mark key="'" line="45" column="14" />
+        <mark key="[" line="54" column="1" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/README.md" timestamp="1562391319586">
         <mark key="[" line="5" column="7" />
@@ -856,12 +857,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1562405330660">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1564541044496">
         <mark key="'" line="20" column="15" />
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="30" column="18" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="30" column="18" />
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
@@ -891,8 +892,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" />
       <jump line="1" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
       <jump line="35" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
       <jump line="9" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" />
@@ -991,10 +990,12 @@
       <jump line="30" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" />
       <jump line="37" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" />
       <jump line="38" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.py" />
+      <jump line="15" column="22" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" />
+      <jump line="45" column="14" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgaW1hZ2VQdWxsU2VjcmV0czoKICAgICAgLSBuYW1lOiByZWdjcmVkCg==</text>
       </register>
       <register name="-" type="4">
         <text>conn</text>
@@ -1006,31 +1007,31 @@
         <text encoding="base64">ICAgIHdpdGggZ2V0X2Nvbm5lY3Rpb24oKSBhcyBjb25uOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgaW1hZ2VQdWxsU2VjcmV0czoKICAgICAgLSBuYW1lOiByZWdjcmVkCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBjb25uLmNsb3NlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uID0gZ2V0X2Nvbm5lY3Rpb24oKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb25uLmNsb3NlKCkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uID0gZ2V0X2Nvbm5lY3Rpb24oKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRyeToK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbm4K</text>
+        <text encoding="base64">ICAgICAgICBjb25uLmNsb3NlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3BlbnNzbD09MS4wLjJyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29ubi5hdXRvY29tbWl0KDEpCg==</text>
+        <text encoding="base64">b3BlbnNzbD09MS4wLjJyCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
