@@ -79,12 +79,12 @@
         <mark key="^" line="54" column="29" />
         <mark key="." line="54" column="29" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/raw-note.md" timestamp="1564627680147">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/raw-note.md" timestamp="1564651516913">
         <mark key="'" line="212" column="28" />
-        <mark key="[" line="186" column="49" />
-        <mark key="]" line="315" column="0" />
-        <mark key="^" line="315" column="0" />
-        <mark key="." line="315" column="0" />
+        <mark key="[" line="301" column="21" />
+        <mark key="]" line="308" column="2" />
+        <mark key="^" line="308" column="2" />
+        <mark key="." line="308" column="2" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/resume-pdf-nodejs/k8s.yaml" timestamp="1564651001491">
         <mark key="[" line="40" column="12" />
@@ -703,6 +703,12 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/resume-parse/swarm.yaml" timestamp="1564651964990">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" timestamp="1564464841074">
         <mark key="'" line="36" column="6" />
         <mark key="[" line="166" column="69" />
@@ -742,11 +748,11 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/not_tested/swarm.yaml" timestamp="1564648609759">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="14" />
-        <mark key="^" line="18" column="14" />
-        <mark key="." line="18" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/not_tested/swarm.yaml" timestamp="1564651784384">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a827d6a9-72ab-450a-80f0-3311df78bd01/console.sql" timestamp="1524157792313">
         <mark key="[" line="0" column="0" />
@@ -838,12 +844,12 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" timestamp="1564650872300">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" timestamp="1564651519059">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/test_car.py" timestamp="1524212643989">
         <mark key="[" line="48" column="0" />
@@ -907,6 +913,12 @@
         <mark key="]" line="28" column="10" />
         <mark key="." line="28" column="10" />
         <mark key="^" line="28" column="10" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/resume-generate/swarm.yaml" timestamp="1564651929765">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/test_skeleton.py" timestamp="1539417828586">
         <mark key="[" line="4" column="19" />
