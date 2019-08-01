@@ -423,12 +423,6 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/wx-official-account/k8s.yaml" timestamp="1564648032876">
-        <mark key="'" line="81" column="15" />
-        <mark key="]" line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/qyqq-py/swarm.yaml" timestamp="1564649277610">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="1" column="53" />
@@ -501,12 +495,12 @@
         <mark key="." line="18" column="60" />
         <mark key="^" line="18" column="60" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch2-deployment.yaml" timestamp="1562402908663">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch2-deployment.yaml" timestamp="1564661900011">
         <mark key="'" line="20" column="8" />
-        <mark key="[" line="47" column="7" />
-        <mark key="]" line="47" column="6" />
-        <mark key="^" line="47" column="6" />
-        <mark key="." line="47" column="6" />
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="44" />
+        <mark key="^" line="45" column="44" />
+        <mark key="." line="45" column="44" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/future.py" timestamp="1539440111808">
         <mark key="[" line="38" column="59" />
@@ -532,12 +526,12 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/searchengine-persistentvolumeclaim.yaml" timestamp="1562403011290">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/searchengine-persistentvolumeclaim.yaml" timestamp="1564661870469">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+        <mark key="^" line="6" column="42" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/Dockerfile-pyppeteer" timestamp="1564209626273">
         <mark key="[" line="1" column="21" />
@@ -773,11 +767,11 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/test-ingress.yaml" timestamp="1562405337079">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="16" />
-        <mark key="^" line="16" column="16" />
-        <mark key="." line="16" column="16" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/test-ingress.yaml" timestamp="1564662042987">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/__init__.py" timestamp="1561701959049">
         <mark key="[" line="10" column="46" />
@@ -862,6 +856,12 @@
         <mark key="]" line="9" column="51" />
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/not_tested/k8s_bad.yaml" timestamp="1564661698165">
+        <mark key="[" line="50" column="31" />
+        <mark key="]" line="50" column="30" />
+        <mark key="^" line="50" column="30" />
+        <mark key="." line="50" column="30" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/yunxin-prod/swarm.yaml" timestamp="1564648425158">
         <mark key="[" line="14" column="35" />
@@ -1107,11 +1107,11 @@
       <jump line="80" column="16" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/miniapp/k8s.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0bHM6CiAgICAtIGhvc3RzOgogICAgICAgIC0gLjE3cW1zLmNvbQogICAgICBzZWNyZXROYW1lOiBodHRwcy1yZXN1bWUtcGRmCg==</text>
+      <register name="&quot;" type="4">
+        <text>d-bp1g9hysunkzse9uspfs</text>
       </register>
       <register name="-" type="4">
-        <text>yunxin_trans</text>
+        <text>d-bp1g9hysunkzse9uspfs</text>
       </register>
       <register name="/" type="4">
         <text>conn</text>
@@ -1120,31 +1120,31 @@
         <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBNWVNRTF9VU0VSCiAgICAgICAgICAgICAgdmFsdWU6IHFtcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0bHM6CiAgICAtIGhvc3RzOgogICAgICAgIC0gLjE3cW1zLmNvbQogICAgICBzZWNyZXROYW1lOiBodHRwcy1yZXN1bWUtcGRmCg==</text>
+        <text encoding="base64">ICB0bHM6CiAgLSBob3N0czoKICAgIC0gZXN0ZXN0LjE3cW1zLmNvbQogICAgc2VjcmV0TmFtZTogaHR0cHMtazhzZGVtbzIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZTogYXBwPXJlc3VtZS1wZGYK</text>
+        <text encoding="base64">ICB0bHM6CiAgICAtIGhvc3RzOgogICAgICAgIC0gLjE3cW1zLmNvbQogICAgICBzZWNyZXROYW1lOiBodHRwcy1yZXN1bWUtcGRmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBhbGl5dW5fbG9nc19teXRhZzFfdGFncwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZTogYXBwPXJlc3VtZS1wZGYK</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBhbGl5dW5fbG9nc19teXRhZzFfdGFncwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZTogYXBwPXJlc3VtZS1wZGYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBTUFJJTkdfUFJPRklMRVNfQUNUSVZFCiAgICAgICAgICAgICAgdmFsdWVGcm9tOiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyPkvb/nlKh2YWx1ZUZyb23mnaXmjIflrpplbnblvJXnlKjphY3nva7pobnnmoR2YWx1ZeWAvAogICAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgICBuYW1lOiB4emItY29uZmlnCiAgICAgICAgICAgICAgICAgIGtleTogU1BSSU5HX1BST0ZJTEVTX0FDVElWRQogICAgICAgICAgICAtIG5hbWU6IFNQUklOR19EQVRBU09VUkNFX1BBU1NXT1JECiAgICAgICAgICAgICAgdmFsdWVGcm9tOiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyPkvb/nlKh2YWx1ZUZyb23mnaXmjIflrpplbnblvJXnlKjphY3nva7pobnnmoR2YWx1ZeWAvAogICAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgICBuYW1lOiB4emItY29uZmlnCiAgICAgICAgICAgICAgICAgIGtleTogU1BSSU5HX0RBVEFTT1VSQ0VfUEFTU1dPUkQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBhbGl5dW5fbG9nc19teXRhZzFfdGFncwogICAgICAgICAgICAgIHZhbHVlOiBhcHA9bWluaWFwcAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBhbGl5dW5fbG9nc19teXRhZzFfdGFncwo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBTUFJJTkdfUFJPRklMRVNfQUNUSVZFCiAgICAgICAgICAgICAgdmFsdWVGcm9tOiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyPkvb/nlKh2YWx1ZUZyb23mnaXmjIflrpplbnblvJXnlKjphY3nva7pobnnmoR2YWx1ZeWAvAogICAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgICBuYW1lOiB4emItY29uZmlnCiAgICAgICAgICAgICAgICAgIGtleTogU1BSSU5HX1BST0ZJTEVTX0FDVElWRQogICAgICAgICAgICAtIG5hbWU6IFNQUklOR19EQVRBU09VUkNFX1BBU1NXT1JECiAgICAgICAgICAgICAgdmFsdWVGcm9tOiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyPkvb/nlKh2YWx1ZUZyb23mnaXmjIflrpplbnblvJXnlKjphY3nva7pobnnmoR2YWx1ZeWAvAogICAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgICBuYW1lOiB4emItY29uZmlnCiAgICAgICAgICAgICAgICAgIGtleTogU1BSSU5HX0RBVEFTT1VSQ0VfUEFTU1dPUkQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBhbGl5dW5fbG9nc19teXRhZzFfdGFncwogICAgICAgICAgICAgIHZhbHVlOiBhcHA9bWluaWFwcAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZTogYXBwPXJpYmFvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBhbGl5dW5fbG9nc19teXRhZzFfdGFncwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
