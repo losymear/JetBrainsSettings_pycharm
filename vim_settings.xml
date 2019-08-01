@@ -73,12 +73,12 @@
         <mark key="^" line="54" column="29" />
         <mark key="." line="54" column="29" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/raw-note.md" timestamp="1564572115234">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/raw-note.md" timestamp="1564574176465">
         <mark key="'" line="212" column="28" />
-        <mark key="[" line="318" column="1" />
-        <mark key="]" line="318" column="0" />
-        <mark key="^" line="318" column="0" />
-        <mark key="." line="318" column="0" />
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="0" />
+        <mark key="^" line="315" column="0" />
+        <mark key="." line="315" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/multiple_dispatch_with_function_annotations/example1.py" timestamp="1562161572811">
         <mark key="[" line="60" column="14" />
@@ -864,12 +864,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1564571730341">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1564626960920">
         <mark key="'" line="20" column="15" />
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="16" column="27" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="13" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
