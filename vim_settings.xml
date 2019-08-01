@@ -226,11 +226,11 @@
         <mark key="^" line="115" column="33" />
         <mark key="." line="115" column="33" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/admin/k8s.yaml" timestamp="1564627990585">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-        <mark key="." line="19" column="42" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/admin/k8s.yaml" timestamp="1564631069356">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="25" />
+        <mark key="^" line="40" column="25" />
+        <mark key="." line="40" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bd11c8fe-e58a-4ce3-a5d0-a7b39cdf1893/console.sql" timestamp="1524157668004">
         <mark key="[" line="0" column="0" />
@@ -514,12 +514,12 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" timestamp="1564627981383">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" timestamp="1564631101561">
         <mark key="'" line="75" column="16" />
         <mark key="[" line="36" column="38" />
-        <mark key="]" line="36" column="37" />
-        <mark key="^" line="36" column="37" />
-        <mark key="." line="36" column="37" />
+        <mark key="]" line="36" column="41" />
+        <mark key="^" line="36" column="41" />
+        <mark key="." line="36" column="41" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/README.md" timestamp="1564572029758">
         <mark key="[" line="7" column="35" />
