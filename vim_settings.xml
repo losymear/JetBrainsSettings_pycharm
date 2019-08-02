@@ -429,6 +429,12 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/competition_sprider.py" timestamp="1564732197859">
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="41" column="10" />
+        <mark key="^" line="41" column="10" />
+        <mark key="." line="41" column="10" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/pyqq/server.py" timestamp="1564198694091">
         <mark key="'" line="35" column="7" />
         <mark key="[" line="3" column="11" />
@@ -455,11 +461,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/requirements.txt" timestamp="1564730340805">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/requirements.txt" timestamp="1564736413776">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" timestamp="1539161054462">
         <mark key="'" line="2" column="0" />
@@ -609,12 +615,6 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/51job_spider.py" timestamp="1564730290007">
-        <mark key="[" line="153" column="21" />
-        <mark key="]" line="153" column="20" />
-        <mark key="^" line="153" column="20" />
-        <mark key="." line="153" column="20" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/myspider.py" timestamp="1537951168753">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -646,7 +646,7 @@
         <mark key="^" line="1" column="51" />
         <mark key="." line="1" column="51" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_51job.sh" timestamp="1564730353847">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_51job.sh" timestamp="1564731474788">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="1" column="42" />
         <mark key="^" line="1" column="42" />
