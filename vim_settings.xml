@@ -168,6 +168,12 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/configs.py" timestamp="1564817505220">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/deploy.sh" timestamp="1564385101557">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -429,11 +435,11 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/competition_sprider.py" timestamp="1564799303596">
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="44" column="13" />
-        <mark key="^" line="44" column="13" />
-        <mark key="." line="44" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/competition_sprider.py" timestamp="1564817512035">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="14" column="50" />
+        <mark key="." line="14" column="50" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/pyqq/server.py" timestamp="1564198694091">
         <mark key="'" line="35" column="7" />
@@ -532,7 +538,7 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/config/elasticsearch.yml" timestamp="1564811962125">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/config/elasticsearch.yml" timestamp="1564812005785">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="14" column="33" />
         <mark key="^" line="14" column="33" />
@@ -854,6 +860,12 @@
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1564817667996">
+        <mark key="[" line="233" column="25" />
+        <mark key="]" line="233" column="24" />
+        <mark key="^" line="233" column="24" />
+        <mark key="." line="233" column="24" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="0" />
@@ -874,6 +886,12 @@
         <mark key="]" line="7" column="12" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/pipelines.py" timestamp="1564817491997">
+        <mark key="[" line="120" column="34" />
+        <mark key="]" line="120" column="33" />
+        <mark key="^" line="120" column="33" />
+        <mark key="." line="120" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/test_car.py" timestamp="1524212643989">
         <mark key="[" line="48" column="0" />
