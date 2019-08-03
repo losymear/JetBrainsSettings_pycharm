@@ -429,11 +429,11 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/competition_sprider.py" timestamp="1564732197859">
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="10" />
-        <mark key="^" line="41" column="10" />
-        <mark key="." line="41" column="10" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/competition_sprider.py" timestamp="1564799303596">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="44" column="13" />
+        <mark key="^" line="44" column="13" />
+        <mark key="." line="44" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/pyqq/server.py" timestamp="1564198694091">
         <mark key="'" line="35" column="7" />
@@ -531,6 +531,12 @@
         <mark key="]" line="22" column="34" />
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/config/elasticsearch.yml" timestamp="1564811962125">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/2/writing_a_simple_recursive_descent_parser/plyexample.py" timestamp="1560935449892">
         <mark key="[" line="75" column="22" />
@@ -651,6 +657,12 @@
         <mark key="]" line="1" column="42" />
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/collages_sprider.py" timestamp="1564799310045">
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="19" />
+        <mark key="^" line="72" column="19" />
+        <mark key="." line="72" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/wsgi.py" timestamp="1564196991231">
         <mark key="[" line="3" column="13" />
