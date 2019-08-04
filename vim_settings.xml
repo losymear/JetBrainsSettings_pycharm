@@ -200,6 +200,12 @@
         <mark key="^" line="136" column="7" />
         <mark key="." line="136" column="7" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/liepin_spider.py" timestamp="1564933839874">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="24" column="85" />
+        <mark key="^" line="24" column="68" />
+        <mark key="." line="24" column="68" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/cv_service/connect.py" timestamp="1564196961104">
         <mark key="[" line="8" column="10" />
         <mark key="]" line="8" column="9" />
@@ -389,11 +395,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1564930322148">
-        <mark key="[" line="61" column="54" />
-        <mark key="]" line="61" column="53" />
-        <mark key="^" line="61" column="53" />
-        <mark key="." line="61" column="53" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1564938150626">
+        <mark key="t" line="37" column="11" />
+        <mark key="'" line="30" column="29" />
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="60" />
+        <mark key="." line="5" column="60" />
+        <mark key="^" line="5" column="60" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -486,11 +494,12 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/requirements.txt" timestamp="1564736413776">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/requirements.txt" timestamp="1564936443920">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="42" column="11" />
+        <mark key="]" line="42" column="10" />
+        <mark key="^" line="42" column="10" />
+        <mark key="." line="42" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" timestamp="1539161054462">
         <mark key="'" line="2" column="0" />
@@ -646,6 +655,12 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/51job_spider.py" timestamp="1564933696873">
+        <mark key="[" line="127" column="78" />
+        <mark key="]" line="127" column="77" />
+        <mark key="^" line="127" column="77" />
+        <mark key="." line="127" column="77" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/estate_bigdata_crawler/myspider.py" timestamp="1537951168753">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -757,6 +772,9 @@
         <mark key="]" line="17" column="22" />
         <mark key="^" line="17" column="22" />
         <mark key="." line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/liepin_settings.py" timestamp="1564933333417">
+        <mark key="[" line="157" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" timestamp="1564464841074">
         <mark key="'" line="36" column="6" />
@@ -886,11 +904,11 @@
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1564822806176">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1564933359758">
+        <mark key="[" line="262" column="16" />
+        <mark key="]" line="262" column="15" />
+        <mark key="^" line="262" column="15" />
+        <mark key="." line="262" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
         <mark key="'" line="0" column="0" />
@@ -913,11 +931,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/pipelines.py" timestamp="1564925816334">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/pipelines.py" timestamp="1564934352555">
+        <mark key="[" line="147" column="57" />
+        <mark key="]" line="147" column="56" />
+        <mark key="^" line="147" column="56" />
+        <mark key="." line="147" column="56" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/test_car.py" timestamp="1524212643989">
         <mark key="[" line="48" column="0" />
@@ -1079,13 +1097,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/pyqq/util/qyqqapp.py" />
-      <jump line="10" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/.gitignore" />
-      <jump line="2" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" />
-      <jump line="228" column="0" filename="$USER_HOME$/etc/losFiles/projects/playground/weworkapi_python/callback/WXBizMsgCrypt.py" />
-      <jump line="0" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapi.py" />
-      <jump line="1" column="19" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapi.py" />
       <jump line="10" column="1" filename="$USER_HOME$/etc/losFiles/projects/playground/weworkapi_python/api/src/AbstractApi.py" />
       <jump line="124" column="31" filename="$USER_HOME$/etc/losFiles/projects/playground/weworkapi_python/callback/WXBizMsgCrypt.py" />
       <jump line="376" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" />
@@ -1179,58 +1190,65 @@
       <jump line="80" column="16" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/miniapp/k8s.yaml" />
       <jump line="16" column="4" filename="$USER_HOME$/playground/scrapy/.gitignore" />
       <jump line="5" column="18" filename="$USER_HOME$/playground/scrapy/quotes_spider.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
+      <jump line="9" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/requirements.txt" />
+      <jump line="44" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
+      <jump line="37" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
+      <jump line="3" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
+      <jump line="30" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBnZXZlbnQgaW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBqc29u5Lit55qE5q+P5LiA5LiqaXRlbe+8jOiuv+mXruivpuaDhe+8jOWQjOaXtuS8oOmAkuWFtuWug+Wtl+autei/h+WOuwo=</text>
       </register>
       <register name="-" type="4">
-        <text>d-bp1g9hysunkzse9uspfs</text>
+        <text>json_data.get('info').get('qa')</text>
       </register>
       <register name="/" type="4">
-        <text>conn</text>
+        <text encoding="base64">XDxqc29uX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBNWVNRTF9VU0VSCiAgICAgICAgICAgICAgdmFsdWU6IHFtcwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdHlwZSBpbiByYW5nZSgxLCAxNSk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBnZXZlbnQgaW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBqc29u5Lit55qE5q+P5LiA5LiqaXRlbe+8jOiuv+mXruivpuaDhe+8jOWQjOaXtuS8oOmAkuWFtuWug+Wtl+autei/h+WOuwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNjcmFweQoKCnNjcmFweS5SZXF1ZXN0CmNsYXNzIFF1b3Rlc1NwaWRlcihzY3JhcHkuU3BpZGVyKToKICAgIG5hbWUgPSAncXVvdGVzJwogICAgc3RhcnRfdXJscyA9IFsKICAgICAgICAnaHR0cDovL3F1b3Rlcy50b3NjcmFwZS5jb20vdGFnL2h1bW9yLycsCiAgICBdCgogICAgZGVmIHBhcnNlKHNlbGYsIHJlc3BvbnNlKToKICAgICAgICBmb3IgcXVvdGUgaW4gcmVzcG9uc2UuY3NzKCdkaXYucXVvdGUnKToKICAgICAgICAgICAgeWllbGQgewogICAgICAgICAgICAgICAgJ3RleHQnOiBxdW90ZS5jc3MoJ3NwYW4udGV4dDo6dGV4dCcpLmdldCgpLAogICAgICAgICAgICAgICAgJ2F1dGhvcic6IHF1b3RlLnhwYXRoKCdzcGFuL3NtYWxsL3RleHQoKScpLmdldCgpLAogICAgICAgICAgICB9CgogICAgICAgIG5leHRfcGFnZSA9IHJlc3BvbnNlLmNzcygnbGkubmV4dCBhOjphdHRyKCJocmVmIiknKS5nZXQoKQogICAgICAgIGlmIG5leHRfcGFnZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgeWllbGQgcmVzcG9uc2UuZm9sbG93KG5leHRfcGFnZSwgc2VsZi5wYXJzZSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IC5pZGVhLwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">anNvbl9kYXRhLmdldCgnaW5mbycpLmdldCgncWEnKQogICAgICAgIGJhc2VfZGF0YVsncGFnZV91cmwnXSA9IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0bHM6CiAgLSBob3N0czoKICAgIC0gZXN0ZXN0LjE3cW1zLmNvbQogICAgc2VjcmV0TmFtZTogaHR0cHMtazhzZGVtbzIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0bHM6CiAgICAtIGhvc3RzOgogICAgICAgIC0gLjE3cW1zLmNvbQogICAgICBzZWNyZXROYW1lOiBodHRwcy1yZXN1bWUtcGRmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNiX2t3YXJncz1kaWN0KG1haW5fdXJsPXJlc3BvbnNlLnVybCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZTogYXBwPXJlc3VtZS1wZGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5jYl9rd2FyZ3NbJ2ZvbyddID0gJ2JhcicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBhbGl5dW5fbG9nc19teXRhZzFfdGFncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNiX2t3YXJncyA9IGRpY3QobWFpbl91cmw9cmVzcG9uc2UudXJsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZTogYXBwPXJlc3VtZS1wZGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNiX2t3YXJncyA9IGRpY3QobWFpbl91cmw9cmVzcG9uc2UudXJsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBhbGl5dW5fbG9nc19teXRhZzFfdGFncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNiX2t3YXJncz1kaWN0KG1haW5fdXJsPXJlc3BvbnNlLnVybCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
       </register>
     </registers>
     <search>
-      <last-search>conn</last-search>
+      <last-search encoding="base64">XDxqc29uX2RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern>conn</last-pattern>
+      <last-pattern encoding="base64">XDxqc29uX2RhdGFcPg==</last-pattern>
       <last-replace>prices</last-replace>
       <last-substitute>prices2</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1254,6 +1272,7 @@
         <entry encoding="base64">XDxsYXRlc3RcPg==</entry>
         <entry>admin</entry>
         <entry>conn</entry>
+        <entry encoding="base64">XDxqc29uX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prices2/prices</entry>
