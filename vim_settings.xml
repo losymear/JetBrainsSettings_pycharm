@@ -389,6 +389,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1564930322148">
+        <mark key="[" line="61" column="54" />
+        <mark key="]" line="61" column="53" />
+        <mark key="^" line="61" column="53" />
+        <mark key="." line="61" column="53" />
+      </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
         <mark key="[" line="330" column="55" />
@@ -402,6 +408,12 @@
         <mark key="]" line="50" column="8" />
         <mark key="^" line="50" column="8" />
         <mark key="." line="50" column="8" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/README.md" timestamp="1564930288030">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/service.yaml" timestamp="1562388337974">
         <mark key="'" line="18" column="0" />
@@ -435,11 +447,11 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/competition_sprider.py" timestamp="1564925628145">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="8" />
-        <mark key="^" line="14" column="8" />
-        <mark key="." line="14" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/competition_sprider.py" timestamp="1564930317729">
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="37" column="27" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="37" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/pyqq/server.py" timestamp="1564198694091">
         <mark key="'" line="35" column="7" />
