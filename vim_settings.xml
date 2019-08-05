@@ -395,13 +395,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1564973167282">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1564974126634">
         <mark key="t" line="37" column="11" />
-        <mark key="'" line="30" column="29" />
-        <mark key="[" line="79" column="57" />
-        <mark key="]" line="79" column="56" />
-        <mark key="." line="79" column="56" />
-        <mark key="^" line="79" column="56" />
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="69" column="1" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="0" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -937,6 +937,12 @@
         <mark key="^" line="147" column="56" />
         <mark key="." line="147" column="56" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_tiku_haitou.sh" timestamp="1564973825843">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/pycharm-test/test_car.py" timestamp="1524212643989">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="27" />
@@ -1097,8 +1103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="1" filename="$USER_HOME$/etc/losFiles/projects/playground/weworkapi_python/api/src/AbstractApi.py" />
-      <jump line="124" column="31" filename="$USER_HOME$/etc/losFiles/projects/playground/weworkapi_python/callback/WXBizMsgCrypt.py" />
       <jump line="376" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" />
       <jump line="48" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" />
       <jump line="12" column="48" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/requirements.txt" />
@@ -1197,46 +1201,48 @@
       <jump line="37" column="11" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
       <jump line="3" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
       <jump line="30" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
+      <jump line="34" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
+      <jump line="4" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>page_url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHsndXJsJzogZi51cmx9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>page_url</text>
+        <text>response.meta['tiku_type']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlX2RhdGFbJ3BhZ2VfdXJsJ10gPSByZXNwb25zZS5tZXRhWydwYWdlX3VybCddCg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlX2RhdGFbJ3Rpa3VfdHlwZSddID0gcmVzcG9uc2UubWV0YVsndGlrdV90eXBlJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYgPSBmdXJsKHJlc3BvbnNlLnVybCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHsndXJsJzogZi51cmx9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlX2RhdGFbJ2Zyb21fdXJsJ10gPSByZXNwb25zZS5tZXRhWydmcm9tX3VybCddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHsndXJsJzogZi51cmx9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBqc29u5Lit55qE5q+P5LiA5LiqaXRlbe+8jOiuv+mXruivpuaDhe+8jOWQjOaXtuS8oOmAkuWFtuWug+Wtl+autei/h+WOuwo=</text>
+        <text encoding="base64">c2NyYXB5IGNyYXdsIDUxam9iIC1zIEpPQkRJUj1jcmF3bHMvNTFqb2ItMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYgPSBmdXJsKHJlc3BvbnNlLnVybCkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">anNvbl9kYXRhLmdldCgnaW5mbycpLmdldCgncWEnKQogICAgICAgIGJhc2VfZGF0YVsncGFnZV91cmwnXSA9IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBiYXNlX2RhdGFbJ2Zyb21fdXJsJ10gPSByZXNwb25zZS5tZXRhWydmcm9tX3VybCddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBqc29u5Lit55qE5q+P5LiA5LiqaXRlbe+8jOiuv+mXruivpuaDhe+8jOWQjOaXtuS8oOmAkuWFtuWug+Wtl+autei/h+WOuwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNiX2t3YXJncz1kaWN0KG1haW5fdXJsPXJlc3BvbnNlLnVybCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5jYl9rd2FyZ3NbJ2ZvbyddID0gJ2JhcicK</text>
+      <register name="8" type="4">
+        <text encoding="base64">anNvbl9kYXRhLmdldCgnaW5mbycpLmdldCgncWEnKQogICAgICAgIGJhc2VfZGF0YVsncGFnZV91cmwnXSA9IA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNiX2t3YXJncyA9IGRpY3QobWFpbl91cmw9cmVzcG9uc2UudXJsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
