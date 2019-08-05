@@ -264,6 +264,12 @@
         <mark key="." line="40" column="117" />
         <mark key="^" line="40" column="117" />
       </file>
+      <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/scrapy/http/response/__init__.py" timestamp="1564996178901">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.7/site-packages/requests/api.py" timestamp="1558943056015">
         <mark key="[" line="115" column="34" />
         <mark key="]" line="115" column="33" />
@@ -401,13 +407,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1564975004322">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1564996253319">
         <mark key="t" line="37" column="11" />
-        <mark key="'" line="4" column="10" />
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="30" column="35" />
-        <mark key="." line="30" column="35" />
-        <mark key="^" line="30" column="35" />
+        <mark key="'" line="14" column="14" />
+        <mark key="[" line="48" column="54" />
+        <mark key="]" line="48" column="53" />
+        <mark key="." line="48" column="53" />
+        <mark key="^" line="48" column="53" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -919,11 +925,11 @@
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1564994590111">
-        <mark key="[" line="136" column="9" />
-        <mark key="]" line="136" column="8" />
-        <mark key="^" line="136" column="8" />
-        <mark key="." line="136" column="8" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1564995157736">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
         <mark key="'" line="0" column="0" />
@@ -1142,7 +1148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" />
       <jump line="48" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" />
       <jump line="12" column="48" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/requirements.txt" />
       <jump line="10" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/getcb.py" />
@@ -1242,13 +1247,14 @@
       <jump line="30" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
       <jump line="34" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
       <jump line="4" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
+      <jump line="14" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHsndXJsJzogZi51cmx9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Response</text>
       </register>
       <register name="-" type="4">
-        <text>response.meta['tiku_type']</text>
+        <text>Response</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uX2RhdGFcPg==</text>
