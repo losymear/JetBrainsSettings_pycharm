@@ -548,6 +548,12 @@
         <mark key="^" line="45" column="44" />
         <mark key="." line="45" column="44" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/scrapy.cfg" timestamp="1564989731914">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/future.py" timestamp="1539440111808">
         <mark key="[" line="38" column="59" />
         <mark key="]" line="38" column="57" />
