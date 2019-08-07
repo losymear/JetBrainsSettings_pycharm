@@ -873,11 +873,11 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/items.py" timestamp="1565003036712">
-        <mark key="[" line="123" column="12" />
-        <mark key="]" line="123" column="11" />
-        <mark key="^" line="123" column="11" />
-        <mark key="." line="123" column="11" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/items.py" timestamp="1565152970674">
+        <mark key="[" line="121" column="31" />
+        <mark key="]" line="121" column="30" />
+        <mark key="^" line="121" column="30" />
+        <mark key="." line="121" column="30" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/__init__.py" timestamp="1561701959049">
         <mark key="[" line="10" column="46" />
@@ -1120,12 +1120,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1564626960920">
-        <mark key="'" line="20" column="15" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="13" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="19" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1565162725959">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="25" column="31" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_liepin_campus.sh" timestamp="1564991173045">
         <mark key="[" line="2" column="1" />
@@ -1140,12 +1140,12 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" timestamp="1562383256359">
-        <mark key="'" line="15" column="31" />
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="39" />
-        <mark key="." line="28" column="39" />
-        <mark key="^" line="28" column="39" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" timestamp="1565162283902">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/future_demo.py" timestamp="1539442670150">
         <mark key="[" line="7" column="0" />
@@ -1161,9 +1161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="48" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/requirements.txt" />
-      <jump line="10" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/getcb.py" />
-      <jump line="55" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
       <jump line="5" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
       <jump line="3" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Dockerfile" />
       <jump line="59" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
@@ -1261,19 +1258,22 @@
       <jump line="4" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
       <jump line="14" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
       <jump line="310" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/wutongguo_spider.py" />
+      <jump line="19" column="15" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" />
+      <jump line="34" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Response</text>
+        <text>hello</text>
       </register>
       <register name="-" type="4">
-        <text>Response</text>
+        <text>hello</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlX2RhdGFbJ3Rpa3VfdHlwZSddID0gcmVzcG9uc2UubWV0YVsndGlrdV90eXBlJ10K</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgiL2hlbGxvIikKZGVmIGhlbGxvKCk6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHsndXJsJzogZi51cmx9Cg==</text>
