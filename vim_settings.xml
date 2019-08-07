@@ -407,13 +407,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1564996253319">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1565166664387">
         <mark key="t" line="37" column="11" />
         <mark key="'" line="14" column="14" />
-        <mark key="[" line="48" column="54" />
-        <mark key="]" line="48" column="53" />
-        <mark key="." line="48" column="53" />
-        <mark key="^" line="48" column="53" />
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="40" column="22" />
+        <mark key="." line="40" column="22" />
+        <mark key="^" line="40" column="22" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -493,11 +493,11 @@
         <mark key="^" line="47" column="18" />
         <mark key="." line="47" column="18" />
       </file>
-      <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/scrapy/loader/processors.py" timestamp="1565166003246">
-        <mark key="[" line="60" column="15" />
-        <mark key="]" line="60" column="14" />
-        <mark key="^" line="60" column="14" />
-        <mark key="." line="60" column="14" />
+      <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/scrapy/loader/processors.py" timestamp="1565166311543">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="25" />
       </file>
       <file name="$USER_HOME$/playground/scrapy/.gitignore" timestamp="1564823870916">
         <mark key="'" line="16" column="4" />
@@ -943,11 +943,11 @@
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1564995157736">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1565167372075">
+        <mark key="[" line="87" column="4" />
+        <mark key="]" line="87" column="3" />
+        <mark key="^" line="87" column="3" />
+        <mark key="." line="87" column="3" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
         <mark key="'" line="0" column="0" />
@@ -976,11 +976,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/pipelines.py" timestamp="1564934352555">
-        <mark key="[" line="147" column="57" />
-        <mark key="]" line="147" column="56" />
-        <mark key="^" line="147" column="56" />
-        <mark key="." line="147" column="56" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/pipelines.py" timestamp="1565167395215">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_tiku_haitou.sh" timestamp="1564973825843">
         <mark key="[" line="1" column="1" />
