@@ -407,13 +407,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1565166664387">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1565171540980">
         <mark key="t" line="37" column="11" />
         <mark key="'" line="14" column="14" />
-        <mark key="[" line="40" column="23" />
-        <mark key="]" line="40" column="22" />
-        <mark key="." line="40" column="22" />
-        <mark key="^" line="40" column="22" />
+        <mark key="[" line="74" column="33" />
+        <mark key="]" line="74" column="32" />
+        <mark key="." line="74" column="32" />
+        <mark key="^" line="74" column="32" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
