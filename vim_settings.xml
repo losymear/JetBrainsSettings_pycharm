@@ -710,6 +710,12 @@
         <mark key="^" line="1" column="51" />
         <mark key="." line="1" column="51" />
       </file>
+      <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/scrapy/item.py" timestamp="1564998018724">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_51job.sh" timestamp="1564731474788">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="1" column="42" />
@@ -866,6 +872,12 @@
         <mark key="]" line="15" column="27" />
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/items.py" timestamp="1565003036712">
+        <mark key="[" line="123" column="12" />
+        <mark key="]" line="123" column="11" />
+        <mark key="^" line="123" column="11" />
+        <mark key="." line="123" column="11" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/__init__.py" timestamp="1561701959049">
         <mark key="[" line="10" column="46" />
@@ -1026,11 +1038,12 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/wutongguo_spider.py" timestamp="1564990032672">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="18" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/wutongguo_spider.py" timestamp="1564998279433">
+        <mark key="'" line="310" column="29" />
+        <mark key="[" line="251" column="16" />
+        <mark key="]" line="251" column="15" />
+        <mark key="^" line="251" column="15" />
+        <mark key="." line="251" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_server_demo.py" timestamp="1539715339722">
         <mark key="[" line="7" column="11" />
@@ -1148,7 +1161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" />
       <jump line="12" column="48" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/requirements.txt" />
       <jump line="10" column="23" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/getcb.py" />
       <jump line="55" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
@@ -1248,6 +1260,7 @@
       <jump line="34" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
       <jump line="4" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
       <jump line="14" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" />
+      <jump line="310" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/wutongguo_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
