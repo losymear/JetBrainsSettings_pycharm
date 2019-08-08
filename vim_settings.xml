@@ -337,6 +337,9 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
+      <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/scrapy/dupefilters.py" timestamp="1565171936252">
+        <mark key="[" line="26" column="7" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests.py" timestamp="1539574024888">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -407,13 +410,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1565171540980">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1565247413845">
         <mark key="t" line="37" column="11" />
         <mark key="'" line="14" column="14" />
-        <mark key="[" line="74" column="33" />
-        <mark key="]" line="74" column="32" />
-        <mark key="." line="74" column="32" />
-        <mark key="^" line="74" column="32" />
+        <mark key="[" line="54" column="79" />
+        <mark key="]" line="54" column="77" />
+        <mark key="." line="54" column="77" />
+        <mark key="^" line="54" column="77" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -943,11 +946,11 @@
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1565167372075">
-        <mark key="[" line="87" column="4" />
-        <mark key="]" line="87" column="3" />
-        <mark key="^" line="87" column="3" />
-        <mark key="." line="87" column="3" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1565171925994">
+        <mark key="[" line="255" column="7" />
+        <mark key="]" line="255" column="6" />
+        <mark key="^" line="255" column="6" />
+        <mark key="." line="255" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
         <mark key="'" line="0" column="0" />
@@ -963,11 +966,11 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" timestamp="1564990012028">
-        <mark key="[" line="82" column="1" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" timestamp="1565248350279">
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="22" />
+        <mark key="^" line="55" column="22" />
+        <mark key="." line="55" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" timestamp="1564651519059">
         <mark key="'" line="0" column="0" />
