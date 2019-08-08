@@ -438,6 +438,12 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="18" column="8" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/run.sh" timestamp="1565255572139">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/service.yaml" timestamp="1562388337974">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="74" column="3" />
@@ -826,6 +832,12 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/index.py" timestamp="1565257846023">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="7" />
+        <mark key="^" line="57" column="7" />
+        <mark key="." line="57" column="7" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/enforcing_type_checking_on_a_function_using_a_decorator/example.py" timestamp="1561971592146">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -951,6 +963,13 @@
         <mark key="]" line="255" column="6" />
         <mark key="^" line="255" column="6" />
         <mark key="." line="255" column="6" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/README.md" timestamp="1565257977514">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
         <mark key="'" line="0" column="0" />
@@ -1142,6 +1161,13 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/requirements.txt" timestamp="1565254602552">
+        <mark key="'" line="4" column="38" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="22" column="20" />
@@ -1155,6 +1181,13 @@
         <mark key="]" line="20" column="25" />
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/start.py" timestamp="1565254806845">
+        <mark key="'" line="33" column="33" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/future_demo.py" timestamp="1539442670150">
         <mark key="[" line="7" column="0" />
@@ -1170,12 +1203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="28" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
-      <jump line="3" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Dockerfile" />
-      <jump line="59" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
-      <jump line="266" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" />
-      <jump line="19" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/getcb.py" />
-      <jump line="57" column="12" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" />
       <jump line="16" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
       <jump line="0" column="57" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/server.py" />
       <jump line="12" column="13" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
@@ -1270,46 +1297,52 @@
       <jump line="19" column="15" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" />
       <jump line="27" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" />
       <jump line="34" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" />
+      <jump line="4" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/requirements.txt" />
+      <jump line="33" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/start.py" />
+      <jump line="33" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/index.py" />
+      <jump line="13" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/index.py" />
+      <jump line="25" column="335" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/index.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hello</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMg5Zyo6L+Z6YeM5omL5Yqo6L6T5YWl6LSm5Y+35a+G56CBCg==</text>
       </register>
       <register name="-" type="4">
-        <text>hello</text>
+        <text>SetCurrency=EUR; lang=it_IT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgiL2hlbGxvIikKZGVmIGhlbGxvKCk6Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHsndXJsJzogZi51cmx9Cg==</text>
+        <text encoding="base64">ICAgICMg5Zyo6L+Z6YeM5omL5Yqo6L6T5YWl6LSm5Y+35a+G56CBCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHsndXJsJzogZi51cmx9Cg==</text>
+        <text encoding="base64">ICAgICMg55m75b2V5pON5L2cCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2NyYXB5IGNyYXdsIDUxam9iIC1zIEpPQkRJUj1jcmF3bHMvNTFqb2ItMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYgPSBmdXJsKHJlc3BvbnNlLnVybCkK</text>
+        <text encoding="base64">T1JJR0lOQUxfQ09PS0lFX1NUUiA9ICJOT1dDT0RFUlVJRD05QzFFRkJFQTM4NDVBQjNGQUVGMDVFQ0IwN0VBNzUyMDsgTk9XQ09ERVJDTElORVRJRD1DRDczQ0I0RTRGRTE4OEVCOTY4QTJENzIwMDA3Njk5MzsgSG1fbHZ0X2E4MDhhMTMyNmI2YzA2YzQzN2RlNzY5ZDFiODViODcwPTE1NjUyNTY0MzE7IGNhbGxCYWNrPTsgdD01RTNBRjcyQkZFMEM3NzEwMjEyQTI5RUQ5RTkxNTg1RjsgSG1fbHB2dF9hODA4YTEzMjZiNmMwNmM0MzdkZTc2OWQxYjg1Yjg3MD0xNTY1MjU2NDc1OyBTRVJWRVJJRD05ZTRiNzRmZGI0M2M5OTQ1MjA1Nzc2NjAzMjY0ZDI4MHwxNTY1MjU2NTc3fDE1NjUyNTY1MjciCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlX2RhdGFbJ2Zyb21fdXJsJ10gPSByZXNwb25zZS5tZXRhWydmcm9tX3VybCddCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHBhZ2UuZ290byhOSVVLRV9MT0dJTl9VUkwpCiAgICBhd2FpdCBwYWdlLndhaXRGb3IoImlucHV0I2pzRW1haWxJcHQiKQogICAgYXdhaXQgYXN5bmNpby5zbGVlcCgzMDApCiAgICBhd2FpdCBwYWdlLnR5cGUoImlucHV0I2pzRW1haWxJcHQiLCAiMTMwNTg3NTQ5MTciKQogICAgYXdhaXQgcGFnZS50eXBlKCJpbnB1dCNqc1Bhc3N3b3JkSXB0IiwgIndhbmd5aW4wMCIpCiAgICBhd2FpdCBwYWdlLmNsaWNrKCIjanNMb2dpbkJ0biIpCiAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBqc29u5Lit55qE5q+P5LiA5LiqaXRlbe+8jOiuv+mXruivpuaDhe+8jOWQjOaXtuS8oOmAkuWFtuWug+Wtl+autei/h+WOuwo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHBhZ2Uuc2V0RXh0cmFIVFRQSGVhZGVycyh7J0Nvb2tpZTInOiAnU2V0Q3VycmVuY3k9RVVSOyBsYW5nPWl0X0lUJ30pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHBhZ2Uuc2V0RXh0cmFIVFRQSGVhZGVycyh7J0Nvb2tpZSc6ICdTZXRDdXJyZW5jeT1FVVI7IGxhbmc9aXRfSVQnfSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">anNvbl9kYXRhLmdldCgnaW5mbycpLmdldCgncWEnKQogICAgICAgIGJhc2VfZGF0YVsncGFnZV91cmwnXSA9IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IHBhZ2Uuc2V0RXh0cmFIVFRQSGVhZGVycyh7J0Nvb2tpZSc6ICdTZXRDdXJyZW5jeT1FVVI7IGxhbmc9aXRfSVQnfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMg5Zyo6L+Z6YeM5omL5Yqo6L6T5YWl6LSm5Y+35a+G56CBCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
