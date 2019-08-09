@@ -442,12 +442,12 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1565336256867">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1565338081859">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="62" column="30" />
-        <mark key="." line="62" column="30" />
-        <mark key="^" line="62" column="30" />
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="16" />
+        <mark key="." line="41" column="16" />
+        <mark key="^" line="41" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" timestamp="1564383506702">
         <mark key="'" line="3" column="31" />
@@ -827,8 +827,8 @@
         <mark key="^" line="50" column="8" />
         <mark key="." line="50" column="8" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/run.sh" timestamp="1565255572139">
-        <mark key="[" line="1" column="1" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/run.sh" timestamp="1565337363167">
+        <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -968,12 +968,12 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" timestamp="1565336233282">
-        <mark key="'" line="19" column="30" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="37" column="19" />
-        <mark key="^" line="37" column="19" />
-        <mark key="." line="37" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" timestamp="1565338070176">
+        <mark key="'" line="4" column="25" />
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="16" />
+        <mark key="^" line="41" column="16" />
+        <mark key="." line="41" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/implementing_the_visitor_pattern/example.py" timestamp="1562675282691">
         <mark key="[" line="42" column="22" />
@@ -1089,11 +1089,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/config.py" timestamp="1565336185609">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/config.py" timestamp="1565337808857">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" timestamp="1565248350279">
         <mark key="[" line="55" column="23" />
@@ -1230,7 +1230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
       <jump line="7" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
       <jump line="50" column="74" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
       <jump line="51" column="49" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
@@ -1330,46 +1329,47 @@
       <jump line="13" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
       <jump line="14" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
       <jump line="16" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
+      <jump line="4" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>120</text>
+        <text>host</text>
       </register>
       <register name="-" type="4">
-        <text>120</text>
+        <text>host</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TVlTUUxfSE9TVCA9ICcxMjcuMC4wLjEnCg==</text>
+        <text encoding="base64">ICAgICAgICBob3N0PWNvbmZpZy5NWVNRTF9IT1NULAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cnVubmVyLgo=</text>
+        <text encoding="base64">ZGVmIHF1ZXJ5X2V4dGVybmFsX3VzZXIoZXh0ZXJuYWxfdXNlcl9pZCk6CiAgICBjb25uID0gZ2V0X2Nvbm5lY3Rpb24oKQogICAgdHJ5OgogICAgICAgIGN1cnNvciA9IGNvbm4uY3Vyc29yKCkKICAgICAgICBxdWVyeSA9ICgiU0VMRUNUIGV4dGVybmFsX3VzZXJpZCwganNvbnN0ciBGUk9NIHF5cXFfZXh0ZXJuYWxfdXNlciAiCiAgICAgICAgICAgICAgICAgIldIRVJFIGV4dGVybmFsX3VzZXJpZCA9ICVzIikKICAgICAgICBjdXJzb3IuZXhlY3V0ZShxdWVyeSwgKGV4dGVybmFsX3VzZXJfaWQsKSkKICAgICAgICByZXMgPSBjdXJzb3IuZmV0Y2hvbmUoKQogICAgICAgIGN1cnNvci5jbG9zZSgpCiAgICAgICAgcmV0dXJuIHJlcwogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJhaXNlIGUKICAgIGZpbmFsbHk6CiAgICAgICAgY29ubi5jbG9zZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9vcCA9IGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKQpsb29wLnJ1bl91bnRpbF9jb21wbGV0ZShjcmF3bGVyKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cnVuLgo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3IuY2xvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBweXBwZXRlZXIgaW1wb3J0IGxhdW5jaAppbXBvcnQgbG9nZ2luZwppbXBvcnQgYXN5bmNpbwoKIyBDb29raWXmmK/ku45FZGl0VGhpc0Nvb2tpZeaPkuS7tuS4reiOt+WPluWIsOeahApPUklHSU5BTF9DT09LSUUgPSBbeyJkb21haW4iOiAiLm5vd2NvZGVyLmNvbSIsICJwYXRoIjogIi8iLCAibmFtZSI6ICJjYWxsQmFjayIsCiAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogImh0dHBzJTNBJTJGJTJGd3d3Lm5vd2NvZGVyLmNvbSUyRmNvbnRlc3RSb29tIn0sCiAgICAgICAgICAgICAgICAgICB7ImRvbWFpbiI6ICIubm93Y29kZXIuY29tIiwgInBhdGgiOiAiLyIsCiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiSG1fbHB2dF9hODA4YTEzMjZiNmMwNmM0MzdkZTc2OWQxYjg1Yjg3MCIsCiAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIjE1NjUyNTc0NzkifSwKICAgICAgICAgICAgICAgICAgIHsiZG9tYWluIjogIi5ub3djb2Rlci5jb20iLCAicGF0aCI6ICIvIiwKICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJIbV9sdnRfYTgwOGExMzI2YjZjMDZjNDM3ZGU3NjlkMWI4NWI4NzAiLAogICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICIxNTY0OTc1NDA4In0sCiAgICAgICAgICAgICAgICAgICB7ImRvbWFpbiI6ICIubm93Y29kZXIuY29tIiwgInBhdGgiOiAiLyIsCiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiTk9XQ09ERVJDTElORVRJRCIsCiAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIjA2RTAyNDU1ODgxQjU2QTQ1QTdFRkEzQ0FGNDRBQjdBIn0sCiAgICAgICAgICAgICAgICAgICB7ImRvbWFpbiI6ICIubm93Y29kZXIuY29tIiwgInBhdGgiOiAiLyIsCiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiTk9XQ09ERVJVSUQiLAogICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICIzNTgxNDY4RDQ1RTJGQzZEQTk5NzM5Q0I4OTAxRUQ5QSJ9LAogICAgICAgICAgICAgICAgICAgeyJkb21haW4iOiAiLm5vd2NvZGVyLmNvbSIsICJwYXRoIjogIi8iLCAibmFtZSI6ICJ0IiwKICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiOTE2MDE5RTNDN0JDQzI5QjM3QUZFMjkxQUQ3MTczNjEifSwKICAgICAgICAgICAgICAgICAgIHsiZG9tYWluIjogInd3dy5ub3djb2Rlci5jb20iLCAicGF0aCI6ICIvIiwKICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJfOTc1NXhqZGVzeHhkXyIsICJ2YWx1ZSI6ICIzMiJ9LAogICAgICAgICAgICAgICAgICAgeyJkb21haW4iOiAid3d3Lm5vd2NvZGVyLmNvbSIsICJwYXRoIjogIi8iLAogICAgICAgICAgICAgICAgICAgICJuYW1lIjogImdkeGlkcHloeGRFIiwKICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiYXVZdk1xTnpJZnpuTGpSNkREVGU4dzhlbk1rZ1ElMkZpOHYyQkU2U04lMkZyVVljbjhIdVRBUXFVSkhtZ3BCWDk3bTlPNThKUEwzUHk1Mnk2SUhwSVE3VyUyRlZIWkpxQkxsM3NaU1c1SG5qJTJGc0RXUlRXeFVCMVFjZTU4M0xzd2glMkJqeUsyeGs3SGZOZmdXVlM3b1MlMkJ4VzBQVmJiaGZyakVheSUyQk5XJTJCNCUyRlpZOXJ3JTVDRXJreG9BZiUzQTE1NjQ5ODg2MDI0OTMifSwKICAgICAgICAgICAgICAgICAgIHsiZG9tYWluIjogInd3dy5ub3djb2Rlci5jb20iLCAicGF0aCI6ICIvIiwKICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJTRVJWRVJJRCIsCiAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIjU0N2QwMGQ4MjMxMTk1MjYwNWM2MmNlYWM2NGYyMWZkfDE1NjUyNTc2MTF8MTU2NTI1NzU1OSJ9XQoKbG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgpQWVBQRVRFRVJfSEVBRExFU1MgPSBGYWxzZQpOSVVLRV9MT0dJTl9VUkwgPSAiaHR0cHM6Ly93d3cubm93Y29kZXIuY29tL2xvZ2luIgpOSVVLRV9USUtVTElTVF9VUkwgPSAiaHR0cHM6Ly93d3cubm93Y29kZXIuY29tL2NvbnRlc3RSb29tIgoKCmFzeW5jIGRlZiBjcmF3bGVyKCk6CiAgICAiIiIKICAgIOWQr+WKqOS4gOS4qnB5cHBldGVlcgogICAgIiIiCiAgICBicm93c2VyID0gYXdhaXQgbGF1bmNoKGhhbmRsZVNJR0lOVD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgaGFuZGxlU0lHVEVSTT1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgaGFuZGxlU0lHSFVQPUZhbHNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkbGVzcz1QWVBQRVRFRVJfSEVBRExFU1MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZ3M9WyctLW5vLXNhbmRib3gnLCAiLS1kaXNhYmxlLXNldHVpZC1zYW5kYm94Il0KICAgICAgICAgICAgICAgICAgICAgICAgICAgKQoKICAgIHBhZ2UgPSBhd2FpdCBicm93c2VyLm5ld1BhZ2UoKQogICAgYXdhaXQgcGFnZS5zZXRWaWV3cG9ydCh7CiAgICAgICAgJ3dpZHRoJzogMTA4MCwKICAgICAgICAnaGVpZ2h0JzogNzY4CiAgICB9KQoKICAgICMg5L2/55So5aSN5Yi25p2l55qEY29va2llCiAgICBmb3IgY29va2llIGluIE9SSUdJTkFMX0NPT0tJRToKICAgICAgICBhd2FpdCBwYWdlLnNldENvb2tpZShjb29raWUpCgogICAgYXdhaXQgcGFnZS5nb3RvKE5JVUtFX1RJS1VMSVNUX1VSTCkKCiAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDEyMCkKCgpsb29wID0gYXN5bmNpby5uZXdfZXZlbnRfbG9vcCgpCmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKGNyYXdsZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAiV0hFUkUgZXh0ZXJuYWxfdXNlcmlkID0gJXMiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3IgPSBjb25uLmN1cnNvcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMg5Zyo6L+Z6YeM5omL5Yqo6L6T5YWl6LSm5Y+35a+G56CBCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMg55m75b2V5pON5L2cCg==</text>
+        <text encoding="base64">cnVubmVyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9vcCA9IGFzeW5jaW8ubmV3X2V2ZW50X2xvb3AoKQpsb29wLnJ1bl91bnRpbF9jb21wbGV0ZShjcmF3bGVyKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
