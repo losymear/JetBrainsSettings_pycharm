@@ -442,12 +442,12 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1565607440096">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1565609040028">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="126" column="13" />
-        <mark key="]" line="126" column="12" />
-        <mark key="^" line="126" column="12" />
-        <mark key="." line="126" column="12" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" timestamp="1564383506702">
         <mark key="'" line="3" column="31" />
@@ -968,12 +968,12 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" timestamp="1565339266998">
-        <mark key="'" line="4" column="25" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" timestamp="1565609299381">
+        <mark key="'" line="53" column="7" />
+        <mark key="[" line="59" column="24" />
+        <mark key="]" line="59" column="23" />
+        <mark key="." line="59" column="23" />
+        <mark key="^" line="59" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/implementing_the_visitor_pattern/example.py" timestamp="1562675282691">
         <mark key="[" line="42" column="22" />
@@ -1001,11 +1001,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/js_func.py" timestamp="1565607369888">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="39" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/js_func.py" timestamp="1565608791990">
+        <mark key="'" line="41" column="18" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="11" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/cv_service/retry.py" timestamp="1564371419540">
         <mark key="[" line="14" column="22" />
@@ -1236,13 +1237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="20" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" />
-      <jump line="156" column="40" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" />
-      <jump line="36" column="6" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" />
-      <jump line="43" column="8" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
-      <jump line="84" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
-      <jump line="77" column="46" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" />
       <jump line="3" column="53" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapp.py" />
       <jump line="13" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapi.py" />
       <jump line="73" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapi.py" />
@@ -1336,46 +1330,53 @@
       <jump line="88" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
       <jump line="7" column="35" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
       <jump line="26" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
+      <jump line="6" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/js_func.py" />
+      <jump line="39" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/js_func.py" />
+      <jump line="34" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
+      <jump line="45" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
+      <jump line="47" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
+      <jump line="53" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzpAd3kK</text>
       </register>
       <register name="-" type="4">
-        <text>tiku</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgYXdhaXQgYXN5bmNpby5zbGVlcCg2MCAqIDYwICogNSkK</text>
+        <text encoding="base64">ICAgICMgVE9ETzpAd3kK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPOiDpnIDopoHkv67mlLkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">IyBUT0RPOiDpnIDopoHkv67mlLkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYXdhaXQgYXN5bmNpby5zbGVlcCg2MCAqIDYwICogNSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
