@@ -813,6 +813,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/post_process.py" timestamp="1565689875679">
+        <mark key="[" line="196" column="27" />
+        <mark key="]" line="196" column="26" />
+        <mark key="^" line="196" column="26" />
+        <mark key="." line="196" column="26" />
+      </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
         <mark key="[" line="330" column="55" />
@@ -968,12 +974,12 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" timestamp="1565683663681">
-        <mark key="'" line="67" column="7" />
-        <mark key="[" line="55" column="15" />
-        <mark key="]" line="55" column="14" />
-        <mark key="^" line="55" column="14" />
-        <mark key="." line="55" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" timestamp="1565689953769">
+        <mark key="'" line="77" column="7" />
+        <mark key="[" line="55" column="7" />
+        <mark key="]" line="55" column="6" />
+        <mark key="." line="55" column="6" />
+        <mark key="^" line="55" column="6" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/implementing_the_visitor_pattern/example.py" timestamp="1562675282691">
         <mark key="[" line="42" column="22" />
@@ -1339,8 +1345,8 @@
       <jump line="53" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIOaWsOWinuWll+mimO+8jCDms6jmhI/lpoLmnpzlt7Lnu4/lrZjlnKhwaWTvvIzliJnmm7TmlrB0aWTvvIzlkKbliJnmlrDlop4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAg</text>
@@ -1352,31 +1358,31 @@
         <text encoding="base64">ICAgICAgICByZXMgPSBjdXJzb3IuZmV0Y2hvbmUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIOaWsOWinuWll+mimO+8jCDms6jmhI/lpoLmnpzlt7Lnu4/lrZjlnKhwaWTvvIzliJnmm7TmlrB0aWTvvIzlkKbliJnmlrDlop4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzpAd3kK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5ID0gIlNFTEVDVCAqIGZyb20gbm93Y29kZXJfY29ycCB3aGVyZSBwaWQgPSAlcyAiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFzcwo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoZSkK</text>
+        <text encoding="base64">ICAgICMgVE9ETzpAd3kK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHF1ZXJ5ID0gIlNFTEVDVCAqIGZyb20gbm93Y29kZXJfY29ycCB3aGVyZSBwaWQgPSAlcyAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">cGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
