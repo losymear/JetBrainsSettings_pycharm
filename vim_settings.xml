@@ -448,14 +448,14 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1565754894331">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1565763043354">
         <mark key="t" line="3" column="20" />
         <mark key="'" line="100" column="10" />
         <mark key="j" line="107" column="25" />
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="24" />
-        <mark key="^" line="38" column="24" />
-        <mark key="." line="38" column="24" />
+        <mark key="[" line="11" column="70" />
+        <mark key="]" line="11" column="59" />
+        <mark key="^" line="11" column="59" />
+        <mark key="." line="11" column="59" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" timestamp="1564383506702">
         <mark key="'" line="3" column="31" />
@@ -476,12 +476,12 @@
         <mark key="^" line="121" column="30" />
         <mark key="." line="121" column="30" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/db.py" timestamp="1565703678383">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/db.py" timestamp="1565762358727">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="105" column="48" />
-        <mark key="^" line="105" column="48" />
-        <mark key="." line="105" column="48" />
+        <mark key="[" line="99" column="84" />
+        <mark key="]" line="99" column="84" />
+        <mark key="^" line="99" column="85" />
+        <mark key="." line="99" column="84" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/__init__.py" timestamp="1561701959049">
         <mark key="[" line="10" column="46" />
@@ -521,12 +521,12 @@
         <mark key="^" line="255" column="6" />
         <mark key="." line="255" column="6" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/README.md" timestamp="1565703534706">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/README.md" timestamp="1565762406548">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="47" column="3" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
+        <mark key="[" line="42" column="54" />
+        <mark key="]" line="42" column="53" />
+        <mark key="." line="42" column="53" />
+        <mark key="^" line="42" column="53" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
         <mark key="'" line="0" column="0" />
@@ -1022,12 +1022,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/js_func.py" timestamp="1565758766758">
-        <mark key="'" line="33" column="18" />
-        <mark key="[" line="18" column="52" />
-        <mark key="]" line="18" column="51" />
-        <mark key="." line="18" column="51" />
-        <mark key="^" line="18" column="51" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/js_func.py" timestamp="1565763007405">
+        <mark key="'" line="36" column="18" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="16" column="9" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/cv_service/retry.py" timestamp="1564371419540">
         <mark key="[" line="14" column="22" />
@@ -1362,43 +1362,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aWQgPSBmdXJsKGN1cnJlbnRfcGFnZS51cmwpLmFyZ3NbJ3RpZCddCiAgICAgICAgZGIuYWRkX25ld190YW90aShwaWQsIHRpZCwgdGl0bGUsIGltZywgaGFyZF9sZXZlbCkK</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXIgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcucmVzdWx0LXN1YmplY3QtaXRlbSAuZGVzaWduLWFuc3dlci1ib3gnKVsxXS5pbm5lclRleHQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>await</text>
+        <text>question</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uX2RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoNC41KQo=</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXIgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcucmVzdWx0LXN1YmplY3QtaXRlbSAuZGVzaWduLWFuc3dlci1ib3gnKVsxXS5pbm5lclRleHQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aWQgPSBmdXJsKGN1cnJlbnRfcGFnZS51cmwpLmFyZ3NbJ3RpZCddCiAgICAgICAgZGIuYWRkX25ld190YW90aShwaWQsIHRpZCwgdGl0bGUsIGltZywgaGFyZF9sZXZlbCkK</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXIgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcucmVzdWx0LXN1YmplY3QtaXRlbSAuZGVzaWduLWFuc3dlci1ib3gnKVsxXS5pbm5lclRleHQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aWQgPSBmdXJsKGN1cnJlbnRfcGFnZS51cmwpLmFyZ3NbJ3RpZCddCiAgICAgICAgZGIuYWRkX25ld190YW90aShwaWQsIHRpZCwgdGl0bGUsIGltZywgaGFyZF9sZXZlbCkK</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXIgPSAnJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5hZGRfbmV3X3Rhb3RpKHBpZCwgdGlkLCB0aXRsZSwgaW1nLCBoYXJkX2xldmVsKQo=</text>
+        <text encoding="base64">ICAgIC8vIOino+etlOmimCDlj6/og73ov5jmnInlhbblroPnsbvliKsg6KaB55yL5oOF5Ya1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aWQgPSBmdXJsKGN1cnJlbnRfcGFnZS51cmwpLmFyZ3NbJ3RpZCddCiAgICAgICAgZGIuYWRkX25ld190YW90aShwaWQsIHRpZCwgdGl0bGUsIGltZywgaGFyZF9sZXZlbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB0aWQgPSBmdXJsKGN1cnJlbnRfcGFnZS51cmwpLmFyZ3NbJ3RpZCddCiAgICAgICAgZGIuYWRkX25ld190YW90aShwaWQsIHRpZCwgdGl0bGUsIGltZywgaGFyZF9sZXZlbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbmZpcm1fYWhlYWRfc2VsZWN0b3IgPSAiLmNvbmZpcm0tYnRuIgo=</text>
+        <text encoding="base64">ICAgICAgICBkYi5hZGRfbmV3X3Rhb3RpKHBpZCwgdGlkLCB0aXRsZSwgaW1nLCBoYXJkX2xldmVsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMg56Gu6K6k5o+Q5YmN5Lqk5Y23Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFoZWFkX2ZpbmlzaF9zZWxlY3RvciA9ICIjYWhlYWRGaW5pc2giCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpcm1fYWhlYWRfc2VsZWN0b3IgPSAiLmNvbmZpcm0tYnRuIgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
