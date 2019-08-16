@@ -297,7 +297,7 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/collages_sprider.py" timestamp="1565945049476">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/collages_sprider.py" timestamp="1565945618250">
         <mark key="[" line="72" column="20" />
         <mark key="]" line="72" column="19" />
         <mark key="^" line="72" column="19" />
@@ -338,15 +338,6 @@
         <mark key="]" line="13" column="20" />
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1565853084676">
-        <mark key="t" line="3" column="20" />
-        <mark key="'" line="155" column="55" />
-        <mark key="j" line="107" column="25" />
-        <mark key="[" line="162" column="14" />
-        <mark key="]" line="162" column="13" />
-        <mark key="." line="162" column="13" />
-        <mark key="^" line="162" column="13" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/.gitignore" timestamp="1561691645515">
         <mark key="[" line="22" column="0" />
@@ -748,6 +739,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/scrapy/settings/default_settings.py" timestamp="1565945524082" />
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/test-ingress.yaml" timestamp="1564662042987">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="15" column="27" />
@@ -773,7 +765,7 @@
         <mark key="^" line="16" column="149" />
         <mark key="." line="16" column="149" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" timestamp="1565944880517">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" timestamp="1565945551754">
         <mark key="'" line="197" column="4" />
         <mark key="[" line="131" column="56" />
         <mark key="]" line="131" column="55" />
