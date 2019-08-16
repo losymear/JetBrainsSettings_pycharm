@@ -338,12 +338,12 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_courses.py" timestamp="1565937443942">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="41" column="44" />
-        <mark key="]" line="41" column="43" />
-        <mark key="^" line="41" column="43" />
-        <mark key="." line="41" column="43" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_courses.py" timestamp="1565941027869">
+        <mark key="'" line="76" column="42" />
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="35" />
+        <mark key="^" line="38" column="21" />
+        <mark key="." line="39" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" timestamp="1564470179924">
         <mark key="'" line="9" column="0" />
@@ -564,11 +564,11 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/pipelines.py" timestamp="1565936858856">
-        <mark key="[" line="178" column="81" />
-        <mark key="]" line="178" column="85" />
-        <mark key="^" line="178" column="85" />
-        <mark key="." line="178" column="85" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/pipelines.py" timestamp="1565940308191">
+        <mark key="[" line="178" column="40" />
+        <mark key="]" line="178" column="42" />
+        <mark key="^" line="178" column="42" />
+        <mark key="." line="178" column="42" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/not_tested/k8s_bad.yaml" timestamp="1564661698165">
         <mark key="[" line="50" column="31" />
@@ -1152,12 +1152,12 @@
         <mark key="^" line="16" column="149" />
         <mark key="." line="16" column="149" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" timestamp="1565935906846">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" timestamp="1565940560335">
         <mark key="'" line="197" column="4" />
-        <mark key="[" line="42" column="2" />
-        <mark key="]" line="42" column="1" />
-        <mark key="^" line="42" column="1" />
-        <mark key="." line="42" column="1" />
+        <mark key="[" line="131" column="56" />
+        <mark key="]" line="131" column="55" />
+        <mark key="^" line="131" column="55" />
+        <mark key="." line="131" column="55" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" timestamp="1564651519059">
         <mark key="'" line="0" column="0" />
@@ -1288,9 +1288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="14" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" />
-      <jump line="75" column="16" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" />
-      <jump line="318" column="58" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/raw-note.md" />
       <jump line="212" column="28" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/raw-note.md" />
       <jump line="18" column="68" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/wx-official-account/k8s.yaml" />
       <jump line="81" column="15" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/wx-official-account/k8s.yaml" />
@@ -1388,10 +1385,13 @@
       <jump line="154" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
       <jump line="197" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" />
       <jump line="86" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_courses.py" />
+      <jump line="29" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_courses.py" />
+      <jump line="70" column="32" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_courses.py" />
+      <jump line="76" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_courses.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi50ZXN0bW9kZToKICAgICAgICAgICAgICAgIGJyZWFrCgo=</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
         <text>True</text>
@@ -1400,34 +1400,34 @@
         <text encoding="base64">XDzpnIDopoHmlLnmiJDku45odHRwc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi50ZXN0bW9kZToKICAgICAgICAgICAgICAgIGJyZWFrCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNsYXNzX2lkIjogcmVzcG9uc2UubWV0YVsnY2xhc3NfaWQnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSA9IHJlc3BvbnNlLm1ldGFbJ3RpdGxlJ10K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JwX25hbWUgPSByZXNwb25zZS5tZXRhWydjb3JwX25hbWUnXQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc19pZCA9IHJlc3BvbnNlLm1ldGFbJ2NsYXNzX2lkJ10K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzID0gCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzLnVwZGF0ZShDb250ZW50IC0gVHlwZSA9ICdhcHBsaWNhdGlvbi9qc29uJykK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVzdGlvbnMgPSByZXNwb25zZS5tZXRhWydxdWVzdGlvbnMnXQo=</text>
+        <text encoding="base64">ICAgICAgICBzY3JhcHkuRm9ybVJlcXVlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXREZXRhaWxJbmZvX2Vycm9yKHNlbGYsIGUsIHVybCk6CiAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoZSkKICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcih1cmwpCgogICAgZGVmIGdldE5leHRwYWdlX2Vycm9yKHNlbGYsIGUsIHVybCk6CiAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoZSkKICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcih1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqc29uX2RhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNbJyddID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlc3Rpb25fY291bnQgPSBhX2NsYXNzWydxdWVzdGlvbl9jb3VudCddCg==</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZSA9IHJlc3BvbnNlLm1ldGFbJ3RpdGxlJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFdBUk5JTkcg5oqT5Y+W5LiA5q615pe26Ze05LmL5ZCO5Lya6L+U5ZueMzAy77yM5Lyw6K6h5piv5pyN5Yqh5Zmo5LiN6KGM5LqGCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3JwX25hbWUgPSByZXNwb25zZS5tZXRhWydjb3JwX25hbWUnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiRE9XTkxPQURfREVMQVkiOiAzLAo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc19pZCA9IHJlc3BvbnNlLm1ldGFbJ2NsYXNzX2lkJ10K</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
