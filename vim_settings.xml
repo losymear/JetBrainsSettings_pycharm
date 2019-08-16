@@ -9,13 +9,6 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/asyncio_synchronization_demo.py" timestamp="1539714846831">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="128" column="35" />
-        <mark key="]" line="133" column="24" />
-        <mark key="." line="133" column="24" />
-        <mark key="^" line="133" column="24" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/learning/puppeteer/requirements.txt" timestamp="1561784257256">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="0" />
@@ -27,13 +20,6 @@
         <mark key="]" line="20" column="9" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/raw-note.md" timestamp="1564651516913">
-        <mark key="'" line="212" column="28" />
-        <mark key="[" line="301" column="21" />
-        <mark key="]" line="308" column="2" />
-        <mark key="^" line="308" column="2" />
-        <mark key="." line="308" column="2" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/resume-pdf-nodejs/k8s.yaml" timestamp="1564651001491">
         <mark key="[" line="40" column="12" />
@@ -71,13 +57,6 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/qyqqapi.py" timestamp="1564371858812">
-        <mark key="'" line="74" column="4" />
-        <mark key="[" line="68" column="1" />
-        <mark key="]" line="67" column="66" />
-        <mark key="^" line="67" column="66" />
-        <mark key="." line="67" column="66" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/configs.py" timestamp="1564817505220">
         <mark key="[" line="24" column="17" />
         <mark key="]" line="24" column="16" />
@@ -90,52 +69,17 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/pyqq/util/qyqqapp.py" timestamp="1564199606514">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/implementing_a_data_model_or_type_system/example.py" timestamp="1562572061512">
-        <mark key="'" line="33" column="34" />
-        <mark key="[" line="125" column="39" />
-        <mark key="]" line="136" column="7" />
-        <mark key="^" line="136" column="7" />
-        <mark key="." line="136" column="7" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/liepin_spider.py" timestamp="1564933839874">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="24" column="85" />
         <mark key="^" line="24" column="68" />
         <mark key="." line="24" column="68" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/miniapp/k8s.yaml" timestamp="1564650051356">
-        <mark key="'" line="78" column="16" />
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="33" column="33" />
-        <mark key="^" line="33" column="33" />
-        <mark key="." line="33" column="33" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/buildImage.sh" timestamp="1562057735422">
-        <mark key="'" line="4" column="72" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/implementing_the_visitor_pattern_without_recursion/example2.py" timestamp="1562675681429">
         <mark key="[" line="68" column="8" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/cb_handler.py" timestamp="1564471024851">
-        <mark key="'" line="3" column="28" />
-        <mark key="[" line="101" column="39" />
-        <mark key="]" line="101" column="38" />
-        <mark key="." line="101" column="38" />
-        <mark key="^" line="101" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch-service.yaml" timestamp="1564648643055">
         <mark key="[" line="20" column="0" />
@@ -197,20 +141,6 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_get_http_header_demo.py" timestamp="1539715319609">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/swarm.yaml" timestamp="1562394595943">
-        <mark key="'" line="11" column="16" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="47" column="20" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/implementing_the_visitor_pattern_without_recursion/example1.py" timestamp="1562671568859">
         <mark key="[" line="33" column="23" />
         <mark key="]" line="2" column="7" />
@@ -249,13 +179,6 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/pyqq/server.py" timestamp="1564198694091">
-        <mark key="'" line="35" column="7" />
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-      </file>
       <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/scrapy/loader/processors.py" timestamp="1565166311543">
         <mark key="[" line="27" column="26" />
         <mark key="]" line="27" column="25" />
@@ -268,25 +191,11 @@
         <mark key="^" line="35" column="21" />
         <mark key="." line="35" column="21" />
       </file>
-      <file name="$USER_HOME$/playground/scrapy/.gitignore" timestamp="1564823870916">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="105" column="13" />
-        <mark key="]" line="105" column="11" />
-        <mark key="." line="105" column="11" />
-        <mark key="^" line="105" column="11" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/resume-pdf-nodejs/swarm.yaml" timestamp="1564650855362">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/requirements.txt" timestamp="1564936443920">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="42" column="11" />
-        <mark key="]" line="42" column="10" />
-        <mark key="^" line="42" column="10" />
-        <mark key="." line="42" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/lazily_computed_attributes/example1.py" timestamp="1562297077821">
         <mark key="[" line="23" column="20" />
@@ -294,25 +203,11 @@
         <mark key="^" line="23" column="19" />
         <mark key="." line="23" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/weworkapi_python/callback/WXBizMsgCrypt.py" timestamp="1564207412927">
-        <mark key="'" line="124" column="31" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/yunxin-prod/k8s.yaml" timestamp="1564648494987">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="6" column="4" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch2-deployment.yaml" timestamp="1564661900011">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="44" />
-        <mark key="^" line="45" column="44" />
-        <mark key="." line="45" column="44" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/scrapy.cfg" timestamp="1564990730681">
         <mark key="[" line="7" column="21" />
@@ -345,32 +240,11 @@
         <mark key="^" line="38" column="21" />
         <mark key="." line="39" column="35" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" timestamp="1564470179924">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="7" column="48" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="48" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_tcp_client_demo.py" timestamp="1539715329782">
-        <mark key="'" line="0" column="20" />
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="12" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/prod/k8s.yaml" timestamp="1562406149418">
         <mark key="[" line="75" column="3" />
         <mark key="]" line="75" column="2" />
         <mark key="^" line="75" column="2" />
         <mark key="." line="75" column="2" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" timestamp="1564642665799">
-        <mark key="'" line="75" column="16" />
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="36" column="41" />
-        <mark key="^" line="36" column="41" />
-        <mark key="." line="36" column="41" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/daemon/swarm.yaml" timestamp="1564649555618">
         <mark key="[" line="0" column="0" />
@@ -426,13 +300,6 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/.gitignore" timestamp="1562915939116">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="28" />
-        <mark key="]" line="27" column="9" />
-        <mark key="^" line="27" column="9" />
-        <mark key="." line="27" column="9" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/ierror.py" timestamp="1564207611026">
         <mark key="[" line="19" column="41" />
         <mark key="]" line="19" column="40" />
@@ -457,13 +324,6 @@
         <mark key="^" line="157" column="57" />
         <mark key="." line="157" column="57" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/util/WXBizMsgCrypt.py" timestamp="1564464841074">
-        <mark key="'" line="36" column="6" />
-        <mark key="[" line="166" column="69" />
-        <mark key="]" line="208" column="34" />
-        <mark key="." line="208" column="34" />
-        <mark key="^" line="208" column="34" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/not_tested/swarm.yaml" timestamp="1564651784384">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="20" />
@@ -478,13 +338,6 @@
         <mark key="]" line="162" column="13" />
         <mark key="." line="162" column="13" />
         <mark key="^" line="162" column="13" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" timestamp="1564383506702">
-        <mark key="'" line="3" column="31" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/.gitignore" timestamp="1561691645515">
         <mark key="[" line="22" column="0" />
@@ -511,25 +364,11 @@
         <mark key="^" line="10" column="45" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/playground/scrapy/quotes_spider.py" timestamp="1564829179215">
-        <mark key="'" line="5" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="19" column="44" />
-        <mark key="." line="19" column="44" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/capturing_class_attribute_definition_order/example2.py" timestamp="1562158716627">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="29" />
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/addOns/demo.py" timestamp="1561710155686">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/yunxintrans/swarm.yaml" timestamp="1564648560936">
         <mark key="[" line="0" column="0" />
@@ -549,20 +388,6 @@
         <mark key="]" line="42" column="53" />
         <mark key="." line="42" column="53" />
         <mark key="^" line="42" column="53" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/test.py" timestamp="1539221860381">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/requirements.txt" timestamp="1558939377222">
-        <mark key="'" line="16" column="14" />
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="9" />
-        <mark key="^" line="17" column="9" />
-        <mark key="." line="17" column="9" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/pipelines.py" timestamp="1565940308191">
         <mark key="[" line="178" column="40" />
@@ -588,26 +413,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/app.py" timestamp="1564195923242">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="60" column="1" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/wutongguo_spider.py" timestamp="1565935953773">
         <mark key="'" line="310" column="29" />
         <mark key="[" line="21" column="1" />
         <mark key="]" line="24" column="61" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_a_decorator_that_takes_arguments/example.py" timestamp="1561961787807">
-        <mark key="'" line="10" column="15" />
-        <mark key="[" line="28" column="11" />
-        <mark key="]" line="28" column="10" />
-        <mark key="." line="28" column="10" />
-        <mark key="^" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/resume-generate/swarm.yaml" timestamp="1564651929765">
         <mark key="[" line="14" column="14" />
@@ -627,39 +438,11 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/.gitignore" timestamp="1564199454190">
-        <mark key="'" line="10" column="11" />
-        <mark key="[" line="48" column="7" />
-        <mark key="]" line="48" column="10" />
-        <mark key="^" line="48" column="10" />
-        <mark key="." line="48" column="10" />
-      </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/mitmproxy/http.py" timestamp="1561706925543">
         <mark key="[" line="76" column="20" />
         <mark key="]" line="76" column="19" />
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
-        <mark key="'" line="9" column="14" />
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/src/app.py" timestamp="1565162283902">
-        <mark key="'" line="19" column="15" />
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="20" column="25" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/network/asyncio_demo/async_streams_socket_wait_for_data.py" timestamp="1539715326581">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/buildImage.sh" timestamp="1564381547123">
         <mark key="[" line="5" column="0" />
@@ -672,13 +455,6 @@
         <mark key="]" line="8" column="93" />
         <mark key="^" line="8" column="93" />
         <mark key="." line="8" column="93" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/src/heartbeat/job.py" timestamp="1558947930751">
-        <mark key="'" line="38" column="40" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/miniapp/swarm.yaml" timestamp="1564649899746">
         <mark key="[" line="15" column="15" />
@@ -698,13 +474,6 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/app.py" timestamp="1564462102029">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="44" column="35" />
-        <mark key="]" line="54" column="29" />
-        <mark key="^" line="54" column="29" />
-        <mark key="." line="54" column="29" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/multiple_dispatch_with_function_annotations/example1.py" timestamp="1562161572811">
         <mark key="[" line="60" column="14" />
         <mark key="]" line="60" column="13" />
@@ -716,13 +485,6 @@
         <mark key="]" line="81" column="6" />
         <mark key="^" line="81" column="6" />
         <mark key="." line="81" column="6" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/service/yunxin_upload.py" timestamp="1564200301865">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="1" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/server.py" timestamp="1564198438506">
         <mark key="[" line="5" column="10" />
@@ -736,20 +498,6 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/resumeProxy/saveResponseAddOn.py" timestamp="1561724675966">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="18" />
-        <mark key="." line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/qyqq-py/k8s.yaml" timestamp="1564649328857">
-        <mark key="'" line="72" column="5" />
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/requirements.txt" timestamp="1562054240701">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -761,13 +509,6 @@
         <mark key="]" line="8" column="9" />
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch-deployment.yaml" timestamp="1562402892319">
-        <mark key="'" line="6" column="33" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="21" />
-        <mark key="." line="40" column="117" />
-        <mark key="^" line="40" column="117" />
       </file>
       <file name="/anaconda3/envs/pydemos/lib/python3.7/site-packages/requests/api.py" timestamp="1558943056015">
         <mark key="[" line="115" column="34" />
@@ -805,13 +546,6 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/db.sql" timestamp="1564458761379">
-        <mark key="'" line="3" column="3" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/setup.py" timestamp="1558938300811">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="29" />
@@ -830,20 +564,6 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/template/yunxin.html" timestamp="1562926253271">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="23" column="107" />
-        <mark key="]" line="23" column="106" />
-        <mark key="^" line="23" column="106" />
-        <mark key="." line="23" column="106" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/requirements.txt" timestamp="1563190828292">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="13" />
-        <mark key="^" line="21" column="13" />
-        <mark key="." line="21" column="13" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/config.py" timestamp="1564217204693">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="0" />
@@ -856,32 +576,11 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
-        <mark key="'" line="206" column="53" />
-        <mark key="[" line="330" column="55" />
-        <mark key="]" line="330" column="54" />
-        <mark key="^" line="330" column="54" />
-        <mark key="." line="330" column="54" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/.gitignore" timestamp="1558948338295">
-        <mark key="'" line="7" column="5" />
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="50" column="8" />
-        <mark key="^" line="50" column="8" />
-        <mark key="." line="50" column="8" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/run.sh" timestamp="1565337363167">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/service.yaml" timestamp="1562388337974">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="74" column="3" />
-        <mark key="]" line="90" column="17" />
-        <mark key="^" line="90" column="17" />
-        <mark key="." line="90" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/searchengine2-persistentvolumeclaim.yaml" timestamp="1562396501251">
         <mark key="[" line="1" column="27" />
@@ -889,52 +588,17 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/sched_demo.py" timestamp="1539517235493">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/qyqq-py/swarm.yaml" timestamp="1564649277610">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="1" column="53" />
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/yunxintrans/k8s.yaml" timestamp="1564649321346">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/capturing_class_attribute_definition_order/example1.py" timestamp="1562124152651">
         <mark key="[" line="45" column="13" />
         <mark key="]" line="47" column="18" />
         <mark key="^" line="47" column="18" />
         <mark key="." line="47" column="18" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" timestamp="1539161054462">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="8" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/src/yunxin_transcode/app.py" timestamp="1562899872645">
-        <mark key="'" line="0" column="40" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/daemon/k8s.yaml" timestamp="1564649643287">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="18" column="65" />
-        <mark key="]" line="18" column="60" />
-        <mark key="." line="18" column="60" />
-        <mark key="^" line="18" column="60" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_tiku_sanjieke_courses.sh" timestamp="1565924458657">
         <mark key="[" line="1" column="62" />
@@ -960,13 +624,6 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/searchengine-persistentvolumeclaim.yaml" timestamp="1564661870469">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="6" column="42" />
-      </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/browser.py" timestamp="1563191214918">
         <mark key="[" line="191" column="33" />
         <mark key="]" line="191" column="32" />
@@ -979,13 +636,6 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/run.sh" timestamp="1564221232477">
-        <mark key="'" line="9" column="26" />
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/51job_spider.py" timestamp="1564933696873">
         <mark key="[" line="127" column="78" />
         <mark key="]" line="127" column="77" />
@@ -997,13 +647,6 @@
         <mark key="]" line="6" column="22" />
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/weworkapi_python/api/src/AbstractApi.py" timestamp="1564207414414">
-        <mark key="'" line="10" column="1" />
-        <mark key="[" line="145" column="13" />
-        <mark key="]" line="115" column="25" />
-        <mark key="^" line="115" column="25" />
-        <mark key="." line="115" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/pip.conf" timestamp="1564209639953">
         <mark key="[" line="0" column="0" />
@@ -1030,25 +673,11 @@
         <mark key="^" line="42" column="21" />
         <mark key="." line="42" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/README.md" timestamp="1562915256734">
-        <mark key="'" line="5" column="45" />
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="4" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/cookbook/test.py" timestamp="1524158342366">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/Dockerfile" timestamp="1562058195658">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/js_func.py" timestamp="1565851471189">
         <mark key="'" line="36" column="18" />
@@ -1069,13 +698,6 @@
         <mark key="^" line="17" column="22" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/ding_msg.py" timestamp="1564635067696">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/index.py" timestamp="1565334761300">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="30" />
@@ -1088,18 +710,17 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/Dockerfile" timestamp="1564209556826">
-        <mark key="'" line="0" column="59" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/buildImageBase.sh" timestamp="1562933858360">
         <mark key="[" line="0" column="61" />
         <mark key="]" line="1" column="37" />
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/xlsx_demo.py" timestamp="1565942083755">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/10/loading_modules_from_a_remote_machine_using_import_hooks/testcode/fib.py" timestamp="1561810288043">
         <mark key="[" line="6" column="34" />
@@ -1119,25 +740,11 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Dockerfile" timestamp="1564384078097">
-        <mark key="'" line="6" column="26" />
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/em.py" timestamp="1524151279538">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
-      </file>
-      <file name="/usr/local/bin/a.py" timestamp="1559413088595">
-        <mark key="'" line="7" column="12" />
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="10" column="17" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/jinja2/environment.py" timestamp="1564197357733">
         <mark key="[" line="0" column="1" />
@@ -1158,13 +765,6 @@
         <mark key="]" line="131" column="55" />
         <mark key="^" line="131" column="55" />
         <mark key="." line="131" column="55" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" timestamp="1564651519059">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_tiku_haitou.sh" timestamp="1565924463020">
         <mark key="[" line="1" column="57" />
@@ -1190,13 +790,6 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/scripts/uniformPath" timestamp="1539328347657">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="31" column="49" />
-        <mark key="]" line="31" column="72" />
-        <mark key="." line="31" column="72" />
-        <mark key="^" line="31" column="72" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/tmp.py" timestamp="1539791065167">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="12" column="0" />
@@ -1221,25 +814,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/run.py" timestamp="1565334707151">
-        <mark key="'" line="66" column="33" />
-        <mark key="[" line="66" column="34" />
-        <mark key="]" line="66" column="33" />
-        <mark key="^" line="66" column="33" />
-        <mark key="." line="66" column="33" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/swarm.yaml" timestamp="1564647675245">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="12" />
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/getcb.py" timestamp="1564215374819">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_liepin.sh" timestamp="1565935118823">
         <mark key="[" line="2" column="20" />
@@ -1247,32 +826,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1565162725959">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="31" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_liepin_campus.sh" timestamp="1564991173045">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/requirements.txt" timestamp="1565696093409">
-        <mark key="'" line="4" column="38" />
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="10" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/start.py" timestamp="1565254806845">
-        <mark key="'" line="33" column="33" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/future_demo.py" timestamp="1539442670150">
         <mark key="[" line="7" column="0" />
