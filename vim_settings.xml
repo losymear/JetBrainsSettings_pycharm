@@ -1113,12 +1113,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/xlsx_demo.py" timestamp="1565953260016">
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/xlsx_demo.py" timestamp="1565956324913">
         <mark key="'" line="7" column="27" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="7" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/10/loading_modules_from_a_remote_machine_using_import_hooks/testcode/fib.py" timestamp="1561810288043">
         <mark key="[" line="6" column="34" />
