@@ -180,6 +180,13 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_courses.py" timestamp="1565958002201">
+        <mark key="'" line="37" column="9" />
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/extending_classes_with_mixins/example1.py" timestamp="1562583930705">
         <mark key="[" line="31" column="7" />
         <mark key="]" line="31" column="6" />
@@ -1113,7 +1120,7 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/xlsx_demo.py" timestamp="1565956324913">
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/xlsx_demo.py" timestamp="1565957936913">
         <mark key="'" line="7" column="27" />
         <mark key="[" line="33" column="8" />
         <mark key="]" line="33" column="7" />
@@ -1311,7 +1318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="10" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
       <jump line="80" column="2" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
       <jump line="7" column="12" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/yunxin-prod/k8s.yaml" />
       <jump line="65" column="13" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
@@ -1411,6 +1417,7 @@
       <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/xlsx_demo.py" />
       <jump line="6" column="27" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/xlsx_demo.py" />
       <jump line="12" column="5" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/.gitignore" />
+      <jump line="33" column="9" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_courses.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
