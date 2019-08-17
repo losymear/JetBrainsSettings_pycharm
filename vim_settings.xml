@@ -180,12 +180,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_courses.py" timestamp="1566011016679">
-        <mark key="'" line="15" column="6" />
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="26" column="27" />
-        <mark key="^" line="26" column="27" />
-        <mark key="." line="26" column="27" />
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_courses.py" timestamp="1566013894477">
+        <mark key="[" line="36" column="63" />
+        <mark key="]" line="36" column="63" />
+        <mark key="^" line="36" column="63" />
+        <mark key="." line="36" column="63" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/8/extending_classes_with_mixins/example1.py" timestamp="1562583930705">
         <mark key="[" line="31" column="7" />
@@ -361,12 +360,12 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_courses.py" timestamp="1565941027869">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_courses.py" timestamp="1566011403240">
         <mark key="'" line="76" column="42" />
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="35" />
-        <mark key="^" line="38" column="21" />
-        <mark key="." line="39" column="35" />
+        <mark key="[" line="54" column="68" />
+        <mark key="]" line="54" column="67" />
+        <mark key="^" line="54" column="67" />
+        <mark key="." line="54" column="67" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/README.md" timestamp="1564470179924">
         <mark key="'" line="9" column="0" />
@@ -493,14 +492,14 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1566010919766">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1566011322011">
         <mark key="t" line="3" column="20" />
         <mark key="'" line="155" column="55" />
         <mark key="j" line="107" column="25" />
-        <mark key="[" line="158" column="26" />
-        <mark key="]" line="158" column="25" />
-        <mark key="." line="158" column="25" />
-        <mark key="^" line="158" column="25" />
+        <mark key="[" line="126" column="58" />
+        <mark key="]" line="126" column="57" />
+        <mark key="." line="126" column="57" />
+        <mark key="^" line="126" column="57" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" timestamp="1564383506702">
         <mark key="'" line="3" column="31" />
@@ -1129,12 +1128,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/xlsx_demo.py" timestamp="1566010289853">
-        <mark key="'" line="7" column="27" />
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/xlsx_demo.py" timestamp="1566013824614">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="1" column="81" />
+        <mark key="]" line="1" column="80" />
+        <mark key="^" line="1" column="80" />
+        <mark key="." line="1" column="80" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/10/loading_modules_from_a_remote_machine_using_import_hooks/testcode/fib.py" timestamp="1561810288043">
         <mark key="[" line="6" column="34" />
@@ -1327,8 +1326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="12" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/yunxin-prod/k8s.yaml" />
-      <jump line="65" column="13" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" />
       <jump line="72" column="4" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/yunxintrans/k8s.yaml" />
       <jump line="18" column="72" filename="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/yunxintrans/k8s.yaml" />
@@ -1427,46 +1424,48 @@
       <jump line="12" column="5" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/.gitignore" />
       <jump line="33" column="9" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_courses.py" />
       <jump line="15" column="6" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_courses.py" />
+      <jump line="49" column="11" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_courses.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/xlsx_demo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvcnBfbmFtZSwgdGFvdGlfdGl0bGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>trial</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzpnIDopoHmlLnmiJDku45odHRwc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzaGVldDEud3JpdGUoMCwgNCwgIuexu+WIqyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZXMuYWRkKHF1ZXN0aW9uKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2hlZXQxID0gYm9vay5hZGRfc2hlZXQoIuS4ieiKguivvuWFrOWPuOecn+mimCIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2hlZXQxID0gYm9vay5hZGRfc2hlZXQoIuS4ieiKguivvuWFrOWPuOecn+mimCIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBzaGVldDEud3JpdGUoMCwgMCwgIkRpc3BsYXkiKQojIHNoZWV0MS53cml0ZSgxLCAwLCAiRG9taW5hbmNlIikKIyBzaGVldDEud3JpdGUoMiwgMCwgIlRlc3QiKQojCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGVfMSA9ICIuLyIK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50KGNvcnBfbmFtZSwgdGFvdGlfdGl0bGUpCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQodHlwZXMpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBzaGVldDEud3JpdGUoMCwgMSwgeCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBzaGVldDEud3JpdGUoMCwgMSwgeCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dHlwZXMgPSBzZXQoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocXVlc3Rpb24pCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">eCA9IDEKeSA9IDIKeiA9IDMKCmxpc3QxID0gWzIuMzQsIDQuMzQ2LCA0LjIzNF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzaGVldDEud3JpdGUoMCwgNCwgIuexu+WIqyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc19pZCA9IHJlc3BvbnNlLm1ldGFbJ2NsYXNzX2lkJ10K</text>
+        <text encoding="base64">c2hlZXQxLndyaXRlKDAsIDcsICLnsbvliKsiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhWydjbGFzc19pZCddKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
