@@ -495,14 +495,14 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1566218061050">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1566284236256">
         <mark key="t" line="3" column="20" />
-        <mark key="'" line="126" column="75" />
+        <mark key="'" line="155" column="14" />
         <mark key="j" line="107" column="25" />
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="21" />
-        <mark key="." line="42" column="21" />
-        <mark key="^" line="42" column="21" />
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" timestamp="1564383506702">
         <mark key="'" line="3" column="31" />
@@ -523,12 +523,12 @@
         <mark key="^" line="121" column="30" />
         <mark key="." line="121" column="30" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/db.py" timestamp="1565762358727">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/db.py" timestamp="1566284200975">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="99" column="84" />
-        <mark key="]" line="99" column="84" />
-        <mark key="^" line="99" column="85" />
-        <mark key="." line="99" column="84" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/src/mitmproxyresume/__init__.py" timestamp="1561701959049">
         <mark key="[" line="10" column="46" />
@@ -1354,8 +1354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/README.md" />
-      <jump line="13" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
       <jump line="14" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
       <jump line="16" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
       <jump line="4" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
@@ -1454,6 +1452,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_points.py" />
       <jump line="34" column="31" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_points.py" />
       <jump line="57" column="17" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_points.py" />
+      <jump line="90" column="63" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
+      <jump line="155" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
