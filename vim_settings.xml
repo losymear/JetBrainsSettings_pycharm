@@ -495,14 +495,14 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1566218008203">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" timestamp="1566218061050">
         <mark key="t" line="3" column="20" />
         <mark key="'" line="126" column="75" />
         <mark key="j" line="107" column="25" />
-        <mark key="[" line="55" column="44" />
-        <mark key="]" line="55" column="43" />
-        <mark key="." line="55" column="43" />
-        <mark key="^" line="55" column="43" />
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/Jenkinsfile" timestamp="1564383506702">
         <mark key="'" line="3" column="31" />
@@ -947,6 +947,13 @@
         <mark key="^" line="47" column="18" />
         <mark key="." line="47" column="18" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_points.py" timestamp="1566273090241">
+        <mark key="'" line="64" column="17" />
+        <mark key="[" line="41" column="41" />
+        <mark key="]" line="41" column="39" />
+        <mark key="." line="41" column="39" />
+        <mark key="^" line="41" column="39" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/playground/python_novice/src/python_novice/fileaccess/pathlib.py" timestamp="1539161054462">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="7" column="0" />
@@ -1159,7 +1166,6 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/scrapy/settings/default_settings.py" timestamp="1565945524082" />
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/test-ingress.yaml" timestamp="1564662042987">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="15" column="27" />
@@ -1348,11 +1354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="26" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/index.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/index.py" />
-      <jump line="36" column="25" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/index.py" />
-      <jump line="66" column="33" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/run.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
       <jump line="4" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/README.md" />
       <jump line="13" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
       <jump line="14" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
@@ -1448,55 +1449,60 @@
       <jump line="95" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_point.py" />
       <jump line="140" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_point.py" />
       <jump line="126" column="75" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_points.py" />
+      <jump line="38" column="15" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_points.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_points.py" />
+      <jump line="34" column="31" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_points.py" />
+      <jump line="57" column="17" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_points.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgbWFya19maW5pc2goY2F0ZWdvcnlfa2V5LCBwb2ludF9uYW1lKQo=</text>
+      <register name="&quot;" type="4">
+        <text>datas</text>
       </register>
       <register name="-" type="4">
-        <text>8mykT2gKKn97JXjJDnZTYnmuIA0K8ylFZPYClLr8</text>
+        <text>datas</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzpnIDopoHmlLnmiJDku45odHRwc1w+</text>
+        <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgbWFya19maW5pc2goY2F0ZWdvcnlfa2V5LCBwb2ludF9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVzdGlvbl9pZCA9IGRhdGFbJ3F1ZXN0aW9uX2lkJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgi6Lez6L+HIikK</text>
+        <text encoding="base64">ICAgICAgICBxdWVzdGlvbl9pZF9zZXQuYWRkKHF1ZXN0aW9uX2lkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgcHJpbnQoIui3s+i/h3t9Ii5mb3JtYXQocG9pbnRfbmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocXVlc3Rpb25faWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">cHJpbnQoImlkX2hhIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBub3Qgc2VsZi5wb2ludHNfcXVldWUuZW1wdHkoKToK</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhbGxfcXVlc3Rpb25faWRzKQo=</text>
+        <text encoding="base64">YXNldCA9IHNldCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoanNvbl9kYXRhKQo=</text>
+        <text encoding="base64">cHJpbnQoYXNldCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzcG9uc2UucmVxdWVzdC5oZWFkZXJzKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc2V0LmFkZChjYXRlZ29yeV9rZXkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzcG9uc2UucmVxdWVzdC5ib2R5KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDzpnIDopoHmlLnmiJDku45odHRwc1w+</last-search>
+      <last-search encoding="base64">XDx0aW1lc3RhbXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzpnIDopoHmlLnmiJDku45odHRwc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lc3RhbXBcPg==</last-pattern>
       <last-replace>prices</last-replace>
       <last-substitute>prices2</last-substitute>
       <last-dir>-1</last-dir>
@@ -1504,7 +1510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>average</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry>result</entry>
         <entry>custom_se</entry>
@@ -1524,6 +1529,7 @@
         <entry>conn</entry>
         <entry encoding="base64">XDxqc29uX2RhdGFcPg==</entry>
         <entry encoding="base64">XDzpnIDopoHmlLnmiJDku45odHRwc1w+</entry>
+        <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prices2/prices</entry>
