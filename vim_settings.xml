@@ -1228,12 +1228,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/config.py" timestamp="1566454960845">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/config.py" timestamp="1566456753351">
         <mark key="'" line="2" column="22" />
-        <mark key="[" line="16" column="150" />
-        <mark key="]" line="16" column="149" />
-        <mark key="^" line="16" column="149" />
-        <mark key="." line="16" column="149" />
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" timestamp="1566186961342">
         <mark key="'" line="197" column="4" />
