@@ -1055,11 +1055,12 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" timestamp="1566446874508">
-        <mark key="[" line="136" column="32" />
-        <mark key="]" line="136" column="31" />
-        <mark key="." line="136" column="31" />
-        <mark key="^" line="136" column="31" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" timestamp="1566447552757">
+        <mark key="'" line="125" column="31" />
+        <mark key="[" line="87" column="126" />
+        <mark key="]" line="87" column="126" />
+        <mark key="." line="87" column="126" />
+        <mark key="^" line="87" column="126" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/51job_spider.py" timestamp="1564933696873">
         <mark key="[" line="127" column="78" />
@@ -1383,7 +1384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="22" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/config.py" />
       <jump line="28" column="65" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
       <jump line="23" column="50" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
       <jump line="96" column="36" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
@@ -1483,6 +1483,7 @@
       <jump line="20" column="30" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" />
       <jump line="101" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" />
       <jump line="99" column="54" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" />
+      <jump line="124" column="31" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
