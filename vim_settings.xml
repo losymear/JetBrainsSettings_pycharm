@@ -16,6 +16,12 @@
         <mark key="." line="133" column="24" />
         <mark key="^" line="133" column="24" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a827d6a9-72ab-450a-80f0-3311df78bd01/console.sql" timestamp="1524157792313">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/learning/puppeteer/requirements.txt" timestamp="1561784257256">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="0" />
@@ -35,11 +41,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/js_func.py" timestamp="1566380861284">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="20" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/js_func.py" timestamp="1566438526308">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="46" column="6" />
+        <mark key="]" line="46" column="5" />
+        <mark key="." line="46" column="5" />
+        <mark key="^" line="46" column="5" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" timestamp="1524152004944">
         <mark key="[" line="2" column="0" />
@@ -185,12 +192,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bd11c8fe-e58a-4ce3-a5d0-a7b39cdf1893/console.sql" timestamp="1524157668004">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/sanjieke_courses.py" timestamp="1566013894477">
         <mark key="[" line="36" column="63" />
@@ -711,6 +712,12 @@
         <mark key="^" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/types.pyi" timestamp="1562294716408">
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="40" column="32" />
+        <mark key="^" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/README.md" timestamp="1539317363616">
         <mark key="[" line="8" column="68" />
         <mark key="]" line="8" column="93" />
@@ -825,12 +832,6 @@
         <mark key="^" line="40" column="25" />
         <mark key="." line="40" column="25" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/types.pyi" timestamp="1562294716408">
-        <mark key="[" line="40" column="33" />
-        <mark key="]" line="40" column="32" />
-        <mark key="^" line="40" column="32" />
-        <mark key="." line="40" column="32" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_a_decorator_with_user_adjustable_attributes/example1.py" timestamp="1561968770309">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -906,6 +907,12 @@
         <mark key="]" line="330" column="54" />
         <mark key="^" line="330" column="54" />
         <mark key="." line="330" column="54" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bd11c8fe-e58a-4ce3-a5d0-a7b39cdf1893/console.sql" timestamp="1524157668004">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/.gitignore" timestamp="1558948338295">
         <mark key="'" line="7" column="5" />
@@ -1050,12 +1057,12 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" timestamp="1566381041839">
-        <mark key="'" line="151" column="29" />
-        <mark key="[" line="143" column="10" />
-        <mark key="]" line="143" column="9" />
-        <mark key="." line="143" column="9" />
-        <mark key="^" line="143" column="9" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" timestamp="1566438392406">
+        <mark key="'" line="161" column="29" />
+        <mark key="[" line="155" column="86" />
+        <mark key="]" line="154" column="23" />
+        <mark key="." line="154" column="23" />
+        <mark key="^" line="154" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/51job_spider.py" timestamp="1564933696873">
         <mark key="[" line="127" column="78" />
@@ -1190,12 +1197,6 @@
         <mark key="]" line="6" column="33" />
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a827d6a9-72ab-450a-80f0-3311df78bd01/console.sql" timestamp="1524157792313">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/test-ingress.yaml" timestamp="1564662042987">
         <mark key="[" line="15" column="28" />
@@ -1385,8 +1386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="16" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
       <jump line="45" column="52" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
       <jump line="47" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
       <jump line="53" column="7" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/db.py" />
@@ -1485,10 +1484,12 @@
       <jump line="129" column="34" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" />
       <jump line="135" column="24" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" />
       <jump line="145" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" />
+      <jump line="30" column="88" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/js_func.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/js_func.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TODO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>TODO</text>
@@ -1500,28 +1501,28 @@
         <text encoding="base64">ICAgIGF3YWl0IGN1cnJlbnRfcGFnZS53YWl0Rm9yKCJkaXYuY2FyZC1mb2xkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzog5bu66K6u6Lez6L+H57yW56iL6aKYCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPOiDpnIDopoHkuIDkuKpmdW5jdGlvbueCueWHu+mAieaLqTMw6YGT5oyJ6ZKuCg==</text>
+        <text encoding="base64">ICAgIH0KICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGN1cnJlbnRfcGFnZS53YWl0Rm9yKCJkaXYuY2FyZC1mb2xkIikK</text>
+        <text encoding="base64">IAp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMzAwMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXdhaXQgYXN5bmNpby5zbGVlcCgzMDAwKQo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGN1cgo=</text>
+        <text encoding="base64">IyAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGN1cnJlbnRfcGFnZS5jbGljaygpCg==</text>
+        <text encoding="base64">ICAgICMgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
