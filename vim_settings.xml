@@ -41,12 +41,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/js_func.py" timestamp="1566438526308">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/js_func.py" timestamp="1566439638348">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="46" column="6" />
-        <mark key="]" line="46" column="5" />
-        <mark key="." line="46" column="5" />
-        <mark key="^" line="46" column="5" />
+        <mark key="[" line="105" column="12" />
+        <mark key="]" line="105" column="11" />
+        <mark key="." line="105" column="11" />
+        <mark key="^" line="105" column="11" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/test/test/test.py" timestamp="1524152004944">
         <mark key="[" line="2" column="0" />
@@ -1057,12 +1057,12 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" timestamp="1566438392406">
-        <mark key="'" line="161" column="29" />
-        <mark key="[" line="155" column="86" />
-        <mark key="]" line="154" column="23" />
-        <mark key="." line="154" column="23" />
-        <mark key="^" line="154" column="23" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" timestamp="1566441442814">
+        <mark key="'" line="163" column="29" />
+        <mark key="[" line="160" column="47" />
+        <mark key="]" line="160" column="46" />
+        <mark key="." line="160" column="46" />
+        <mark key="^" line="160" column="46" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/51job_spider.py" timestamp="1564933696873">
         <mark key="[" line="127" column="78" />
@@ -1489,7 +1489,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
       </register>
       <register name="-" type="4">
         <text>TODO</text>
@@ -1501,28 +1501,28 @@
         <text encoding="base64">ICAgIGF3YWl0IGN1cnJlbnRfcGFnZS53YWl0Rm9yKCJkaXYuY2FyZC1mb2xkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAp9Cg==</text>
+        <text encoding="base64">ICAgYXdhaXQgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOiOt+WPlumimOebruexu+Wei+OAgQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIH0KICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgIAo=</text>
+        <text encoding="base64">IAp9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
