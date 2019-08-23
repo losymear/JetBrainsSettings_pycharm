@@ -1055,12 +1055,12 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" timestamp="1566536021407">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" timestamp="1566536842173">
         <mark key="'" line="44" column="18" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
-        <mark key="^" line="11" column="16" />
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="24" />
+        <mark key="^" line="40" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/51job_spider.py" timestamp="1564933696873">
         <mark key="[" line="127" column="78" />
@@ -1487,10 +1487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
