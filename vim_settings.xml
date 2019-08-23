@@ -350,12 +350,12 @@
         <mark key="^" line="45" column="44" />
         <mark key="." line="45" column="44" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" timestamp="1566548408754">
-        <mark key="'" line="88" column="29" />
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="46" column="24" />
-        <mark key="^" line="46" column="24" />
-        <mark key="." line="46" column="24" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" timestamp="1566550595438">
+        <mark key="'" line="146" column="12" />
+        <mark key="[" line="290" column="15" />
+        <mark key="]" line="298" column="24" />
+        <mark key="^" line="298" column="24" />
+        <mark key="." line="298" column="24" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/scrapy.cfg" timestamp="1564990730681">
         <mark key="[" line="7" column="21" />
@@ -658,6 +658,13 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/order_list_res.json" timestamp="1566550243390">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/defining_a_decorator_that_takes_arguments/example.py" timestamp="1561961787807">
         <mark key="'" line="10" column="15" />
         <mark key="[" line="28" column="11" />
@@ -868,12 +875,12 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" timestamp="1566548451901">
-        <mark key="'" line="4" column="35" />
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="13" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" timestamp="1566550783958">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="68" column="5" />
+        <mark key="]" line="68" column="4" />
+        <mark key="." line="68" column="4" />
+        <mark key="^" line="68" column="4" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/setup.py" timestamp="1558938300811">
         <mark key="[" line="23" column="30" />
@@ -1410,18 +1417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="37" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
-      <jump line="117" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
-      <jump line="69" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/js_func.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/js_func.py" />
-      <jump line="85" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
-      <jump line="91" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
-      <jump line="79" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/db.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/db.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/db.py" />
-      <jump line="33" column="18" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/js_func.py" />
       <jump line="54" column="45" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
       <jump line="154" column="55" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
       <jump line="197" column="4" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" />
@@ -1510,46 +1505,58 @@
       <jump line="1633" column="4" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
       <jump line="568" column="33" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
       <jump line="88" column="29" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
+      <jump line="21" column="39" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
+      <jump line="1" column="12" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
+      <jump line="1379" column="27" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
+      <jump line="863" column="31" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
+      <jump line="13" column="10" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
+      <jump line="157" column="6" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/order_list_res.json" />
+      <jump line="3" column="11" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/order_list_res.json" />
+      <jump line="168" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/order_list_res.json" />
+      <jump line="639" column="25" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
+      <jump line="146" column="12" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
+      <jump line="40" column="6" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
+      <jump line="10" column="24" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>il</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>il</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYXJ0aWNsZU51bWJlcic6IHNob2VbJ2FydGljbGVOdW1iZXInXSwgIyDotKflj7cK</text>
+        <text encoding="base64">ZGVmIGdldF9za3VfaW5mb19mcm9tX2xpc3Qoc2hvZV9pbmZvKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcyByZXNhCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnYXJ0aWNsZU51bWJlcnMnOiBzaG9lWydhcnRpY2xlTnVtYmVycyddLCAgIyDlj6/og73mnInlpJrkuKrotKflj7cK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBzaG9lX2luZm86IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc1snbmFtZSddCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvcmRlcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nZ2VyLmluZm8oc2hvZV9saXN0KQo=</text>
+        <text encoding="base64">IyBmb3Igc2hvZSBpbiBzaG9lX2xpc3Q6CiMgICAgIGxvZ2dpbmcuaW5mbyhzaG9lKQojIGxvZ2dlci5pbmZvKGdldF9za3VfaW5mb19mcm9tX2xpc3Qo5b2p6Jm554us6KeS5YW9X+ivpuaDhSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgX19tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">6aaW6aG1X2xpc3RfcmVzPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFt7ImRvbWFpbiI6ICIubm93Y29kZXIuY29tIiwgInBhdGgiOiAiLyIsICJuYW1lIjogImMxOTZjMzY2N2QyMTQ4NTFiMTEyMzNmNWMxN2Y5OWQ1X2dyX2NzMSIsICJ2YWx1ZSI6ICI1ODc0NzQyODYifSwKICAgICAgICAgICAgICAgICAgIHsiZG9tYWluIjogIi5ub3djb2Rlci5jb20iLCAicGF0aCI6ICIvIiwgIm5hbWUiOiAiYzE5NmMzNjY3ZDIxNDg1MWIxMTIzM2Y1YzE3Zjk5ZDVfZ3JfbGFzdF9zZW50X2NzMSIsICJ2YWx1ZSI6ICI1ODc0NzQyODYifSwKICAgICAgICAgICAgICAgICAgIHsiZG9tYWluIjogIi5ub3djb2Rlci5jb20iLCAicGF0aCI6ICIvIiwgIm5hbWUiOiAiYzE5NmMzNjY3ZDIxNDg1MWIxMTIzM2Y1YzE3Zjk5ZDVfZ3JfbGFzdF9zZW50X3NpZF93aXRoX2NzMSIsCiAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIjI0YzQyMWY4LWU2YzAtNGEzNC1hYzIyLTk1NzcxZDJiOWExNSJ9LAogICAgICAgICAgICAgICAgICAgeyJkb21haW4iOiAiLm5vd2NvZGVyLmNvbSIsICJwYXRoIjogIi8iLCAibmFtZSI6ICJjMTk2YzM2NjdkMjE0ODUxYjExMjMzZjVjMTdmOTlkNV9ncl9zZXNzaW9uX2lkIiwKICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiMjRjNDIxZjgtZTZjMC00YTM0LWFjMjItOTU3NzFkMmI5YTE1In0sCiAgICAgICAgICAgICAgICAgICB7ImRvbWFpbiI6ICIubm93Y29kZXIuY29tIiwgInBhdGgiOiAiLyIsCiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiYzE5NmMzNjY3ZDIxNDg1MWIxMTIzM2Y1YzE3Zjk5ZDVfZ3Jfc2Vzc2lvbl9pZF8yNGM0MjFmOC1lNmMwLTRhMzQtYWMyMi05NTc3MWQyYjlhMTUiLAogICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJ0cnVlIn0sCiAgICAgICAgICAgICAgICAgICB7ImRvbWFpbiI6ICIubm93Y29kZXIuY29tIiwgInBhdGgiOiAiLyIsICJuYW1lIjogImdyX3VzZXJfaWQiLCAidmFsdWUiOiAiNmYwYTc4ZTEtMDc3NS00NWZmLTkxNzItNmY0OGE1MmJiMTg5In0sCiAgICAgICAgICAgICAgICAgICB7ImRvbWFpbiI6ICIubm93Y29kZXIuY29tIiwgInBhdGgiOiAiLyIsICJuYW1lIjogImdyd25nX3VpZCIsICJ2YWx1ZSI6ICI5ZWQyMzIwYi1hNDQ2LTRlMjktODNiMi05ZWE1OTVlYmI1YzgifSwKICAgICAgICAgICAgICAgICAgIHsiZG9tYWluIjogIi5ub3djb2Rlci5jb20iLCAicGF0aCI6ICIvIiwgIm5hbWUiOiAiSG1fbHB2dF9hODA4YTEzMjZiNmMwNmM0MzdkZTc2OWQxYjg1Yjg3MCIsICJ2YWx1ZSI6ICIxNTY2NTMyNzg0In0sCiAgICAgICAgICAgICAgICAgICB7ImRvbWFpbiI6ICIubm93Y29kZXIuY29tIiwgInBhdGgiOiAiLyIsICJuYW1lIjogIkhtX2x2dF9hODA4YTEzMjZiNmMwNmM0MzdkZTc2OWQxYjg1Yjg3MCIsCiAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIjE1NjQ5NzU0MDgsMTU2NjM4MTk2MCwxNTY2NDU0NTIxIn0sCiAgICAgICAgICAgICAgICAgICB7ImRvbWFpbiI6ICIubm93Y29kZXIuY29tIiwgInBhdGgiOiAiLyIsICJuYW1lIjogIk5PV0NPREVSQ0xJTkVUSUQiLCAidmFsdWUiOiAiMDZFMDI0NTU4ODFCNTZBNDVBN0VGQTNDQUY0NEFCN0EifSwKICAgICAgICAgICAgICAgICAgIHsiZG9tYWluIjogIi5ub3djb2Rlci5jb20iLCAicGF0aCI6ICIvIiwgIm5hbWUiOiAiTk9XQ09ERVJVSUQiLCAidmFsdWUiOiAiMzU4MTQ2OEQ0NUUyRkM2REE5OTczOUNCODkwMUVEOUEifSwKICAgICAgICAgICAgICAgICAgIHsiZG9tYWluIjogIi5ub3djb2Rlci5jb20iLCAicGF0aCI6ICIvIiwgIm5hbWUiOiAidCIsICJ2YWx1ZSI6ICI5MTVFMTA5QzNDRkUyNEU0NDRCQjRDNjEwNDA3NjUxRCJ9LAogICAgICAgICAgICAgICAgICAgeyJkb21haW4iOiAid3d3Lm5vd2NvZGVyLmNvbSIsICJwYXRoIjogIi8iLCAibmFtZSI6ICJfOTc1NXhqZGVzeHhkXyIsICJ2YWx1ZSI6ICIzMiJ9LAogICAgICAgICAgICAgICAgICAgeyJkb21haW4iOiAid3d3Lm5vd2NvZGVyLmNvbSIsICJwYXRoIjogIi8iLCAibmFtZSI6ICJnZHhpZHB5aHhkRSIsCiAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogImF1WXZNcU56SWZ6bkxqUjZERFRlOHc4ZW5Na2dRJTJGaTh2MkJFNlNOJTJGclVZY244SHVUQVFxVUpIbWdwQlg5N205TzU4SlBMM1B5NTJ5NklIcElRN1clMkZWSFpKcUJMbDNzWlNXNUhuaiUyRnNEV1JUV3hVQjFRY2U1ODNMc3doJTJCanlLMnhrN0hmTmZnV1ZTN29TJTJCeFcwUFZiYmhmcmpFYXklMkJOVyUyQjQlMkZaWTlydyU1Q0Vya3hvQWYlM0ExNTY0OTg4NjAyNDkzIn0sCiAgICAgICAgICAgICAgICAgICB7ImRvbWFpbiI6ICJ3d3cubm93Y29kZXIuY29tIiwgInBhdGgiOiAiLyIsICJuYW1lIjogIlNFUlZFUklEIiwgInZhbHVlIjogIjExYjE4MTU4MDcwY2Y5ZDc4MDBkNTFhMmY4YTc0NjMzfDE1NjY1MzI3ODl8MTU2NjQ1NDY3MiJ9XQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
