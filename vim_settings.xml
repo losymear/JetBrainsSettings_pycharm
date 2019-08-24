@@ -945,12 +945,12 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566638325939">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566639745280">
         <mark key="'" line="105" column="34" />
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="38" column="4" />
-        <mark key="^" line="38" column="4" />
-        <mark key="." line="38" column="4" />
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="84" column="12" />
+        <mark key="^" line="84" column="12" />
+        <mark key="." line="84" column="12" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -1107,6 +1107,7 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/selenium/webdriver/support/wait.py" timestamp="1566639720056" />
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/run.sh" timestamp="1564221232477">
         <mark key="'" line="9" column="26" />
         <mark key="[" line="11" column="24" />
