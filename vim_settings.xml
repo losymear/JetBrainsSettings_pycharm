@@ -895,7 +895,7 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/search_list_res.json" timestamp="1566791182484">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/search_list_res.json" timestamp="1566791183539">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
@@ -955,12 +955,12 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566790361030">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="100" column="15" />
-        <mark key="]" line="100" column="14" />
-        <mark key="." line="100" column="14" />
-        <mark key="^" line="100" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566806450853">
+        <mark key="'" line="155" column="13" />
+        <mark key="[" line="155" column="47" />
+        <mark key="]" line="155" column="56" />
+        <mark key="." line="155" column="56" />
+        <mark key="^" line="155" column="56" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -1454,8 +1454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="29" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_point.py" />
-      <jump line="76" column="71" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_point.py" />
       <jump line="78" column="57" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_point.py" />
       <jump line="60" column="43" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_point.py" />
       <jump line="112" column="17" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_sanjieke_point.py" />
@@ -1554,46 +1552,48 @@
       <jump line="10" column="35" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="100" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="0" column="17" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" />
+      <jump line="99" column="34" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
+      <jump line="152" column="13" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS/neWtmOeahOaWh+S7tuacquWOu+mHjQo=</text>
+      <register name="&quot;" type="4">
+        <text>XPATH_ITEM</text>
       </register>
       <register name="-" type="4">
-        <text>traverse</text>
+        <text>XPATH_ITEM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvdy5yZXF1ZXN0LnBhdGggPSAiL3BsYWNlaG9sZGVyLnBuZyIK</text>
+        <text encoding="base64">ICAgICAgICBlbHMgPSBkcml2ZXIuZmluZF9lbGVtZW50c19ieV94cGF0aChYUEFUSF9JVEVNKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS/neWtmOeahOaWh+S7tuacquWOu+mHjQo=</text>
+        <text encoding="base64">VklFV19PUkRFUl9URVhUVklFVyA9ICIvaGllcmFyY2h5L2FuZHJvaWQud2lkZ2V0LkZyYW1lTGF5b3V0L2FuZHJvaWQud2lkZ2V0LkxpbmVhckxheW91dC9hbmRyb2lkLndpZGdldC5GcmFtZUxheW91dC9hbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXQvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXQvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXQvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXRbMV0vYW5kcm9pZC5zdXBwb3J0LnY0LndpZGdldC5EcmF3ZXJMYXlvdXQvYW5kcm9pZC53aWRnZXQuUmVsYXRpdmVMYXlvdXQvYW5kcm9pZC52aWV3LlZpZXdHcm91cC9hbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlJlY3ljbGVyVmlldy9hbmRyb2lkLndpZGdldC5GcmFtZUxheW91dC9hbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXQvYW5kcm9pZC53aWRnZXQuTGluZWFyTGF5b3V0WzNdL2FuZHJvaWQud2lkZ2V0LlJlbGF0aXZlTGF5b3V0L2FuZHJvaWQud2lkZ2V0LlRleHRWaWV3WzJdIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyaXZlci5maW5kX2VsZW1lbnRfYnlfeHBhdGgoIlZJRVdfT1JERVJfVEVYVFZJRVciKS5jbGljaygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoc3BpZGVyX3R5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS/neWtmOeahOaWh+S7tuacquWOu+mHjQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmV0dXJuCg==</text>
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvemVuc2V0Cg==</text>
+        <text encoding="base64">cHJpbnQoc3BpZGVyX3R5cGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaG9lWydwYXknXSkK</text>
+        <text encoding="base64">cmV0dXJuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2hvZSkK</text>
+        <text encoding="base64">ZnJvemVuc2V0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzaG9lWydwYXknXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2hvZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
