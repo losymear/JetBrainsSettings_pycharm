@@ -716,12 +716,12 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566788642003">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566791164336">
         <mark key="'" line="37" column="49" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="22" />
+        <mark key="." line="57" column="22" />
+        <mark key="^" line="57" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
@@ -895,11 +895,11 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/search_list_res.json" timestamp="1566614460998">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="^" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/search_list_res.json" timestamp="1566791182484">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="/Python Console" timestamp="1566790099598">
         <mark key="[" line="0" column="0" />
@@ -1556,8 +1556,8 @@
       <jump line="0" column="17" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>traverse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS/neWtmOeahOaWh+S7tuacquWOu+mHjQo=</text>
       </register>
       <register name="-" type="4">
         <text>traverse</text>
@@ -1569,31 +1569,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZmxvdy5yZXF1ZXN0LnBhdGggPSAiL3BsYWNlaG9sZGVyLnBuZyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS/neWtmOeahOaWh+S7tuacquWOu+mHjQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoc3BpZGVyX3R5cGUpCg==</text>
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmV0dXJuCg==</text>
+        <text encoding="base64">cHJpbnQoc3BpZGVyX3R5cGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvemVuc2V0Cg==</text>
+        <text encoding="base64">cmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaG9lWydwYXknXSkK</text>
+        <text encoding="base64">ZnJvemVuc2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2hvZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzaG9lWydwYXknXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2hvZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
