@@ -477,12 +477,13 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/db.py" timestamp="1566814109218">
-        <mark key="'" line="40" column="20" />
-        <mark key="[" line="33" column="62" />
-        <mark key="]" line="33" column="61" />
-        <mark key="^" line="33" column="61" />
-        <mark key="." line="33" column="61" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/db.py" timestamp="1566819072733">
+        <mark key="t" line="47" column="21" />
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+        <mark key="." line="32" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/collages_sprider.py" timestamp="1565945618250">
         <mark key="[" line="72" column="20" />
@@ -727,11 +728,11 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566814125043">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566819274369">
         <mark key="'" line="67" column="18" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
@@ -905,7 +906,8 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/search_list_res.json" timestamp="1566791183539">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/search_list_res.json" timestamp="1566818845534">
+        <mark key="'" line="9" column="26" />
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
@@ -1470,9 +1472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="63" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
-      <jump line="155" column="14" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
-      <jump line="46" column="10" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newcoder_corp/runner.py" />
       <jump line="69" column="51" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" />
       <jump line="45" column="9" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" />
       <jump line="90" column="38" filename="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/newecoder_zhuanxiang/runner.py" />
@@ -1570,46 +1569,49 @@
       <jump line="70" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
       <jump line="66" column="18" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
       <jump line="70" column="29" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
+      <jump line="9" column="26" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/search_list_res.json" />
+      <jump line="49" column="21" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/db.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>data_to_save</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNrdShYUEFUSF9CUkFORF9OSUtFLCBUcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc3B1IGluIGRhdGFbJ2RhdGEnXVsncHJvZHVjdExpc3QnXToKICAgICAgICAgICAgZGIuYWRkX3NwdShzcHVbJ3Byb2R1Y3RJZCddLCBzcHVbJ2xvZ29VcmwnXSwgc3B1Wyd0aXRsZSddLCBzcHVbJ3NvbGROdW0nXSwgc3B1WydwcmljZSddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGIuYWRkX3NwdSgxLCAiYSIsICJkcyIsIDMsMikKZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCIuL29yZGVyX2xpc3RfcmVzLmpzb24iKSBhcyBmOgogICAg5b2p6Jm554us6KeS5YW9X+iuouWNlSA9IGpzb24ubG9hZChmKVsnZGF0YSddCm9yZGVyc19jb250YWluZXIgPSBbXQpnZXRfb3JkZXJzX2Zyb21fbGlzdCjlvanombnni6zop5Llhb1f6K6i5Y2VLCBvcmRlcnNfY29udGFpbmVyKQo=</text>
+        <text encoding="base64">ICAgIGZvciBzcHUgaW4gZGF0YVsnZGF0YSddWydwcm9kdWN0aW9uJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2VyLmluZm8oIuacgOWkp+axgui0reS7t+agvOS4uiAlZCIsIG1heCgKICAgIG1hcChsYW1iZGEgb3JkZXI6IG9yZGVyWydwcmljZSddLAogICAgICAgIGZpbHRlcihsYW1iZGEgb3JkZXI6IG9yZGVyWydvcmRlclN1YlR5cGVJZCddLCBvcmRlcnNfY29udGFpbmVyKSkpCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">c3B1cyA9IGoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCIuL29yZGVyX2xpc3RfcmVzLmpzb24iKSBhcyBmOgogICAg5b2p6Jm554us6KeS5YW9X+iuouWNlSA9IGpzb24ubG9hZChmKVsnZGF0YSddCm9yZGVyc19jb250YWluZXIgPSBbXQpnZXRfb3JkZXJzX2Zyb21fbGlzdCjlvanombnni6zop5Llhb1f6K6i5Y2VLCBvcmRlcnNfY29udGFpbmVyKQo=</text>
+        <text encoding="base64">ZGIuYWRkX3NwdSgxLCAiYSIsICJkcyIsIDMsMikKZXhpdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nZ2VyLmluZm8oIuacgOWkp+axgui0reS7t+agvOS4uiAlZCIsIG1heCgKICAgIG1hcChsYW1iZGEgb3JkZXI6IG9yZGVyWydwcmljZSddLAogICAgICAgIGZpbHRlcihsYW1iZGEgb3JkZXI6IG9yZGVyWydvcmRlclN1YlR5cGVJZCddLCBvcmRlcnNfY29udGFpbmVyKSkpCiAgICAgICAgICAgICkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">d2l0aCBvcGVuKCIuL29yZGVyX2xpc3RfcmVzLmpzb24iKSBhcyBmOgogICAg5b2p6Jm554us6KeS5YW9X+iuouWNlSA9IGpzb24ubG9hZChmKVsnZGF0YSddCm9yZGVyc19jb250YWluZXIgPSBbXQpnZXRfb3JkZXJzX2Zyb21fbGlzdCjlvanombnni6zop5Llhb1f6K6i5Y2VLCBvcmRlcnNfY29udGFpbmVyKQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">bG9nZ2VyLmluZm8oIuacgOWkp+axgui0reS7t+agvOS4uiAlZCIsIG1heCgKICAgIG1hcChsYW1iZGEgb3JkZXI6IG9yZGVyWydwcmljZSddLAogICAgICAgIGZpbHRlcihsYW1iZGEgb3JkZXI6IG9yZGVyWydvcmRlclN1YlR5cGVJZCddLCBvcmRlcnNfY29udGFpbmVyKSkpCiAgICAgICAgICAgICkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCIuL29yZGVyX2xpc3RfcmVzLmpzb24iKSBhcyBmOgogICAg5b2p6Jm554us6KeS5YW9X+iuouWNlSA9IGpzb24ubG9hZChmKVsnZGF0YSddCg==</text>
+        <text encoding="base64">d2l0aCBvcGVuKCIuL29yZGVyX2xpc3RfcmVzLmpzb24iKSBhcyBmOgogICAg5b2p6Jm554us6KeS5YW9X+iuouWNlSA9IGpzb24ubG9hZChmKVsnZGF0YSddCm9yZGVyc19jb250YWluZXIgPSBbXQpnZXRfb3JkZXJzX2Zyb21fbGlzdCjlvanombnni6zop5Llhb1f6K6i5Y2VLCBvcmRlcnNfY29udGFpbmVyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">bG9nZ2VyLmluZm8oIuacgOWkp+axgui0reS7t+agvOS4uiAlZCIsIG1heCgKICAgIG1hcChsYW1iZGEgb3JkZXI6IG9yZGVyWydwcmljZSddLAogICAgICAgIGZpbHRlcihsYW1iZGEgb3JkZXI6IG9yZGVyWydvcmRlclN1YlR5cGVJZCddLCBvcmRlcnNfY29udGFpbmVyKSkpCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnNob2VfbGlzdCA9IFtdCndpdGggb3BlbigiLi9maXJzdF9wYWdlX3Jlcy5qc29uIikgYXMgZjoKICAgIOmmlumhteaVsOaNrue7k+aehCA9IGpzb24ubG9hZChmKQogICAgZm9yIHNob2UgaW4g6aaW6aG15pWw5o2u57uT5p6EWydkYXRhJ11bJ2xpc3QnXToKICAgICAgICBzaG9lX2xpc3QuYXBwZW5kKHNob2UpCgp3aXRoIG9wZW4oIi4vcHJvZHVjdF9kZXRhaWxfcmVzLmpzb24iKSBhcyBmOgogICAg5b2p6Jm554us6KeS5YW9X+ivpuaDhSA9IGpzb24ubG9hZChmKVsnZGF0YSddCg==</text>
+        <text encoding="base64">d2l0aCBvcGVuKCIuL29yZGVyX2xpc3RfcmVzLmpzb24iKSBhcyBmOgogICAg5b2p6Jm554us6KeS5YW9X+iuouWNlSA9IGpzb24ubG9hZChmKVsnZGF0YSddCm9yZGVyc19jb250YWluZXIgPSBbXQpnZXRfb3JkZXJzX2Zyb21fbGlzdCjlvanombnni6zop5Llhb1f6K6i5Y2VLCBvcmRlcnNfY29udGFpbmVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
