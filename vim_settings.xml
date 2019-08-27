@@ -22,12 +22,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" timestamp="1566905843094">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="52" column="23" />
-        <mark key="]" line="52" column="22" />
-        <mark key="^" line="52" column="22" />
-        <mark key="." line="52" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" timestamp="1566911127569">
+        <mark key="'" line="182" column="43" />
+        <mark key="[" line="178" column="28" />
+        <mark key="]" line="178" column="27" />
+        <mark key="." line="178" column="27" />
+        <mark key="^" line="178" column="27" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/learning/puppeteer/requirements.txt" timestamp="1561784257256">
         <mark key="[" line="15" column="1" />
@@ -982,8 +982,8 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566904397982">
-        <mark key="[" line="128" column="19" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566909992336">
+        <mark key="[" line="133" column="12" />
         <mark key="]" line="128" column="18" />
         <mark key="^" line="128" column="18" />
         <mark key="." line="128" column="18" />
@@ -1488,16 +1488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="35" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
-      <jump line="1633" column="4" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
-      <jump line="568" column="33" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
-      <jump line="88" column="29" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
-      <jump line="21" column="39" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
-      <jump line="1" column="12" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
-      <jump line="1379" column="27" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
-      <jump line="863" column="31" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
-      <jump line="13" column="10" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
-      <jump line="157" column="6" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/order_list_res.json" />
       <jump line="3" column="11" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/order_list_res.json" />
       <jump line="168" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/order_list_res.json" />
       <jump line="639" column="25" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
@@ -1588,46 +1578,56 @@
       <jump line="28" column="11" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
       <jump line="122" column="8" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
       <jump line="79" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="156" column="72" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="137" column="28" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="167" column="6" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="190" column="28" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="2" column="12" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="202" column="14" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="168" column="13" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="181" column="43" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rpob</text>
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>rpob</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCLniKzomavlm57lpI3miafooYwiKQo=</text>
+        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImlkbGUiKSAgIyDniKzomavmlrnms5Xph4znlKhzdG9w5qCH6K6w6YCA5Ye6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgi5byA5aeL54is5Y+WLi4uLiIpCg==</text>
+        <text encoding="base64">IyBTUElERVJfU1RBVFVTX0tFWSA9IGNyYXdsX25hbWUgKyAiOmxvY2Fsc3RhdHVzIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRfc3RhdHVzID0gImNyYXdsaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImV4Y2VwdGlvbiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQuc2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGdsb2JhbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImlkbGUiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IikK</text>
+        <text encoding="base64">ci5zZXQoU1BJREVSX1NUQVRVU19LRVksICJpZGxlIikgICMg54is6Jmr5pa55rOV6YeM55Soc3RvcOagh+iusOmAgOWHugo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW4K</text>
+        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImlkbGUiKSAgIyDniKzomavmlrnms5Xph4znlKhzdG9w5qCH6K6w6YCA5Ye6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuCg==</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IHIuZ2V0KFNQSURFUl9TVEFUVVNfS0VZKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgInBhdXNlIikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
