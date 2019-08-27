@@ -967,12 +967,12 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566871483041">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566873466122">
         <mark key="'" line="70" column="29" />
-        <mark key="[" line="120" column="5" />
-        <mark key="]" line="120" column="4" />
-        <mark key="." line="120" column="4" />
-        <mark key="^" line="120" column="4" />
+        <mark key="[" line="147" column="57" />
+        <mark key="]" line="147" column="56" />
+        <mark key="." line="147" column="56" />
+        <mark key="^" line="147" column="56" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
