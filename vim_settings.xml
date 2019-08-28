@@ -22,12 +22,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" timestamp="1566973194324">
-        <mark key="'" line="15" column="18" />
-        <mark key="[" line="121" column="5" />
-        <mark key="]" line="121" column="4" />
-        <mark key="." line="121" column="4" />
-        <mark key="^" line="121" column="4" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" timestamp="1566979061163">
+        <mark key="'" line="81" column="18" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="112" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/learning/puppeteer/requirements.txt" timestamp="1561784257256">
         <mark key="[" line="15" column="1" />
@@ -466,12 +466,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" timestamp="1566973204570">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" timestamp="1566978764301">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="14" column="60" />
-        <mark key="]" line="14" column="55" />
-        <mark key="^" line="14" column="55" />
-        <mark key="." line="14" column="55" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539441713407">
         <mark key="[" line="6" column="0" />
@@ -568,12 +568,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/requirements.txt" timestamp="1566898598786">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/requirements.txt" timestamp="1566975842543">
         <mark key="'" line="10" column="15" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="12" column="6" />
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="29" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/mitmproxyResume/.gitignore" timestamp="1561691645515">
         <mark key="[" line="22" column="0" />
@@ -743,12 +743,12 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566972719565">
-        <mark key="'" line="103" column="10" />
-        <mark key="[" line="75" column="26" />
-        <mark key="]" line="75" column="38" />
-        <mark key="." line="75" column="38" />
-        <mark key="^" line="75" column="38" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566978589893">
+        <mark key="'" line="123" column="77" />
+        <mark key="[" line="111" column="18" />
+        <mark key="]" line="111" column="17" />
+        <mark key="." line="111" column="17" />
+        <mark key="^" line="111" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
@@ -980,12 +980,12 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566972735437">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566978649039">
         <mark key="'" line="108" column="11" />
-        <mark key="[" line="122" column="32" />
-        <mark key="]" line="123" column="24" />
-        <mark key="." line="123" column="24" />
-        <mark key="^" line="123" column="24" />
+        <mark key="[" line="168" column="1" />
+        <mark key="]" line="168" column="0" />
+        <mark key="^" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -1437,12 +1437,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/hand_du_app.py" timestamp="1566972618844">
-        <mark key="'" line="36" column="50" />
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/hand_du_app.py" timestamp="1566975436614">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="43" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1565162725959">
         <mark key="'" line="34" column="0" />
@@ -1497,13 +1497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="10" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
-      <jump line="52" column="47" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
-      <jump line="79" column="15" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
-      <jump line="5" column="10" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
-      <jump line="26" column="38" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
-      <jump line="105" column="34" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="372" column="4" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/product_detail_res.json" />
       <jump line="36" column="49" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
       <jump line="58" column="10" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
@@ -1597,46 +1590,53 @@
       <jump line="15" column="18" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
       <jump line="0" column="17" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" />
       <jump line="12" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" />
+      <jump line="79" column="20" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
+      <jump line="110" column="7" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/hand_du_app.py" />
+      <jump line="2" column="40" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
+      <jump line="122" column="77" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
+      <jump line="18" column="11" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
+      <jump line="83" column="18" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rek</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS4igo=</text>
       </register>
       <register name="-" type="4">
-        <text>rek</text>
+        <text>100000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UkVERElTX0RBVEFfU1BVX0tFWSA9IGNyYXdsX25hbWUgKyAiOmRhdGE6c3B1Igo=</text>
+        <text encoding="base64">ICAgIHIuc2V0KEtFWV9IRUFSVEJFQVQsIGN1cnJlbnRfc3RhdHVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS4igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">S0VZX1NUQVRVUyA9IGNyYXdsX25hbWUgKyAiOnN0YXR1cyIK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpeAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBLRVlfQVBQID0gY3Jhd2xfbmFtZSArICI6YXBwIiAgIyBuaWNlfGR1fHN0b2NreHxnb2F0Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhvc3Q9IjEyNy4wLjAuMSIsIHBvcnQ9NjM3OSwgcGFzc3dvcmQ9InBhc3MiLCBkZWNvZGVfcmVzcG9uc2VzPVRydWUK</text>
+        <text encoding="base64">ICAgIHBhc3MgICMg54is6Jmr5pa55rOVCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgREVQTE9ZRUQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAjIFRPRE86IEB3eSDmlq3lvIDph43ov57nmoTlpITnkIYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCLor7fmsYJ1cmzkuLo6IHt9Ii5mb3JtYXQodXJsKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBpbnQoc2hvZVsicGF5Il0ucmVwbGFjZSgi5Lq65LuY5qy+IiwgIiIpKSA+IDE3NjA6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICDkv53lrZjor6bmg4XmlbDmja7liLByZWRpc++8jOW5tuWGmeWFpeWIsOacrOWcsOaWh+S7tgo=</text>
+        <text encoding="base64">ICAgICAgICBkcml2ZXIuc3dpcGUoMzYwLCA4MDAsIDM2MCwgMjAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
