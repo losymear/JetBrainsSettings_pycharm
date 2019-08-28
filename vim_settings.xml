@@ -749,9 +749,9 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566991735582">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566992086594">
         <mark key="'" line="37" column="2" />
-        <mark key="[" line="57" column="19" />
+        <mark key="[" line="75" column="45" />
         <mark key="]" line="57" column="18" />
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
@@ -986,12 +986,12 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566991907825">
-        <mark key="'" line="0" column="22" />
-        <mark key="[" line="57" column="35" />
-        <mark key="]" line="57" column="34" />
-        <mark key="^" line="57" column="34" />
-        <mark key="." line="57" column="34" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566992661697">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="221" column="14" />
+        <mark key="]" line="221" column="18" />
+        <mark key="." line="221" column="18" />
+        <mark key="^" line="221" column="18" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -1443,12 +1443,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/hand_du_app.py" timestamp="1566988571684">
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/hand_du_app.py" timestamp="1566992911861">
         <mark key="'" line="36" column="8" />
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="13" column="16" />
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="26" />
+        <mark key="." line="38" column="26" />
+        <mark key="^" line="38" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1565162725959">
         <mark key="'" line="34" column="0" />
@@ -1503,9 +1503,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="19" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="173" column="3" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
-      <jump line="2" column="13" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="72" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="51" column="10" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="113" column="12" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
@@ -1603,10 +1601,12 @@
       <jump line="37" column="2" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
       <jump line="9" column="16" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/retry.py" />
       <jump line="8" column="18" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" />
+      <jump line="8" column="46" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
+      <jump line="2" column="15" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Cg==</text>
+        <text encoding="base64">ICAgIHJldmVyc2VkCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1618,31 +1618,31 @@
         <text encoding="base64">ICAgICMgICAgIGlmIGZsb3cucmVxdWVzdC5ob3N0LmZpbmQoImh1cHVjZG4iKSAhPSAtMSBvciBmbG93LnJlcXVlc3QuaG9zdCA9PSAiY2RuLnBvaXpvbi5jb20iOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Cg==</text>
+        <text encoding="base64">ICAgIHJldmVyc2VkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXN0cm9pZD09Mi4yLjUK</text>
+        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2VydGlmaT09MjAxOC4xMS4yOQo=</text>
+        <text encoding="base64">YXN0cm9pZD09Mi4yLjUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aXNvcnQ9PTQuMy4xNQo=</text>
+        <text encoding="base64">Y2VydGlmaT09MjAxOC4xMS4yOQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGF6eS1vYmplY3QtcHJveHk9PTEuMy4xCg==</text>
+        <text encoding="base64">aXNvcnQ9PTQuMy4xNQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWNjYWJlPT0wLjYuMQo=</text>
+        <text encoding="base64">bGF6eS1vYmplY3QtcHJveHk9PTEuMy4xCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHlsaW50PT0yLjMuMQo=</text>
+        <text encoding="base64">bWNjYWJlPT0wLjYuMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZW5pdW09PTMuMTQxLjAK</text>
+        <text encoding="base64">cHlsaW50PT0yLjMuMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2l4PT0xLjEyLjAK</text>
+        <text encoding="base64">c2VsZW5pdW09PTMuMTQxLjAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
