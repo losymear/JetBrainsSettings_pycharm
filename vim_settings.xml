@@ -22,12 +22,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" timestamp="1566979061163">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" timestamp="1566980251229">
         <mark key="'" line="81" column="18" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="112" column="7" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="15" />
+        <mark key="." line="219" column="0" />
+        <mark key="^" line="76" column="29" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/learning/puppeteer/requirements.txt" timestamp="1561784257256">
         <mark key="[" line="15" column="1" />
@@ -466,12 +466,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" timestamp="1566978764301">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" timestamp="1566980341054">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539441713407">
         <mark key="[" line="6" column="0" />
@@ -1599,44 +1599,44 @@
       <jump line="83" column="18" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS4igo=</text>
+      <register name="&quot;" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="-" type="4">
-        <text>100000</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHIuc2V0KEtFWV9IRUFSVEJFQVQsIGN1cnJlbnRfc3RhdHVzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXBvcnRfc3RhdHVzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS4igo=</text>
+        <text encoding="base64">ICAgICAgICByZXBvcnRfc3RhdHVzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS4igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpeAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MgICMg54is6Jmr5pa55rOVCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAjIFRPRE86IEB3eSDmlq3lvIDph43ov57nmoTlpITnkIYK</text>
+        <text encoding="base64">ICAgIHBhc3MgICMg54is6Jmr5pa55rOVCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBpbnQoc2hvZVsicGF5Il0ucmVwbGFjZSgi5Lq65LuY5qy+IiwgIiIpKSA+IDE3NjA6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAjIFRPRE86IEB3eSDmlq3lvIDph43ov57nmoTlpITnkIYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBpbnQoc2hvZVsicGF5Il0ucmVwbGFjZSgi5Lq65LuY5qy+IiwgIiIpKSA+IDE3NjA6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIuc3dpcGUoMzYwLCA4MDAsIDM2MCwgMjAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
