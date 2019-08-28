@@ -929,9 +929,9 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" timestamp="1566961576226">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" timestamp="1566964246002">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="22" column="44" />
+        <mark key="[" line="35" column="14" />
         <mark key="]" line="22" column="43" />
         <mark key="^" line="22" column="43" />
         <mark key="." line="22" column="43" />
@@ -1436,12 +1436,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/hand_du_app.py" timestamp="1566962483515">
+      <file name="$USER_HOME$/etc/losFiles/projects/scripts/pyscript/hand_du_app.py" timestamp="1566964302683">
         <mark key="'" line="5" column="27" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/ingress.yaml" timestamp="1565162725959">
         <mark key="'" line="34" column="0" />
@@ -1599,10 +1599,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoZmlsZXMpZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>file_dir</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
@@ -1611,31 +1611,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9zdGF0dXMgPSAiaWRsZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZmlsZXMpZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHhsd3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X3N0YXR1cyA9ICJpZGxlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmlkID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMSwgMTApOgogICAgICAgICAgICB0aW1lLnNsZWVwKDMpCiAgICAgICAgICAgIHdoaWxlIG5vdCBzZWxmLmV2ZW50LmlzU2V0KCk6CiAgICAgICAgICAgICAgICBzZWxmLmV2ZW50LndhaXQoKQogICAgICAgICAgICBsb2dnZXIuaW5mbygi54is6Jmr5omn6KGM5Lu75YqhICVkIiwgaSkK</text>
+        <text encoding="base64">cHJpbnQoZmlsZXMpZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">aW1wb3J0IHhsd3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X3N0YXR1cyA9ICJpZGxlIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIG5vdCBldmVudC5pc1NldCgpOgogICAgICAgIGV2ZW50LndhaXQoKQo=</text>
+        <text encoding="base64">CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMSwgMTApOgogICAgICAgICAgICB0aW1lLnNsZWVwKDMpCiAgICAgICAgICAgIHdoaWxlIG5vdCBzZWxmLmV2ZW50LmlzU2V0KCk6CiAgICAgICAgICAgICAgICBzZWxmLmV2ZW50LndhaXQoKQogICAgICAgICAgICBsb2dnZXIuaW5mbygi54is6Jmr5omn6KGM5Lu75YqhICVkIiwgaSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdhaXRBbmRDbGljayhYUEFUSF9IT01FX01PUkUpCiAgICB3YWl0QW5kQ2xpY2soWFBBVEhfQ0FURUdPUllfQlJBTkQpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
