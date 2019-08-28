@@ -182,11 +182,11 @@
         <mark key="." line="101" column="38" />
         <mark key="^" line="101" column="38" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/retry.py" timestamp="1566912038927">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/retry.py" timestamp="1566957000151">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/elasticsearch-service.yaml" timestamp="1564648643055">
         <mark key="[" line="20" column="0" />
@@ -748,12 +748,12 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566894922885">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566957198363">
         <mark key="'" line="67" column="18" />
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="64" column="34" />
-        <mark key="." line="64" column="34" />
-        <mark key="^" line="64" column="34" />
+        <mark key="[" line="90" column="43" />
+        <mark key="]" line="90" column="42" />
+        <mark key="." line="90" column="42" />
+        <mark key="^" line="90" column="42" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
@@ -937,12 +937,12 @@
       <file name="/Python Console" timestamp="1566790099598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" timestamp="1566813717393">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" timestamp="1566957180055">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="71" column="5" />
-        <mark key="]" line="71" column="4" />
-        <mark key="^" line="71" column="4" />
-        <mark key="." line="71" column="4" />
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/setup.py" timestamp="1558938300811">
         <mark key="[" line="23" column="30" />
@@ -988,8 +988,8 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566911956553">
-        <mark key="'" line="130" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1566957052333">
+        <mark key="'" line="131" column="14" />
         <mark key="[" line="130" column="15" />
         <mark key="]" line="130" column="14" />
         <mark key="^" line="130" column="14" />
@@ -1429,6 +1429,12 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/retry.sh" timestamp="1566957075791">
+        <mark key="[" line="0" column="54" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="53" />
+        <mark key="^" line="0" column="53" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/qyqq/src/qyqq/service/getcb.py" timestamp="1564215374819">
         <mark key="'" line="23" column="13" />
         <mark key="[" line="23" column="1" />
@@ -1597,8 +1603,8 @@
       <jump line="130" column="14" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IFBZVEhPTlBBVEg9JChwd2QpIHB5dGhvbiBhcHBpdW1fc2hvZXNfc2NyYXB5L3JldHJ5LnB5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>E</text>
@@ -1610,31 +1616,31 @@
         <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImlkbGUiKSAgIyDniKzomavmlrnms5Xph4znlKhzdG9w5qCH6K6w6YCA5Ye6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBTUElERVJfU1RBVFVTX0tFWSA9IGNyYXdsX25hbWUgKyAiOmxvY2Fsc3RhdHVzIgo=</text>
+        <text encoding="base64">IFBZVEhPTlBBVEg9JChwd2QpIHB5dGhvbiBhcHBpdW1fc2hvZXNfc2NyYXB5L3JldHJ5LnB5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImV4Y2VwdGlvbiIpCg==</text>
+        <text encoding="base64">IyBTUElERVJfU1RBVFVTX0tFWSA9IGNyYXdsX25hbWUgKyAiOmxvY2Fsc3RhdHVzIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImV4Y2VwdGlvbiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbAo=</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImlkbGUiKQo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ci5zZXQoU1BJREVSX1NUQVRVU19LRVksICJpZGxlIikgICMg54is6Jmr5pa55rOV6YeM55Soc3RvcOagh+iusOmAgOWHugo=</text>
+        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImlkbGUiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImlkbGUiKSAgIyDniKzomavmlrnms5Xph4znlKhzdG9w5qCH6K6w6YCA5Ye6Cg==</text>
+        <text encoding="base64">ci5zZXQoU1BJREVSX1NUQVRVU19LRVksICJpZGxlIikgICMg54is6Jmr5pa55rOV6YeM55Soc3RvcOagh+iusOmAgOWHugo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IHIuZ2V0KFNQSURFUl9TVEFUVVNfS0VZKQo=</text>
+        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgImlkbGUiKSAgIyDniKzomavmlrnms5Xph4znlKhzdG9w5qCH6K6w6YCA5Ye6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByLnNldChTUElERVJfU1RBVFVTX0tFWSwgInBhdXNlIikK</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IHIuZ2V0KFNQSURFUl9TVEFUVVNfS0VZKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
