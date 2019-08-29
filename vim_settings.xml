@@ -473,11 +473,11 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" timestamp="1566995250824">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" timestamp="1567058301916">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539441713407">
         <mark key="[" line="6" column="0" />
@@ -985,12 +985,12 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1567048494666">
-        <mark key="'" line="211" column="43" />
-        <mark key="[" line="220" column="14" />
-        <mark key="]" line="220" column="13" />
-        <mark key="." line="220" column="13" />
-        <mark key="^" line="220" column="13" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1567058282260">
+        <mark key="'" line="200" column="43" />
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="26" />
+        <mark key="." line="53" column="26" />
+        <mark key="^" line="53" column="26" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -1605,43 +1605,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldmVyc2VkCg==</text>
+        <text encoding="base64">ICAgIFZJRVdfT1JERVJfVEVYVFZJRVcgPSBWSUVXX09SREVSX1RFWFRWSUVXLnJlcGxhY2UoIlZpZXdHcm91cCIsICJWaWV3IikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>XPATH_ITEM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgICAgIGlmIGZsb3cucmVxdWVzdC5ob3N0LmZpbmQoImh1cHVjZG4iKSAhPSAtMSBvciBmbG93LnJlcXVlc3QuaG9zdCA9PSAiY2RuLnBvaXpvbi5jb20iOgo=</text>
+        <text encoding="base64">ICAgIFZJRVdfT1JERVJfVEVYVFZJRVcgPSBWSUVXX09SREVSX1RFWFRWSUVXLnJlcGxhY2UoIlZpZXdHcm91cCIsICJWaWV3IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldmVyc2VkCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICMgVG91Y2hBY3Rpb24oZHJpdmVyKS5wcmVzcyh4PTMzOCwgeT05ODEpLm1vdmVfdG8oeD0zNDEsIHk9NjY3KS5yZWxlYXNlKCkucGVyZm9ybSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXN0cm9pZD09Mi4yLjUK</text>
+        <text encoding="base64">ICAgICMgdGEgPSBUb3VjaEFjdGlvbihkcml2ZXIpCiAgICAjIHRhLnByZXNzKHg9MzAwLCB5PTEwMDApCiAgICAjIHRhLm1vdmVfdG8oeD0zMDAsIHk9OTAwKQogICAgIyB0YS53YWl0KDIwMCkKICAgICMgdGEubW92ZV90byh4PTMwMCwgeT04MDApCiAgICAjIHRhLndhaXQoMjAwKQogICAgIyB0YS5tb3ZlX3RvKHg9MzAwLCB5PTcwMCkKICAgICMgdGEud2FpdCgyMDApCiAgICAjIHRhLm1vdmVfdG8oeD0zMDAsIHk9NjAwKQogICAgIyB0YS53YWl0KDIwMCkKICAgICMgdGEubW92ZV90byh4PTMwMCwgeT01MDApCiAgICAjIHRhLndhaXQoMjAwKQogICAgIyB0YS5yZWxlYXNlKCkKICAgICMgdGEucGVyZm9ybQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2VydGlmaT09MjAxOC4xMS4yOQo=</text>
+        <text encoding="base64">IyBYUEFUSF9IT01FX01PUkUgPSAiL2hpZXJhcmNoeS9hbmRyb2lkLndpZGdldC5GcmFtZUxheW91dC9hbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXQvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXQvYW5kcm9pZC53aWRnZXQuTGluZWFyTGF5b3V0L2FuZHJvaWQud2lkZ2V0LkZyYW1lTGF5b3V0L2FuZHJvaWQud2lkZ2V0LkZyYW1lTGF5b3V0L2FuZHJvaWQud2lkZ2V0LkZyYW1lTGF5b3V0L2FuZHJvaWQud2lkZ2V0LkZyYW1lTGF5b3V0L2FuZHJvaWQud2lkZ2V0LkxpbmVhckxheW91dC9hbmRyb2lkLnN1cHBvcnQudjQudmlldy5WaWV3UGFnZXIvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXQvYW5kcm9pZC52aWV3LlZpZXdHcm91cC9hbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlJlY3ljbGVyVmlldy9hbmRyb2lkLndpZGdldC5GcmFtZUxheW91dC9hbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXQvYW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5SZWN5Y2xlclZpZXcvYW5kcm9pZC53aWRnZXQuTGluZWFyTGF5b3V0WzhdL2FuZHJvaWQud2lkZ2V0LkltYWdlVmlldyIgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aXNvcnQ9PTQuMy4xNQo=</text>
+        <text encoding="base64">ICAgIGlmIENPTVBVVEVSX1VTRVNSID09ICJkemgiIGVsc2UgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGF6eS1vYmplY3QtcHJveHk9PTEuMy4xCg==</text>
+        <text encoding="base64">Q09NUFVURVJfVVNFU1IgPSAid3kiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWNjYWJlPT0wLjYuMQo=</text>
+        <text encoding="base64">ICAgIHJldmVyc2VkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHlsaW50PT0yLjMuMQo=</text>
+        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZW5pdW09PTMuMTQxLjAK</text>
+        <text encoding="base64">YXN0cm9pZD09Mi4yLjUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
