@@ -748,12 +748,12 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1566996458905">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1567078088423">
         <mark key="'" line="37" column="2" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="8" column="20" />
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
@@ -985,9 +985,9 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1567062256510">
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1567068304427">
         <mark key="'" line="205" column="43" />
-        <mark key="[" line="54" column="36" />
+        <mark key="[" line="98" column="40" />
         <mark key="]" line="54" column="35" />
         <mark key="^" line="54" column="35" />
         <mark key="." line="54" column="35" />
@@ -1604,17 +1604,17 @@
       <jump line="211" column="43" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyByLWJwMTBkMjJlNTgzMmMxOTRwZC5yZWRpcy5yZHMuYWxpeXVuY3MuY29tCg==</text>
+      <register name="&quot;" type="4">
+        <text>articleNumber</text>
       </register>
       <register name="-" type="4">
-        <text>socket.gethostname(</text>
+        <text>articleNumber</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVzaXJlZF9jYXBzWyJwbGF0Zm9ybVZlcnNpb24iXSA9ICI2Igo=</text>
+        <text encoding="base64">ICAgICAgICAiYXJ0aWNsZU51bWJlciI6IGFydGljbGVOdW1iZXIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyByLWJwMTBkMjJlNTgzMmMxOTRwZC5yZWRpcy5yZHMuYWxpeXVuY3MuY29tCg==</text>
