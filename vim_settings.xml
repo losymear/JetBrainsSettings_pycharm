@@ -473,11 +473,11 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" timestamp="1567058301916">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" timestamp="1567058344722">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+        <mark key="." line="25" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/concurrent/threading.py" timestamp="1539441713407">
         <mark key="[" line="6" column="0" />
@@ -1604,17 +1604,17 @@
       <jump line="211" column="43" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFZJRVdfT1JERVJfVEVYVFZJRVcgPSBWSUVXX09SREVSX1RFWFRWSUVXLnJlcGxhY2UoIlZpZXdHcm91cCIsICJWaWV3IikK</text>
+      <register name="&quot;" type="4">
+        <text>chuizi</text>
       </register>
       <register name="-" type="4">
-        <text>XPATH_ITEM</text>
+        <text>chuizi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFZJRVdfT1JERVJfVEVYVFZJRVcgPSBWSUVXX09SREVSX1RFWFRWSUVXLnJlcGxhY2UoIlZpZXdHcm91cCIsICJWaWV3IikK</text>
+        <text encoding="base64">Q1VSUkVOVF9FTlYgPSAiY2h1aXppIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybgo=</text>
