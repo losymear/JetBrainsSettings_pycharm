@@ -754,12 +754,12 @@
         <mark key="^" line="76" column="19" />
         <mark key="." line="76" column="19" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1567588983945">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="^" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" timestamp="1569379975245">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="173" column="48" />
+        <mark key="]" line="174" column="17" />
+        <mark key="^" line="174" column="17" />
+        <mark key="." line="174" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests/methods.py" timestamp="1539583838092">
         <mark key="'" line="9" column="14" />
@@ -991,12 +991,12 @@
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1567068304427">
-        <mark key="'" line="205" column="43" />
-        <mark key="[" line="98" column="40" />
-        <mark key="]" line="54" column="35" />
-        <mark key="^" line="54" column="35" />
-        <mark key="." line="54" column="35" />
+      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" timestamp="1569380528575">
+        <mark key="'" line="206" column="43" />
+        <mark key="[" line="33" column="1" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/anaconda3/envs/learnpy/lib/python3.6/site-packages/pyppeteer/launcher.py" timestamp="1563191133779">
         <mark key="'" line="206" column="53" />
@@ -1611,16 +1611,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>content</text>
+        <text>处理产品详情_deploy</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>处理产品详情_deploy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWRkb25zID0gWwogICAgRHVBcHBBZGRPbigpCl0K</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBpZiBhbnkoZmlsdGVyLm1hdGNoKHVybCkgZm9yIGZpbHRlciBpbiBzZWxmLnByb2R1Y3RfZGV0YWlsX3BhdHRlcm4pOgogICAgICAgICMgICAgICAgICBEdUFwcEFkZE9uLuWkhOeQhuS6p+WTgeivpuaDhV9kZXBsb3koZmxvdykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoanNvbi5sb2FkcyhyZXF1ZXN0LmNvbnRlbnQpKQo=</text>
