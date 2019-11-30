@@ -156,8 +156,8 @@
         <mark key="^" line="136" column="7" />
         <mark key="." line="136" column="7" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/liepin_spider.py" timestamp="1564933839874">
-        <mark key="[" line="22" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/liepin_spider.py" timestamp="1575102935077">
+        <mark key="[" line="19" column="28" />
         <mark key="]" line="24" column="85" />
         <mark key="^" line="24" column="68" />
         <mark key="." line="24" column="68" />
@@ -244,6 +244,12 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
+      <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/scrapy/dupefilters.py" timestamp="1575104193437">
+        <mark key="[" line="45" column="16" />
+        <mark key="]" line="45" column="15" />
+        <mark key="^" line="45" column="15" />
+        <mark key="." line="45" column="15" />
+      </file>
       <file name="/anaconda3/envs/v37/lib/python3.7/site-packages/scrapy/utils/request.py" timestamp="1565934889747">
         <mark key="[" line="73" column="54" />
         <mark key="]" line="73" column="53" />
@@ -281,6 +287,12 @@
         <mark key="]" line="12" column="21" />
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/tiku_haitou_spider.py" timestamp="1575103551057">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/README.md" timestamp="1564930288030">
         <mark key="[" line="18" column="9" />
@@ -332,7 +344,7 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/requirements.txt" timestamp="1564936443920">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/requirements.txt" timestamp="1575103108134">
         <mark key="'" line="9" column="13" />
         <mark key="[" line="42" column="11" />
         <mark key="]" line="42" column="10" />
@@ -442,6 +454,13 @@
         <mark key="^" line="75" column="2" />
         <mark key="." line="75" column="2" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/middlewares.py" timestamp="1575103973248">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/flask-demo/k8s.yaml" timestamp="1564642665799">
         <mark key="'" line="75" column="16" />
         <mark key="[" line="36" column="38" />
@@ -497,14 +516,6 @@
         <mark key="]" line="15" column="24" />
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/db.py" timestamp="1566819072733">
-        <mark key="t" line="47" column="21" />
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="7" />
-        <mark key="^" line="32" column="7" />
-        <mark key="." line="32" column="7" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/collages_sprider.py" timestamp="1565945618250">
         <mark key="[" line="72" column="20" />
@@ -644,11 +655,12 @@
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1566203917566">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="36" />
-        <mark key="^" line="14" column="14" />
-        <mark key="." line="14" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" timestamp="1575104021445">
+        <mark key="'" line="260" column="42" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="18" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/README.md" timestamp="1566443375627">
         <mark key="'" line="23" column="16" />
@@ -671,12 +683,24 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/pipelines.py" timestamp="1566215327633">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/pipelines.py" timestamp="1575103283912">
         <mark key="'" line="170" column="30" />
-        <mark key="[" line="155" column="25" />
+        <mark key="[" line="133" column="0" />
         <mark key="]" line="17" column="14" />
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/requirements.txt" timestamp="1575103004898">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575103258835">
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="41" column="47" />
+        <mark key="^" line="41" column="47" />
+        <mark key="." line="41" column="47" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/not_tested/k8s_bad.yaml" timestamp="1564661698165">
         <mark key="[" line="50" column="31" />
@@ -947,6 +971,13 @@
         <mark key="]" line="28" column="37" />
         <mark key="^" line="28" column="37" />
         <mark key="." line="28" column="37" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/settings.py" timestamp="1575104223793">
+        <mark key="'" line="95" column="108" />
+        <mark key="[" line="101" column="1" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/heartBeat/setup.py" timestamp="1558938300811">
         <mark key="[" line="23" column="30" />
@@ -1321,6 +1352,13 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/pipelines.py" timestamp="1575103357303">
+        <mark key="'" line="21" column="35" />
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="37" />
+        <mark key="^" line="24" column="37" />
+        <mark key="." line="24" column="37" />
+      </file>
       <file name="/usr/local/bin/a.py" timestamp="1559413088595">
         <mark key="'" line="7" column="12" />
         <mark key="[" line="10" column="29" />
@@ -1341,12 +1379,12 @@
         <mark key="^" line="26" column="149" />
         <mark key="." line="26" column="149" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" timestamp="1566186961342">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/settings.py" timestamp="1575104204930">
         <mark key="'" line="197" column="4" />
-        <mark key="[" line="159" column="44" />
-        <mark key="]" line="131" column="55" />
-        <mark key="^" line="131" column="55" />
-        <mark key="." line="131" column="55" />
+        <mark key="[" line="72" column="1" />
+        <mark key="]" line="160" column="60" />
+        <mark key="^" line="159" column="2" />
+        <mark key="." line="159" column="2" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/ribao/k8s.yaml" timestamp="1564651519059">
         <mark key="'" line="0" column="0" />
@@ -1355,8 +1393,8 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_tiku_haitou.sh" timestamp="1565924463020">
-        <mark key="[" line="1" column="57" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/start_tiku_haitou.sh" timestamp="1575102798799">
+        <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -1404,6 +1442,12 @@
         <mark key="]" line="7" column="17" />
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/start_maoyan.py" timestamp="1575102866315">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="42" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/tests/test_skeleton.py" timestamp="1539417828586">
         <mark key="[" line="4" column="19" />
@@ -1509,16 +1553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/data_trans.py" />
-      <jump line="66" column="18" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
-      <jump line="70" column="29" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
-      <jump line="9" column="26" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/search_list_res.json" />
-      <jump line="49" column="21" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/db.py" />
-      <jump line="1" column="10" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/db.py" />
-      <jump line="200" column="16" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="17" column="40" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="10" column="15" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/requirements.txt" />
       <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
@@ -1609,46 +1643,56 @@
       <jump line="16" column="16" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/config.py" />
       <jump line="11" column="34" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
       <jump line="29" column="52" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/mitm_addons.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/pipelines.py" />
+      <jump line="17" column="35" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/pipelines.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/middlewares.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/middlewares.py" />
+      <jump line="260" column="42" filename="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/middlewares.py" />
+      <jump line="28" column="67" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/settings.py" />
+      <jump line="16" column="68" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/middlewares.py" />
+      <jump line="162" column="27" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/middlewares.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/middlewares.py" />
+      <jump line="95" column="108" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhX3RvX3NldCkK</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkudXRpbHMuam9iIGltcG9ydCBqb2JfZGlyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>crawl_jd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHdhaXRGb3IoeHBhdGgpOgogICAgd2FpdC51bnRpbChFQy5lbGVtZW50X3RvX2JlX2NsaWNrYWJsZSgoQnkuWFBBVEgsIHhwYXRoKSkpCg==</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkudXRpbHMuam9iIGltcG9ydCBqb2JfZGlyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhX3RvX3NldCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhX3RvX3NldCA9IHsnZGF0YSc6IGRhdGEsICdwcm9kdWN0SWQnOiBwcm9kdWN0X2lkLCAidGltZXN0YW1wIjogaW50KHRpbWUudGltZSgpICogMTAwMCl9Cg==</text>
+        <text encoding="base64">ICAgICdjcmF3bF9qZC5taWRkbGV3YXJlcy5SZXR1cm5Qcm94eU1pZGRsZXdhcmUnOiA5MDIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEpCg==</text>
+        <text encoding="base64">ICAgICdjcmF3bF9qZC5taWRkbGV3YXJlcy5EZWxldGVQcm94eU1pZGRsZXdhcmUnOiA1NTEsCiAgICAnY3Jhd2xfamQubWlkZGxld2FyZXMuUHJveHlNaWRkbGV3YXJlJzogMTI1LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdhaXRGb3JJZCgpCg==</text>
+        <text encoding="base64">Uk9CT1RTVFhUX09CRVkgPSBUcnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJ5LmlkZAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhX3RvX3NldCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICMgVE9ETzog5pWw5o2u5aSE55CG77yMIOWtmOWIsHJlZGlzCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhX3RvX3NldCA9IHsnZGF0YSc6IGRhdGEsICdwcm9kdWN0SWQnOiBwcm9kdWN0X2lkLCAidGltZXN0YW1wIjogaW50KHRpbWUudGltZSgpICogMTAwMCl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VklFV19PUkRFUl9URVhUVklFVyA9ICIvaGllcmFyY2h5L2FuZHJvaWQud2lkZ2V0LkZyYW1lTGF5b3V0L2FuZHJvaWQud2lkZ2V0LkxpbmVhckxheW91dC9hbmRyb2lkLndpZGdldC5GcmFtZUxheW91dC9hbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXQvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXQvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXQvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXRbMV0vYW5kcm9pZC5zdXBwb3J0LnY0LndpZGdldC5EcmF3ZXJMYXlvdXQvYW5kcm9pZC53aWRnZXQuUmVsYXRpdmVMYXlvdXQvYW5kcm9pZC52aWV3LlZpZXdHcm91cC9hbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlJlY3ljbGVyVmlldy9hbmRyb2lkLndpZGdldC5GcmFtZUxheW91dC9hbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXQvYW5kcm9pZC53aWRnZXQuTGluZWFyTGF5b3V0WzRdL2FuZHJvaWQud2lkZ2V0LlJlbGF0aXZlTGF5b3V0L2FuZHJvaWQud2lkZ2V0LlRleHRWaWV3WzJdIgo=</text>
+        <text encoding="base64">ICAgIHdhaXRGb3JJZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VklFV19PUkRFUl9URVhUVklFVyA9ICIvaGllcmFyY2h5L2FuZHJvaWQud2lkZ2V0LkZyYW1lTGF5b3V0L2FuZHJvaWQud2lkZ2V0LkxpbmVhckxheW91dC9hbmRyb2lkLndpZGdldC5GcmFtZUxheW91dC9hbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXQvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXQvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXQvYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXRbMV0vYW5kcm9pZC5zdXBwb3J0LnY0LndpZGdldC5EcmF3ZXJMYXlvdXQvYW5kcm9pZC53aWRnZXQuUmVsYXRpdmVMYXlvdXQvYW5kcm9pZC52aWV3LlZpZXdHcm91cC9hbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlJlY3ljbGVyVmlldy9hbmRyb2lkLndpZGdldC5GcmFtZUxheW91dC9hbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXQvYW5kcm9pZC53aWRnZXQuTGluZWFyTGF5b3V0WzRdL2FuZHJvaWQud2lkZ2V0LlJlbGF0aXZlTGF5b3V0L2FuZHJvaWQud2lkZ2V0LlRleHRWaWV3WzJdIgo=</text>
+        <text encoding="base64">ICAgIEJ5LmlkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
