@@ -696,11 +696,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575255012453">
-        <mark key="[" line="30" column="88" />
-        <mark key="]" line="30" column="87" />
-        <mark key="^" line="30" column="87" />
-        <mark key="." line="30" column="87" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575255871731">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/not_tested/k8s_bad.yaml" timestamp="1564661698165">
         <mark key="[" line="50" column="31" />
@@ -1017,9 +1017,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/post_process.py" timestamp="1565689875679">
-        <mark key="[" line="196" column="27" />
-        <mark key="]" line="196" column="26" />
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/post_process.py" timestamp="1575255092648">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="102" />
         <mark key="^" line="196" column="26" />
         <mark key="." line="196" column="26" />
       </file>
@@ -1655,44 +1655,44 @@
       <jump line="95" column="108" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">J2h0dHA6Ly9hcGkuaGFpdG91LmNjL2JzenQvbGlzdCcgKyBcCiAgICAgICAgICAgICAgJz9jbGllbnQ9bSZwYWdlPTEmc291cmNlPWJzenQmc3VidHlwZT0mdHlwZT17fScuZm9ybWF0KAogICAgICAgICAgICAgICAgICB0eXBl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdCh1cmw9dXJsLCBjYWxsYmFjaz1zZWxmLnBhcnNlX21vdmllX2xpc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG9udF9maWx0ZXI9VHJ1ZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>haitouwang</text>
+        <text>oeefset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkudXRpbHMuam9iIGltcG9ydCBqb2JfZGlyCg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdCh1cmw9dXJsLCBjYWxsYmFjaz1zZWxmLnBhcnNlX21vdmllX2xpc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG9udF9maWx0ZXI9VHJ1ZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">J2h0dHA6Ly9hcGkuaGFpdG91LmNjL2JzenQvbGlzdCcgKyBcCiAgICAgICAgICAgICAgJz9jbGllbnQ9bSZwYWdlPTEmc291cmNlPWJzenQmc3VidHlwZT0mdHlwZT17fScuZm9ybWF0KAogICAgICAgICAgICAgICAgICB0eXBl</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBuZXh0X3VybCA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdHlwZSBpbiByYW5nZSgxLCAxNSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBqc29uX2RhdGFbJ2RhdGEnXQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICdjcmF3bF9qZC5taWRkbGV3YXJlcy5SZXR1cm5Qcm94eU1pZGRsZXdhcmUnOiA5MDIsCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">J2h0dHA6Ly9hcGkuaGFpdG91LmNjL2JzenQvbGlzdCcgKyBcCiAgICAgICAgICAgICAgJz9jbGllbnQ9bSZwYWdlPTEmc291cmNlPWJzenQmc3VidHlwZT0mdHlwZT17fScuZm9ybWF0KAogICAgICAgICAgICAgICAgICB0eXBl</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdjcmF3bF9qZC5taWRkbGV3YXJlcy5EZWxldGVQcm94eU1pZGRsZXdhcmUnOiA1NTEsCiAgICAnY3Jhd2xfamQubWlkZGxld2FyZXMuUHJveHlNaWRkbGV3YXJlJzogMTI1LAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdHlwZSBpbiByYW5nZSgxLCAxNSk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Uk9CT1RTVFhUX09CRVkgPSBUcnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhX3RvX3NldCkK</text>
+        <text encoding="base64">ICAgICdjcmF3bF9qZC5taWRkbGV3YXJlcy5SZXR1cm5Qcm94eU1pZGRsZXdhcmUnOiA5MDIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhX3RvX3NldCA9IHsnZGF0YSc6IGRhdGEsICdwcm9kdWN0SWQnOiBwcm9kdWN0X2lkLCAidGltZXN0YW1wIjogaW50KHRpbWUudGltZSgpICogMTAwMCl9Cg==</text>
+        <text encoding="base64">ICAgICdjcmF3bF9qZC5taWRkbGV3YXJlcy5EZWxldGVQcm94eU1pZGRsZXdhcmUnOiA1NTEsCiAgICAnY3Jhd2xfamQubWlkZGxld2FyZXMuUHJveHlNaWRkbGV3YXJlJzogMTI1LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEpCg==</text>
+        <text encoding="base64">Uk9CT1RTVFhUX09CRVkgPSBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
