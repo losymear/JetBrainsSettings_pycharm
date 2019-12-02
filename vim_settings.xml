@@ -696,12 +696,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575271912266">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575275163459">
         <mark key="'" line="138" column="50" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="144" column="0" />
+        <mark key="[" line="126" column="24" />
+        <mark key="]" line="126" column="23" />
+        <mark key="." line="126" column="23" />
+        <mark key="^" line="126" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/not_tested/k8s_bad.yaml" timestamp="1564661698165">
         <mark key="[" line="50" column="31" />
@@ -1090,8 +1090,12 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/README.md" timestamp="1575272164151">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/README.md" timestamp="1575275010766">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/python-cookbook/src/9/capturing_class_attribute_definition_order/example1.py" timestamp="1562124152651">
         <mark key="[" line="45" column="13" />
@@ -1253,12 +1257,12 @@
         <mark key="^" line="42" column="21" />
         <mark key="." line="42" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" timestamp="1575272160047">
-        <mark key="'" line="88" column="22" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="17" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" timestamp="1575275147455">
+        <mark key="'" line="71" column="56" />
+        <mark key="[" line="77" column="15" />
+        <mark key="]" line="77" column="14" />
+        <mark key="." line="77" column="14" />
+        <mark key="^" line="77" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/README.md" timestamp="1562915256734">
         <mark key="'" line="5" column="45" />
@@ -1363,12 +1367,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/pipelines.py" timestamp="1575271982712">
-        <mark key="'" line="22" column="35" />
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="4" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="6" column="4" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/pipelines.py" timestamp="1575274311633">
+        <mark key="'" line="23" column="35" />
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="23" />
+        <mark key="^" line="39" column="23" />
+        <mark key="." line="39" column="23" />
       </file>
       <file name="/usr/local/bin/a.py" timestamp="1559413088595">
         <mark key="'" line="7" column="12" />
@@ -1383,7 +1387,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/config.py" timestamp="1575272053909">
+      <file name="$USER_HOME$/etc/losFiles/projects/AI/tiku_spider/src/tiku_spider/config.py" timestamp="1575273443723">
         <mark key="'" line="2" column="22" />
         <mark key="[" line="11" column="9" />
         <mark key="]" line="26" column="149" />
@@ -1564,12 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="25" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
-      <jump line="30" column="4" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
-      <jump line="32" column="54" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
-      <jump line="57" column="19" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
       <jump line="52" column="7" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
       <jump line="7" column="28" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
       <jump line="152" column="25" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
@@ -1664,46 +1662,53 @@
       <jump line="52" column="24" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" />
       <jump line="138" column="50" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" />
       <jump line="82" column="22" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" />
+      <jump line="9" column="17" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" />
+      <jump line="8" column="19" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/README.md" />
+      <jump line="51" column="15" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" />
+      <jump line="74" column="31" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" />
+      <jump line="71" column="56" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>config.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>config.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgICAgIGYgPSBmdXJsKHJlc3BvbnNlLnVybCkK</text>
+        <text encoding="base64">ICAgIHRvdGFsU2VhdCA9IGl0ZW1bJ3RvdGFsU2VhdCddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGJfY29uZmlnID0gewpNWVNRTF9VU0VSID0gJ3Jvb3QnCk1ZU1FMX1BBU1MgPSAndGVzdCcKTVlTUUxfSE9TVCA9ICdsb2NhbGhvc3QnCk1ZU1FMX1BPUlQgPSAnMzMwOScKTVlTUUxfREIgPSAndGlrdScKfQo=</text>
+        <text encoding="base64">ICAgICMgIGNpbmVtYUlkLCBtb3ZpZURhdGUsIG1vdmllVGltZSwgbW92aWVOYW1lLCBtb3ZpZVByaWNlLCBtb3ZpZUlkLCB0b3RhbFNlYXQsIGNob3NlblNlYXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiLmlbDmja7lhaXlupMiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3RhbFNlYXQgKz0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZiA9IGZ1cmwocmVzcG9uc2UudXJsKQo=</text>
+        <text encoding="base64">ICAgICIiIuWtmOaUvueMq+ecvOaVsOaNriIiIgogICAgY29ubiA9IGdldF9jb25uZWN0aW9uKCdjaW5lbWEnKQogICAgY3Vyc29yID0gY29ubi5jdXJzb3IoKQogICAgdHJ5OgogICAgICAgIHF1ZXJ5ID0gIlJFUExBQ0UgaW50byBtYW95YW5fc2VhdCAoc2VxTm8sIGNpbmVtYU5hbWUsIGNpbmVtYUlkLG1vdmllRGF0ZSxtb3ZpZVRpbWUsIG1vdmllTmFtZSxtb3ZpZVByaWNlLG1vdmllSWQsIHRvdGFsU2VhdCwgY2hvc2VuU2VhdCApIHZhbHVlcyAoJXMsJXMsJXMsJXMsJXMsJXMsICVzLCVzLCVzLCVzKSIKICAgICAgICBjdXJzb3IuZXhlY3V0ZShxdWVyeSwgKHNlcU5vLCBjaW5lbWFOYW1lLCBjaW5lbWFJZCwgbW92aWVEYXRlLCBtb3ZpZVRpbWUsIG1vdmllTmFtZSwgbW92aWVQcmljZSwgbW92aWVJZCwgdG90YWxTZWF0LCBjaG9zZW5TZWF0KSkKICAgICAgICBjb25uLmNvbW1pdCgpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgbG9nZ2VyLmVycm9yKCflrZjmlL7njKvnnLzmlbDmja7lh7rplJknKQogICAgICAgIHJhaXNlIGUKICAgIGZpbmFsbHk6CiAgICAgICAgY29ubi5jbG9zZSgpCiAgICAgICAgY3Vyc29yLmNsb3NlKCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChzZWF0KQo=</text>
+      <register name="5" type="4">
+        <text>seqNo: str, cinemaName: str, cinemaId: int, movieDate: str, movieTime: str, movieName: str, moviePrice, movieId: int, totalSeat: int,
+                chosenSeat</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlYXRSb3cpCg==</text>
+        <text encoding="base64">Zgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi55S15b2x6ZmiICVzLCDnlLXlvbEgJXMiLCBjaW5lbWFEYXRhWydubSddLCBtb3ZpZUluZm9bJ21vdmllTmFtZSddKQo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgIFRPRE86IOWFpeW6kwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgICMgVE9ETyBqc29uX2RhdGHph4zmnInlhbblroPmnInnlKjlrZfmrrXopoHlpITnkIYK</text>
+        <text encoding="base64">IyBkZWYgc2F2ZV9tYW95YW8oc2VxTm86IHN0ciwgY2luZW1hTmFtZTogc3RyLCBjaW5lbWFJZDogaW50LCBtb3ZpZURhdGU6IHN0ciwgbW92aWVUaW1lOiBzdHIsIG1vdmllTmFtZTogc3RyLCBtb3ZpZVByaWNlLCBtb3ZpZUlkOiBpbnQsIHRvdGFsU2VhdDogaW50LCBjaG9zZW5TZWF0KToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbERhdGEgPSB7J2NpbmVtYU5hbWUnOiBjaW5lbWFEYXRhWydubSddLCAnY2luZW1hSWQnOiBjaW5lbWFJZCwgJ21vdmllRGF0ZSc6IG1vdmllSW5mb1snbW92aWVEYXRlJ10sCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
