@@ -696,7 +696,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575103258835">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575254510342">
         <mark key="[" line="41" column="48" />
         <mark key="]" line="41" column="47" />
         <mark key="^" line="41" column="47" />
@@ -1352,12 +1352,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/pipelines.py" timestamp="1575103357303">
-        <mark key="'" line="21" column="35" />
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="37" />
-        <mark key="^" line="24" column="37" />
-        <mark key="." line="24" column="37" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/pipelines.py" timestamp="1575254548472">
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="31" column="53" />
+        <mark key="]" line="31" column="52" />
+        <mark key="^" line="31" column="52" />
+        <mark key="." line="31" column="52" />
       </file>
       <file name="/usr/local/bin/a.py" timestamp="1559413088595">
         <mark key="'" line="7" column="12" />
@@ -1655,11 +1655,11 @@
       <jump line="95" column="108" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkudXRpbHMuam9iIGltcG9ydCBqb2JfZGlyCg==</text>
+      <register name="&quot;" type="4">
+        <text>haitouwang</text>
       </register>
       <register name="-" type="4">
-        <text>crawl_jd</text>
+        <text>haitouwang</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
