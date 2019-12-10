@@ -701,12 +701,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575288689424">
-        <mark key="'" line="138" column="50" />
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="44" column="28" />
-        <mark key="." line="44" column="28" />
-        <mark key="^" line="44" column="28" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575966445531">
+        <mark key="'" line="104" column="47" />
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+        <mark key="." line="43" column="38" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/not_tested/k8s_bad.yaml" timestamp="1564661698165">
         <mark key="[" line="50" column="31" />
@@ -1274,12 +1274,12 @@
         <mark key="^" line="42" column="21" />
         <mark key="." line="42" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" timestamp="1575276603088">
-        <mark key="'" line="71" column="56" />
-        <mark key="[" line="93" column="66" />
-        <mark key="]" line="93" column="65" />
-        <mark key="." line="93" column="65" />
-        <mark key="^" line="93" column="65" />
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" timestamp="1575966347764">
+        <mark key="'" line="60" column="30" />
+        <mark key="[" line="61" column="107" />
+        <mark key="]" line="61" column="107" />
+        <mark key="." line="61" column="107" />
+        <mark key="^" line="61" column="107" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/yunxin-transcode/README.md" timestamp="1562915256734">
         <mark key="'" line="5" column="45" />
@@ -1585,8 +1585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="15" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
-      <jump line="78" column="25" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="52" column="7" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="136" column="6" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="75" column="15" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
@@ -1685,46 +1683,48 @@
       <jump line="14" column="37" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/pipelines.py" />
       <jump line="19" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/pipelines.py" />
       <jump line="65" column="18" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/pipelines.py" />
+      <jump line="60" column="30" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/db.py" />
+      <jump line="104" column="47" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm91dGRpciA9IFBhdGgob3V0ZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaW5lbWFJZCA9IHJlc3BvbnNlLm1ldGFbJ2NpbmVtYUlkJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>save_maoyao_item</text>
+        <text>movieId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRvdGFsU2VhdCA9IGl0ZW1bJ3RvdGFsU2VhdCddCg==</text>
+        <text encoding="base64">ICAgIG1vdmllSWQgPSBpdGVtWydtb3ZpZUlkJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm91dGRpciA9IFBhdGgob3V0ZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaW5lbWFJZCA9IHJlc3BvbnNlLm1ldGFbJ2NpbmVtYUlkJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRkaXIgPSAnL291dHB1dC9jcmF3bC9tYW95YW5fY2luZW1hJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb3ZpZUluZm8gPSByZXNwb25zZS5tZXRhWydtb3ZpZUluZm8nXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxhZ2UgPSBvcGVuKHN0cihzZWxmLm91dGRpciAvICJtYW95YW4uamwiKSwgJ2EnLCBlbmNvZGluZz0ndXRmLTgnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb3ZpZVRpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRkaXIgPSAnL291dHB1dC9jcmF3bC9tYW95YW4nCiAgICAgICAgc2VsZi5vdXRkaXIgPSBQYXRoKG91dGRpcikKICAgICAgICBzZWxmLmNvbGxhZ2UgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIHRvdGFsU2VhdCA9IGl0ZW1bJ3RvdGFsU2VhdCddCiAgICBjaG9zZW5TZWF0ID0gaXRlbVsnY2hvc2VuU2VhdCddCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxhZ2UgPSBvcGVuKHN0cihzZWxmLm91dGRpciAvICJtYW95YW4uamwiKSwgJ2EnLCBlbmNvZGluZz0ndXRmLTgnKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdCh1cmw9c2VhdF91cmwsIGNhbGxiYWNrPXNlbGYuc2F2ZSwgaGVhZGVycz1oZWFkZXJzLCBtZXRob2Q9J1BPU1QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGE9eydtb3ZpZUluZm8nOiBtb3ZpZUluZm8sICdjaW5lbWFJZCc6IGNpbmVtYUlkfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb250X2ZpbHRlcj1UcnVlKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm91dGRpciA9IFBhdGgob3V0ZGlyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHByaW50KG9uZURheVNob3cpCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRkaXIgPSAnL291dHB1dC9jcmF3bC9tYW95YW5fY2luZW1hJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxhZ2UgPSBvcGVuKHN0cihzZWxmLm91dGRpciAvICJtYW95YW4uamwiKSwgJ2EnLCBlbmNvZGluZz0ndXRmLTgnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDIwMTkgLSAxMgo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRkaXIgPSAnL291dHB1dC9jcmF3bC9tYW95YW4nCiAgICAgICAgc2VsZi5vdXRkaXIgPSBQYXRoKG91dGRpcikKICAgICAgICBzZWxmLmNvbGxhZ2UgPSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
