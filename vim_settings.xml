@@ -701,12 +701,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575966445531">
+      <file name="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" timestamp="1575974558479">
         <mark key="'" line="104" column="47" />
-        <mark key="[" line="43" column="39" />
-        <mark key="]" line="43" column="38" />
-        <mark key="^" line="43" column="38" />
-        <mark key="." line="43" column="38" />
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="43" column="35" />
+        <mark key="^" line="43" column="35" />
+        <mark key="." line="43" column="35" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/py/aliK8sFlaskDemo/configs/elasticsearch-test/not_tested/k8s_bad.yaml" timestamp="1564661698165">
         <mark key="[" line="50" column="31" />
