@@ -312,6 +312,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/check.py" timestamp="1582185447794">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/AI/crawl_jd/crawl_jd/spiders/competition_sprider.py" timestamp="1564930317729">
         <mark key="[" line="41" column="28" />
         <mark key="]" line="37" column="27" />
@@ -1571,12 +1577,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" timestamp="1582183061268">
-        <mark key="'" line="3" column="20" />
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="14" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="29" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" timestamp="1582185240175">
+        <mark key="'" line="40" column="13" />
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="47" column="28" />
+        <mark key="^" line="47" column="28" />
+        <mark key="." line="47" column="28" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/run.sh" timestamp="1566810380604">
         <mark key="[" line="2" column="0" />
@@ -1598,10 +1604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="19" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
-      <jump line="68" column="10" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
-      <jump line="184" column="26" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
-      <jump line="50" column="10" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/runner.py" />
       <jump line="62" column="19" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
       <jump line="66" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
       <jump line="72" column="0" filename="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/appium_shoes_scrapy/du_daemon.py" />
@@ -1698,46 +1700,50 @@
       <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/README.md" />
       <jump line="123" column="30" filename="$USER_HOME$/etc/losFiles/projects/py/maoyan/maoyan/spiders/maoyan_spider.py" />
       <jump line="3" column="20" filename="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" />
+      <jump line="29" column="7" filename="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" />
+      <jump line="33" column="3" filename="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" />
+      <jump line="40" column="13" filename="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accessTokenRes</text>
+        <text>p0LbZSzw5dp3arv0zXLI74Slib_I0w7-icRijQE3jCM</text>
       </register>
       <register name="-" type="4">
-        <text>accessTokenRes</text>
+        <text>p0LbZSzw5dp3arv0zXLI74Slib_I0w7-icRijQE3jCM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhqc29uX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCLmlbDmja7ojrflj5blrozmiJAiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoYWNjZXNzVG9rZW5SZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cHM6IC8vIHF5YXBpLndlaXhpbi5xcS5jb20gLyBjZ2kgLSBiaW4gLyBnZXR0b2tlbj9jb3JwaWQgPSB3d2ZiZTA0NDBmMTg0YjZjY2EgJiBjb3Jwc2VjcmV0ID0gc3JkVlJGS1NBY19OeDMyQjlzRk1LaVdoaSAtIDQ0ClVtcnVCR1hTSnRXTUVqSQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaW5lbWFEYXRhKQo=</text>
+        <text encoding="base64">ICAgIGh0dHBzOiAvLyBxeWFwaS53ZWl4aW4ucXEuY29tIC8gY2dpIC0gYmluIC8gdXNlciAvIGxpc3Q/YWNjZXNzX3Rva2VuID0gRWx6T0hlaSAtIHAgLSBfSFFDRzJ4ZHdPR3U0RlBMQTFOWDlqM0hLNDZwMWRfYTllbGdUSFExbElSenZnT2Z5Q0RhYkllMFNuTWt2XzFZeU9UMUhKZ3JZOHE0akVwRE9qaVNteiAtIGh2YjJjZGs1WnZHSTRwSGdxUUJsSzRaS1pEMXlFT0tSRUZBY01QQTlFbjF1d2gxcV9SaWx2c01LSmVVdkdIa3RLSWprTk5qX1M0cVBkSXlOREl6OTdxIC0gUCAtIFZXIC0gY3pVaFFDcGZtRVk4WXV3d1BuTCAtIHU5NnRnICYgZGVwYXJ0bWVudF9pZCA9IDIgJiBmZXRjaF9jaGlsZCA9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSAzCg==</text>
+        <text encoding="base64">aWYgMiBpbiBkZXBhcnRtZW50SWRzOgogICAgcHJpbnQoIi7moLnpg6jpl6jmnYPpmZAiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKG9uZURheVNob3cpCg==</text>
+        <text encoding="base64">c2sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">cHJpbnQoYWNjZXNzVG9rZW4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">cHJpbnQoYWNjZXNzVG9rZW5SZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAnZm9yYmlkZGVuVGlwJyBpbiBvbmVEYXlTaG93OgogICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aHR0cHM6IC8vIHF5YXBpLndlaXhpbi5xcS5jb20gLyBjZ2kgLSBiaW4gLyBnZXR0b2tlbj9jb3JwaWQgPSB3d2ZiZTA0NDBmMTg0YjZjY2EgJiBjb3Jwc2VjcmV0ID0gc3JkVlJGS1NBY19OeDMyQjlzRk1LaVdoaSAtIDQ0ClVtcnVCR1hTSnRXTUVqSQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8ob25lRGF5U2hvd1snJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaW5lbWFEYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prices2/prices</text>
