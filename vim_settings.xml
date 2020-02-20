@@ -1571,12 +1571,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" timestamp="1582182743223">
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" timestamp="1582183061268">
         <mark key="'" line="3" column="20" />
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="16" column="8" />
-        <mark key="^" line="16" column="8" />
-        <mark key="." line="16" column="8" />
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="14" />
+        <mark key="^" line="29" column="14" />
+        <mark key="." line="29" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/run.sh" timestamp="1566810380604">
         <mark key="[" line="2" column="0" />
@@ -1700,11 +1700,11 @@
       <jump line="3" column="20" filename="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoYWNjZXNzVG9rZW5SZXMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>accessTokenRes</text>
       </register>
       <register name="-" type="4">
-        <text>appSecret</text>
+        <text>accessTokenRes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWxzZVw+</text>
