@@ -256,6 +256,12 @@
         <mark key="^" line="73" column="53" />
         <mark key="." line="73" column="53" />
       </file>
+      <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/192.5728.105/PyCharm.app.vmoptions" timestamp="1582182330995">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="18" column="70" />
+        <mark key="^" line="18" column="70" />
+        <mark key="." line="18" column="70" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/perfect/pydemos/src/demos/requests.py" timestamp="1539574024888">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1565,11 +1571,11 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" timestamp="1582181026901">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" timestamp="1582182297480">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/run.sh" timestamp="1566810380604">
         <mark key="[" line="2" column="0" />
