@@ -1565,6 +1565,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/playground/tmpscript/test.py" timestamp="1582181026901">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/sbtask/appium_shoes_scrapy/src/run.sh" timestamp="1566810380604">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="1" column="53" />
